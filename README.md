@@ -1,4 +1,7 @@
 # awesome-graph-reduction
+
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/ChandlerBang/awesome-graph-ood?color=yellow) ![Created](https://img.shields.io/badge/Created-2022--09-green.svg)
+
 Papers about graph reduction including graph coarsening, graph condensation, graph sparsification, graph summarization, etc.
 
 
