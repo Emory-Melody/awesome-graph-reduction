@@ -1,23 +1,35 @@
 # awesome-graph-reduction
 
-![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/ChandlerBang/awesome-graph-ood?color=yellow) 
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/ChandlerBang/awesome-graph-ood?color=yellow)
 
-Papers about graph reduction including graph coarsening, graph condensation, graph sparsification, graph summarization, etc.
-
+Papers about graph reduction including graph coarsening, graph condensation, graph sparsification, graph summarization, etc. We categorize them based on their published year.
 
 ### Graph Condensation / Graph Dataset Distillation
-1. Graph Condensation for Graph Neural Networks. ICLR 2022. [[pdf]](https://openreview.net/forum?id=WLEx3Jo4QaB)  [[code]](https://github.com/ChandlerBang/GCond)
-1. Condensing Graphs via One-Step Gradient Matching. KDD 2022. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539429) [[code]](https://github.com/ChandlerBang/GCond))
-1.  
+
+1. [NeurIPS 2023] Fair Graph Distillation. [[pdf]](https://openreview.net/pdf?id=xW0ayZxPWs)
+1. [NeurIPS 2023] Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data. [[pdf]](https://arxiv.org/pdf/2306.02664.pdf) [[code]](https://github.com/Amanda-Zheng/SFGC)
+1. [NeurIPS 2023] Does Graph Distillation See Like Vision Dataset Counterpart?. [[pdf]](https://openreview.net/pdf?id=VqIWgUVsXc) [[code]](https://github.com/RingBDStack/SGDD)
+1. [arXiv 2023] Fast Graph Condensation with Structure-based Neural Tangent Kernel. [[pdf]](https://arxiv.org/pdf/2310.11046.pdf) [[code]](https://github.com/Amanda-Zheng/SFGC)
+1. [ICLR 2022] Graph Condensation for Graph Neural Networks. [[pdf]](https://openreview.net/forum?id=WLEx3Jo4QaB) [[code]](https://github.com/ChandlerBang/GCond)
+1. [KDD 2022] Condensing Graphs via One-Step Gradient Matching. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539429) [[code]](https://github.com/ChandlerBang/GCond)
 
 ### Graph Coarsening
-1. Featured Graph Coarsening with Similarity Guarantees. ICML 2023. [[pdf]](http://proceedings.mlr.press/v202/kumar23a/kumar23a.pdf)
-1.
 
+1. [ICML 2023] Featured Graph Coarsening with Similarity Guarantees. [[pdf]](http://proceedings.mlr.press/v202/kumar23a/kumar23a.pdf)
+1. [KDD 2021] Scaling Up Graph Neural Networks Via Graph Coarsening. [[pdf]](https://arxiv.org/pdf/2106.05150.pdf)
+1. [ICLR 2021] Graph coarsening with neural networks. [[pdf]](https://openreview.net/pdf?id=uxpzitPEooJ)
+1. [ICLR 2020] GraphZoom: A multi-level spectral approach for accurate and scalable graph embedding. [[pdf]](https://arxiv.org/pdf/1910.02370.pdf) [[code]](https://github.com/cornell-zhang/GraphZoom)
+1. [JMLR 2019] Graph reduction with spectral and cut guarantees. [[pdf]](https://arxiv.org/pdf/1808.10650.pdf)
+1. [ICML 2018] Spectrally approximating large graphs with smaller
+   graphs. [[pdf]](https://arxiv.org/pdf/1802.07510.pdf)
 
 ### Graph Sparsification
-1. xxx
 
+1. [SIAM Journal on
+   Computing 2011] Spectral Sparsification of Graphs [[pdf]](https://epubs.siam.org/doi/abs/10.1137/08074489X)
+1. [ACM 1994] Random sampling in cut, flow, and network design problems [[pdf]](https://dl.acm.org/doi/pdf/10.1145/195058.195422)
+1. [Journal of Graph Theory 2023] Graph spanners [[pdf]](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8dafe9997fc89a0c872fa545d1f8158169697e41)
 
 ### Graph Summarization
+
 1. xxxx
