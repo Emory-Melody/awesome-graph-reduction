@@ -23,12 +23,14 @@ Papers about graph reduction including graph coarsening, graph condensation, gra
 - [JMLR 2019] Graph reduction with spectral and cut guarantees. [[pdf]](https://arxiv.org/pdf/1808.10650.pdf) [[code]](https://github.com/loukasa/graph-coarsening/tree/v1.1)
 - [ICML 2018] Spectrally approximating large graphs with smaller graphs. [[pdf]](https://arxiv.org/pdf/1802.07510.pdf)
 
-### Graph Sparsification
+### Graph Sparsification/Sampling
 
 - [Journal of Graph Theory 2023] Graph spanners [[pdf]](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8dafe9997fc89a0c872fa545d1f8158169697e41)
 - [SIAM Journal on Computing 2011] Spectral Sparsification of Graphs [[pdf]](https://epubs.siam.org/doi/abs/10.1137/08074489X)
 - [ACM 1994] Random sampling in cut, flow, and network design problems [[pdf]](https://dl.acm.org/doi/pdf/10.1145/195058.195422)
 
-### Graph Summarization
+### Survey: Graph Summarization/Simplification/Reduction/Compression
+- [TAI 2023] A Comprehensive Survey on Graph Summarization with Graph Neural Networks. [[pdf]](https://arxiv.org/abs/2302.06114)
+- [CSR 2020] Multilayer network simplification: Approaches, models and methods [[pdf]](https://arxiv.org/abs/2004.14808)
+- [ACS 2018] Graph Summarization Methods and Applications: A Survey. [[pdf]](https://arxiv.org/abs/1612.04883)
 
--
