@@ -13,23 +13,26 @@ Papers about graph reduction including graph coarsening, graph condensation, gra
 - [arXiv 2022] Graph Condensation via Receptive Field Distribution Matching. [[pdf]](https://arxiv.org/pdf/2206.13697.pdf)
 - [KDD 2022] Condensing Graphs via One-Step Gradient Matching. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539429) [[code]](https://github.com/ChandlerBang/GCond)
 - [ICLR 2022] Graph Condensation for Graph Neural Networks. [[pdf]](https://openreview.net/forum?id=WLEx3Jo4QaB) [[code]](https://github.com/ChandlerBang/GCond)
+- [KBS 2023] Multiple sparse graphs condensation. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0950705123006548)
+- [arXiv 2023] Graph Condensation via Eigenbasis Matching. [[pdf]](https://arxiv.org/abs/2310.09202)
 
 ### Graph Coarsening
 
 - [ICML 2023] Featured Graph Coarsening with Similarity Guarantees. [[pdf]](http://proceedings.mlr.press/v202/kumar23a/kumar23a.pdf)
+- [arxiv 2023] Graph Condensation for Inductive Node Representation Learning. [[pdf]]()
 - [KDD 2021] Scaling Up Graph Neural Networks Via Graph Coarsening. [[pdf]](https://arxiv.org/pdf/2106.05150.pdf)
 - [ICLR 2021] Graph coarsening with neural networks. [[pdf]](https://openreview.net/pdf?id=uxpzitPEooJ)
 - [ICLR 2020] GraphZoom: A multi-level spectral approach for accurate and scalable graph embedding. [[pdf]](https://arxiv.org/pdf/1910.02370.pdf) [[code]](https://github.com/cornell-zhang/GraphZoom)
 - [JMLR 2019] Graph reduction with spectral and cut guarantees. [[pdf]](https://arxiv.org/pdf/1808.10650.pdf) [[code]](https://github.com/loukasa/graph-coarsening/tree/v1.1)
 - [ICML 2018] Spectrally approximating large graphs with smaller graphs. [[pdf]](https://arxiv.org/pdf/1802.07510.pdf)
 
-### Graph Sparsification/Sampling
+### Graph Sparsification / Sampling
 
 - [Journal of Graph Theory 2023] Graph spanners [[pdf]](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8dafe9997fc89a0c872fa545d1f8158169697e41)
 - [SIAM Journal on Computing 2011] Spectral Sparsification of Graphs [[pdf]](https://epubs.siam.org/doi/abs/10.1137/08074489X)
 - [ACM 1994] Random sampling in cut, flow, and network design problems [[pdf]](https://dl.acm.org/doi/pdf/10.1145/195058.195422)
 
-### Survey: Graph Summarization/Simplification/Reduction/Compression
+### Survey: Graph Summarization / Simplification / Reduction
 - [TAI 2023] A Comprehensive Survey on Graph Summarization with Graph Neural Networks. [[pdf]](https://arxiv.org/abs/2302.06114)
 - [CSR 2020] Multilayer network simplification: Approaches, models and methods [[pdf]](https://arxiv.org/abs/2004.14808)
 - [ACS 2018] Graph Summarization Methods and Applications: A Survey. [[pdf]](https://arxiv.org/abs/1612.04883)
