@@ -19,8 +19,9 @@ Papers about graph reduction including graph coarsening, graph condensation, gra
 ### Graph Coarsening
 
 - [ICML 2023] Featured Graph Coarsening with Similarity Guarantees. [[pdf]](http://proceedings.mlr.press/v202/kumar23a/kumar23a.pdf)
-- [arxiv 2023] Graph Condensation for Inductive Node Representation Learning. [[pdf]]()
-- [KDD 2021] Scaling Up Graph Neural Networks Via Graph Coarsening. [[pdf]](https://arxiv.org/pdf/2106.05150.pdf)
+- [NeurIPS 2022] SizeShiftReg: a Regularization Method for Improving Size-Generalization in Graph Neural Networks. [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/ceeb3fa5be458f08fbb12a5bb783aac8-Paper-Conference.pdf) [[code]](https://github.com/DavideBuffelli/SizeShiftReg)
+- [arxiv 2023] Graph Condensation for Inductive Node Representation Learning. [[pdf]](https://arxiv.org/abs/2307.15967)
+- [KDD 2021] Scaling Up Graph Neural Networks Via Graph Coarsening. [[pdf]](https://arxiv.org/pdf/2106.05150.pdf) [[code]](https://github.com/szzhang17/Scaling-Up-Graph-Neural-Networks-Via-Graph-Coarsening)
 - [ICLR 2021] Graph coarsening with neural networks. [[pdf]](https://openreview.net/pdf?id=uxpzitPEooJ)
 - [ICLR 2020] GraphZoom: A multi-level spectral approach for accurate and scalable graph embedding. [[pdf]](https://arxiv.org/pdf/1910.02370.pdf) [[code]](https://github.com/cornell-zhang/GraphZoom)
 - [JMLR 2019] Graph reduction with spectral and cut guarantees. [[pdf]](https://arxiv.org/pdf/1808.10650.pdf) [[code]](https://github.com/loukasa/graph-coarsening/tree/v1.1)
