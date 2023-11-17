@@ -6,6 +6,7 @@ Papers about graph reduction including graph coarsening, graph condensation, gra
 
 ### Graph Condensation / Graph Dataset Distillation
 
+- [arXiv 2023] Mirage: Model-Agnostic Graph Distillation for Graph Classification. [[pdf]](https://arxiv.org/pdf/2310.09486.pdf)
 - [NeurIPS 2023] Fair Graph Distillation. [[pdf]](https://openreview.net/pdf?id=xW0ayZxPWs)
 - [NeurIPS 2023] Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data. [[pdf]](https://arxiv.org/pdf/2306.02664.pdf) [[code]](https://github.com/Amanda-Zheng/SFGC)
 - [arXiv 2023] Fast Graph Condensation with Structure-based Neural Tangent Kernel. [[pdf]](https://arxiv.org/pdf/2310.11046.pdf)
@@ -34,7 +35,7 @@ Papers about graph reduction including graph coarsening, graph condensation, gra
 - [ACM 1994] Random sampling in cut, flow, and network design problems [[pdf]](https://dl.acm.org/doi/pdf/10.1145/195058.195422)
 
 ### Survey: Graph Summarization / Simplification / Reduction
+
 - [TAI 2023] A Comprehensive Survey on Graph Summarization with Graph Neural Networks. [[pdf]](https://arxiv.org/abs/2302.06114)
 - [CSR 2020] Multilayer network simplification: Approaches, models and methods [[pdf]](https://arxiv.org/abs/2004.14808)
 - [ACS 2018] Graph Summarization Methods and Applications: A Survey. [[pdf]](https://arxiv.org/abs/1612.04883)
-
