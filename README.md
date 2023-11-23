@@ -6,7 +6,6 @@ Papers about graph reduction including graph coarsening, graph condensation, gra
 
 ### Graph Condensation / Graph Dataset Distillation
 
-- [arXiv 2023] Does Graph Distillation See Like Vision Dataset Counterpart? [[pdf]](https://arxiv.org/pdf/2310.09192) [[code]](https://github.com/RingBDStack/SGDD)
 - [Applied Sciences 2023] GCARe: Mitigating Subgroup Unfairness in Graph Condensation through Adversarial Regularization. [[pdf]](https://www.mdpi.com/2076-3417/13/16/9166)
 - [KDD 2023] Kernel Ridge Regression-Based Graph Dataset Distillation. [[pdf]](https://www.mdpi.com/2076-3417/13/16/9166)
 - [arXiv 2023] Graph Condensation for Inductive Node Representation Learning. [[pdf]](https://arxiv.org/pdf/2307.15967)
@@ -17,6 +16,7 @@ Papers about graph reduction including graph coarsening, graph condensation, gra
 - [NeurIPS 2023] Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data. [[pdf]](https://arxiv.org/pdf/2306.02664.pdf) [[code]](https://github.com/Amanda-Zheng/SFGC)
 - [arXiv 2023] Fast Graph Condensation with Structure-based Neural Tangent Kernel. [[pdf]](https://arxiv.org/pdf/2310.11046.pdf)
 - [NeurIPS 2023] Does Graph Distillation See Like Vision Dataset Counterpart? [[pdf]](https://openreview.net/pdf?id=VqIWgUVsXc) [[code]](https://github.com/RingBDStack/SGDD)
+- [ICLR 2023] Faster Hyperparameter Search for GNNs via Calibrated Dataset Condensation. [[pdf]](https://openreview.net/pdf?id=ohQPU2G3r3C)
 - [arXiv 2022] Graph Condensation via Receptive Field Distribution Matching. [[pdf]](https://arxiv.org/pdf/2206.13697.pdf)
 - [KDD 2022] Condensing Graphs via One-Step Gradient Matching. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539429) [[code]](https://github.com/ChandlerBang/GCond)
 - [ICLR 2022] Graph Condensation for Graph Neural Networks. [[pdf]](https://openreview.net/forum?id=WLEx3Jo4QaB) [[code]](https://github.com/ChandlerBang/GCond)
