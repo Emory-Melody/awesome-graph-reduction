@@ -6,6 +6,10 @@ Papers about graph reduction including graph coarsening, graph condensation, gra
 
 ### Graph Condensation / Graph Dataset Distillation
 
+- [arXiv 2023] Does Graph Distillation See Like Vision Dataset Counterpart? [[pdf]](https://arxiv.org/pdf/2310.09192) [[code]](https://github.com/RingBDStack/SGDD)
+- [Applied Sciences 2023] GCARe: Mitigating Subgroup Unfairness in Graph Condensation through Adversarial Regularization. [[pdf]](https://www.mdpi.com/2076-3417/13/16/9166)
+- [KDD 2023] Kernel Ridge Regression-Based Graph Dataset Distillation. [[pdf]](https://www.mdpi.com/2076-3417/13/16/9166)
+- [arXiv 2023] Graph Condensation for Inductive Node Representation Learning. [[pdf]](https://arxiv.org/pdf/2307.15967)
 - [arXiv 2023] Mirage: Model-Agnostic Graph Distillation for Graph Classification. [[pdf]](https://arxiv.org/pdf/2310.09486.pdf)
 - [arXiv 2023] Graph Condensation via Eigenbasis Matching. [[pdf]](https://arxiv.org/abs/2310.09202)
 - [NeurIPS 2023] Fair Graph Distillation. [[pdf]](https://openreview.net/pdf?id=xW0ayZxPWs)
