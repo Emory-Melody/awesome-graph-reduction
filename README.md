@@ -50,6 +50,8 @@ Papers about graph reduction including graph coarsening, graph condensation, gra
 
 - [CSR 2020] Multilayer network simplification: Approaches, models and methods [[pdf]](https://arxiv.org/abs/2004.14808)
 - [ACS 2018] Graph Summarization Methods and Applications: A Survey. [[pdf]](https://arxiv.org/abs/1612.04883)
----
+### Toolkits
+- Mongoose: [[pdf]](https://people.clas.ufl.edu/hager/files/mongoose.pdf)
+### Candidates
 - [TAI 2023] A Comprehensive Survey on Graph Summarization with Graph Neural Networks. [[pdf]](https://arxiv.org/abs/2302.06114)
 
