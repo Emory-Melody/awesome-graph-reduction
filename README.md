@@ -5,7 +5,7 @@
 Papers about graph reduction including graph coarsening, graph condensation, graph sparsification, graph summarization, etc. We categorize them based on their published year.
 
 ## Graph Condensation / Graph Dataset Distillation
-- [ICDM 2023] CaT: Balanced Continual Graph Learning with Graph Condensation. [[pdf]](https://arxiv.org/pdf/2309.09455.pdf)[[code]](https://github.com/superallen13/CaT-CGL)
+- [ICDM 2023] CaT: Balanced Continual Graph Learning with Graph Condensation. [[pdf]](https://arxiv.org/pdf/2309.09455.pdf) [[code]](https://github.com/superallen13/CaT-CGL)
 - [KDD 2023] Kernel Ridge Regression-Based Graph Dataset Distillation. [[pdf]](https://www.mdpi.com/2076-3417/13/16/9166)
 - [KBS 2023] Multiple sparse graphs condensation. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0950705123006548)
 - [NeurIPS 2023] Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data. [[pdf]](https://arxiv.org/pdf/2306.02664.pdf) [[code]](https://github.com/Amanda-Zheng/SFGC)
