@@ -6,7 +6,7 @@ Papers about graph reduction including graph coarsening, graph condensation, gra
 
 ## Graph Condensation / Graph Dataset Distillation
 
-- [ICDM 2023] CaT: Balanced Continual Graph Learning with Graph Condensation. [[pdf]](https://arxiv.org/pdf/2309.09455.pdf) [[code]](https://github.com/superallen13/CaT-CGL)
+
 - [KDD 2023] Kernel Ridge Regression-Based Graph Dataset Distillation. [[pdf]](https://dl.acm.org/doi/10.1145/3580305.3599398)
 - [KBS 2023] Multiple sparse graphs condensation. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0950705123006548)
 - [NeurIPS 2023] Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data. [[pdf]](https://arxiv.org/pdf/2306.02664.pdf) [[code]](https://github.com/Amanda-Zheng/SFGC)
@@ -14,10 +14,10 @@ Papers about graph reduction including graph coarsening, graph condensation, gra
 - [NeurIPS 2023] Does Graph Distillation See Like Vision Dataset Counterpart? [[pdf]](https://openreview.net/pdf?id=VqIWgUVsXc) [[code]](https://github.com/RingBDStack/SGDD)
 - [KDD 2022] Condensing Graphs via One-Step Gradient Matching. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539429) [[code]](https://github.com/ChandlerBang/GCond)
 - [ICLR 2022] Graph Condensation for Graph Neural Networks. [[pdf]](https://openreview.net/forum?id=WLEx3Jo4QaB) [[code]](https://github.com/ChandlerBang/GCond)
+- [NeurIPS 2023] Fair Graph Distillation. [[pdf]](https://openreview.net/pdf?id=xW0ayZxPWs)
 
 ### Applications
-
-- [NeurIPS 2023] Fair Graph Distillation. [[pdf]](https://openreview.net/pdf?id=xW0ayZxPWs)
+- [ICDM 2023] CaT: Balanced Continual Graph Learning with Graph Condensation. [[pdf]](https://arxiv.org/pdf/2309.09455.pdf) [[code]](https://github.com/superallen13/CaT-CGL)
 - [arXiv 2023] FedGKD: Unleashing the Power of Collaboration in Federated Graph Neural Networks. [[pdf]](https://arxiv.org/pdf/2309.09517.pdf)
 
 ---
