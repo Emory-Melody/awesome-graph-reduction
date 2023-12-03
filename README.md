@@ -6,7 +6,7 @@ Papers about graph reduction including graph coarsening, graph condensation, gra
 
 ## Graph Condensation / Graph Dataset Distillation
 
-
+- [ICLR 2023] Serving Graph Compression for Graph Neural Networks. [[pdf]](https://openreview.net/pdf?id=T-qVtA3pAxG)
 - [KDD 2023] Kernel Ridge Regression-Based Graph Dataset Distillation. [[pdf]](https://dl.acm.org/doi/10.1145/3580305.3599398)
 - [KBS 2023] Multiple sparse graphs condensation. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0950705123006548)
 - [NeurIPS 2023] Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data. [[pdf]](https://arxiv.org/pdf/2306.02664.pdf) [[code]](https://github.com/Amanda-Zheng/SFGC)
