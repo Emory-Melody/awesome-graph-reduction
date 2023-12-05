@@ -2,35 +2,39 @@
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/ChandlerBang/awesome-graph-reduction?color=yellow)
 
-Papers about graph reduction including graph coarsening, graph condensation, graph sparsification, graph summarization, etc. We categorize them based on their published year.
+Papers about graph reduction including graph condensation, graph coarsening, graph sparsification, graph summarization, etc. 
+
+
+
 
 ## Graph Condensation / Graph Dataset Distillation
-
-- [ICLR 2023] Serving Graph Compression for Graph Neural Networks. [[pdf]](https://openreview.net/pdf?id=T-qVtA3pAxG)
-- [KDD 2023] Kernel Ridge Regression-Based Graph Dataset Distillation. [[pdf]](https://dl.acm.org/doi/10.1145/3580305.3599398)
-- [KBS 2023] Multiple sparse graphs condensation. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0950705123006548)
-- [NeurIPS 2023] Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data. [[pdf]](https://arxiv.org/pdf/2306.02664.pdf) [[code]](https://github.com/Amanda-Zheng/SFGC)
-- [arXiv 2023] Fast Graph Condensation with Structure-based Neural Tangent Kernel. [[pdf]](https://arxiv.org/pdf/2310.11046.pdf)
-- [NeurIPS 2023] Does Graph Distillation See Like Vision Dataset Counterpart? [[pdf]](https://openreview.net/pdf?id=VqIWgUVsXc) [[code]](https://github.com/RingBDStack/SGDD)
-- [KDD 2022] Condensing Graphs via One-Step Gradient Matching. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539429) [[code]](https://github.com/ChandlerBang/GCond)
-- [ICLR 2022] Graph Condensation for Graph Neural Networks. [[pdf]](https://openreview.net/forum?id=WLEx3Jo4QaB) [[code]](https://github.com/ChandlerBang/GCond)
-- [NeurIPS 2023] Fair Graph Distillation. [[pdf]](https://openreview.net/pdf?id=xW0ayZxPWs)
-
-### Applications
-- [ICDM 2023] CaT: Balanced Continual Graph Learning with Graph Condensation. [[pdf]](https://arxiv.org/pdf/2309.09455.pdf) [[code]](https://github.com/superallen13/CaT-CGL)
-- [arXiv 2023] FedGKD: Unleashing the Power of Collaboration in Federated Graph Neural Networks. [[pdf]](https://arxiv.org/pdf/2309.09517.pdf)
-
----
-
-- [Applied Sciences 2023] GCARe: Mitigating Subgroup Unfairness in Graph Condensation through Adversarial Regularization. [[pdf]](https://www.mdpi.com/2076-3417/13/16/9166)
 - [arXiv 2023] Graph Condensation for Inductive Node Representation Learning. [[pdf]](https://arxiv.org/pdf/2307.15967)
 - [arXiv 2023] Mirage: Model-Agnostic Graph Distillation for Graph Classification. [[pdf]](https://arxiv.org/pdf/2310.09486.pdf)
 - [arXiv 2023] Graph Condensation via Eigenbasis Matching. [[pdf]](https://arxiv.org/abs/2310.09202)
 - [arXiv 2023] Faster Hyperparameter Search for GNNs via Calibrated Dataset Condensation. [[pdf]](https://openreview.net/pdf?id=ohQPU2G3r3C)
 - [arXiv 2022] Graph Condensation via Receptive Field Distribution Matching. [[pdf]](https://arxiv.org/pdf/2206.13697.pdf)
+- [arXiv 2023] FedGKD: Unleashing the Power of Collaboration in Federated Graph Neural Networks. [[pdf]](https://arxiv.org/pdf/2309.09517.pdf)
+- [arXiv 2023] Fast Graph Condensation with Structure-based Neural Tangent Kernel. [[pdf]](https://arxiv.org/pdf/2310.11046.pdf)
+- [Applied Sciences 2023] GCARe: Mitigating Subgroup Unfairness in Graph Condensation through Adversarial Regularization. [[pdf]](https://www.mdpi.com/2076-3417/13/16/9166)
+- [NeurIPS 2023] Fair Graph Distillation. [[pdf]](https://openreview.net/pdf?id=xW0ayZxPWs)
+- [NeurIPS 2023] Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data. [[pdf]](https://arxiv.org/pdf/2306.02664.pdf) [[code]](https://github.com/Amanda-Zheng/SFGC)
+- [NeurIPS 2023] Does Graph Distillation See Like Vision Dataset Counterpart? [[pdf]](https://openreview.net/pdf?id=VqIWgUVsXc) [[code]](https://github.com/RingBDStack/SGDD)
+- [ICDM 2023] CaT: Balanced Continual Graph Learning with Graph Condensation. [[pdf]](https://arxiv.org/pdf/2309.09455.pdf) [[code]](https://github.com/superallen13/CaT-CGL)
+- [ICLR 2023] Serving Graph Compression for Graph Neural Networks. [[pdf]](https://openreview.net/pdf?id=T-qVtA3pAxG)
+- [KDD 2023] Kernel Ridge Regression-Based Graph Dataset Distillation. [[pdf]](https://dl.acm.org/doi/10.1145/3580305.3599398)
+- [KBS 2023] Multiple sparse graphs condensation. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0950705123006548)
+- [KDD 2022] Condensing Graphs via One-Step Gradient Matching. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539429) [[code]](https://github.com/ChandlerBang/GCond)
+- [ICLR 2022] Graph Condensation for Graph Neural Networks. [[pdf]](https://openreview.net/forum?id=WLEx3Jo4QaB) [[code]](https://github.com/ChandlerBang/GCond)
+
+
+<!--#### Applications
+- [ICDM 2023] CaT: Balanced Continual Graph Learning with Graph Condensation. [[pdf]](https://arxiv.org/pdf/2309.09455.pdf) [[code]](https://github.com/superallen13/CaT-CGL)
+- [arXiv 2023] FedGKD: Unleashing the Power of Collaboration in Federated Graph Neural Networks. [[pdf]](https://arxiv.org/pdf/2309.09517.pdf)
+-->
+
+
 
 ## Graph Coarsening / Clustering
-
 - [ICML 2023] Featured Graph Coarsening with Similarity Guarantees. [[pdf]](http://proceedings.mlr.press/v202/kumar23a/kumar23a.pdf)
 - [JMLR 2023] A Unified Framework for Optimization-Based Graph Coarsening. [[pdf]](https://www.jmlr.org/papers/volume24/22-1085/22-1085.pdf) [[code]](https://github.com/GraphCoarsening/Featured-Graph-Coarsening)
 - [NeurIPS 2022] SizeShiftReg: a Regularization Method for Improving Size-Generalization in Graph Neural Networks. [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/ceeb3fa5be458f08fbb12a5bb783aac8-Paper-Conference.pdf) [[code]](https://github.com/DavideBuffelli/SizeShiftReg)
@@ -51,8 +55,7 @@ Papers about graph reduction including graph coarsening, graph condensation, gra
 - [ICDM 2018] NetGist: Learning to Generate Task-Based Network Summaries. [[pdf]](https://faculty.cc.gatech.edu/~badityap/papers/netgist-icdm18.pdf)
 - [WWWc 2022] Scaling R-GCN Training with Graph Summarization. [[pdf]](https://arxiv.org/pdf/2203.02622.pdf)
 
-  ### Applications
-
+### Applications
 - [IJCAI 2023] Gapformer: Graph Transformer with Graph Pooling for Node Classification. [[pdf]](https://www.ijcai.org/proceedings/2023/0244.pdf)
 - [NeurIPS 2022] Hierarchical graph transformer with adaptive node sampling. [[pdf]](https://arxiv.org/pdf/2210.03930.pdf)
 
@@ -73,7 +76,6 @@ Papers about graph reduction including graph coarsening, graph condensation, gra
 ---
 
 - [ISCA 2022] SmartSAGE: Training Large-scale Graph Neural Networks using In-Storage Processing Architectures. [[pdf]](https://arxiv.org/pdf/2205.04711.pdf)
--
 
 ### Survey: Graph Reduction/ Summarization / Simplification
 
