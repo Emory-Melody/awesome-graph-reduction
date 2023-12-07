@@ -57,6 +57,7 @@ Papers about graph reduction including graph condensation, graph coarsening, gra
 - [ICML 2020] Spectral Clustering with Graph Neural Networks for Graph Pooling. [[pdf]](https://arxiv.org/pdf/1907.00481.pdf) [[code]](https://github.com/FilippoMB/Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling)
 - [ICLR 2018] FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling. [[pdf]](https://arxiv.org/pdf/1801.10247.pdf) [[code]](https://github.com/matenure/FastGCN)
 - [ICML 2018] Stochastic Training of Graph Convolutional Networks with Variance Reduction. [[pdf]](https://arxiv.org/pdf/1710.10568.pdf) [[code]](https://github.com/thu-ml/stochastic_gcn)
+- [NeurIPS 2019] A unifying framework for spectrum-preserving graph sparsification and coarsening. [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2019/file/cd474f6341aeffd65f93084d0dae3453-Paper.pdf) [[code]] (https://github.com/TheGravLab/A-Unifying-Framework-for-Spectrum-Preserving-Graph-Sparsification-and-Coarsening)
 ### Applications
 - [IJCAI 2023] Gapformer: Graph Transformer with Graph Pooling for Node Classification. [[pdf]](https://www.ijcai.org/proceedings/2023/0244.pdf)
 - [NeurIPS 2022] Hierarchical graph transformer with adaptive node sampling. [[pdf]](https://arxiv.org/pdf/2210.03930.pdf)
