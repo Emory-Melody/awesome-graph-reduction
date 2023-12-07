@@ -85,12 +85,13 @@ Papers about graph reduction including graph condensation, graph coarsening, gra
 - [JMLR 2018] Community Detection and Stochastic Block Models: Recent Developments. [[pdf]](https://jmlr.org/papers/volume18/16-480/16-480.pdf)
 - [arXiv 2023] Dataset Distillation: A Comprehensive Review. [[pdf]](https://arxiv.org/pdf/2301.07014.pdf)
 
+---
+- [TAI 2023] A Comprehensive Survey on Graph Summarization with Graph Neural Networks. [[pdf]](https://arxiv.org/abs/2302.06114)
+
 ### Toolkits
 
-- Mongoose: [[pdf]](https://people.clas.ufl.edu/hager/files/mongoose.pdf)
-- PyGSP: https://github.com/epfl-lts2/pygsp
-- graph-tool: https://graph-tool.skewed.de/
+- Mongoose: [[pdf]](https://people.clas.ufl.edu/hager/files/mongoose.pdf) [[code]](https://github.com/ScottKolo/Mongoose)
+- PyGSP: [[code]](https://github.com/epfl-lts2/pygsp)
+- graph-tool: [[code]](https://graph-tool.skewed.de/)
 
----
 
-- [TAI 2023] A Comprehensive Survey on Graph Summarization with Graph Neural Networks. [[pdf]](https://arxiv.org/abs/2302.06114)
