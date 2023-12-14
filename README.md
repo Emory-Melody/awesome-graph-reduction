@@ -76,6 +76,7 @@ Papers about graph reduction including graph condensation, graph coarsening, gra
 - [VLDB 2012] Dense Subgraph Maintenance under Streaming Edge Weight Updates for Real-time Story Identification. [[pdf]](https://vldb.org/pvldb/vol5/p574_albertangel_vldb2012.pdf)
 - [ICLR 2020] GraphSAINT: Graph Sampling Based Inductive Learning Method. [[pdf]](https://arxiv.org/pdf/1907.04931.pdf) [[code]](https://github.com/GraphSAINT/GraphSAINT)
 - [Nature Computational Science 2023] GRAPES: Learning to Sample Graphs for Scalable Graph Neural Networks. [[pdf]](https://www.nature.com/articles/s43588-023-00465-8) [[code]](https://github.com/dfdazac/grapes)
+- [Neurips 2023] On the Ability of Graph Neural Networks to Model Interactions Between Vertices. [[pdf]](https://arxiv.org/pdf/2211.16494.pdf) [[code]](https://github.com/noamrazin/gnn_interactions)
 
 ---
 
