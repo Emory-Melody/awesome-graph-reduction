@@ -69,7 +69,6 @@ Papers about graph reduction including graph condensation, graph coarsening, gra
 - [arXiv 2023] Graph Condensation for Inductive Node Representation Learning. [[pdf]](https://arxiv.org/abs/2307.15967)
 
 ## Graph Sparsification / Sampling
-
 - [UAI 2022] Principle of Relevant Information for Graph Sparsification. [[pdf]](https://proceedings.mlr.press/v180/yu22c/yu22c.pdf) [[code]](https://github.com/SJYuCNEL/PRI-Graphs)
 - [Journal of Graph Theory 2023] Graph spanners [[pdf]](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8dafe9997fc89a0c872fa545d1f8158169697e41)
 - [SIAM 2011] Spectral Sparsification of Graphs [[pdf]](https://epubs.siam.org/doi/abs/10.1137/08074489X)
