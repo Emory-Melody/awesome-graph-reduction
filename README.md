@@ -19,7 +19,7 @@ Papers about graph reduction including graph condensation, graph coarsening, gra
 - [NeurIPS 2023] Fair Graph Distillation. [[pdf]](https://openreview.net/pdf?id=xW0ayZxPWs)
 - [NeurIPS 2023] Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data. [[pdf]](https://arxiv.org/pdf/2306.02664.pdf) [[code]](https://github.com/Amanda-Zheng/SFGC)
 - [NeurIPS 2023] Does Graph Distillation See Like Vision Dataset Counterpart? [[pdf]](https://openreview.net/pdf?id=VqIWgUVsXc) [[code]](https://github.com/RingBDStack/SGDD)
-- [ICDM 2023] CaT: Balanced Continual Graph Learning with Graph Condensation. [[pdf]](https://arxiv.org/pdf/2309.09455.pdf) [[code]](https://github.com/superallen13/CaT-CGL)
+- *[ICDM 2023] CaT: Balanced Continual Graph Learning with Graph Condensation. [[pdf]](https://arxiv.org/pdf/2309.09455.pdf) [[code]](https://github.com/superallen13/CaT-CGL) 
 - [ICLR 2023] Serving Graph Compression for Graph Neural Networks. [[pdf]](https://openreview.net/pdf?id=T-qVtA3pAxG)
 - [KDD 2023] Kernel Ridge Regression-Based Graph Dataset Distillation. [[pdf]](https://dl.acm.org/doi/10.1145/3580305.3599398)
 - [KBS 2023] Multiple sparse graphs condensation. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0950705123006548)
@@ -39,12 +39,14 @@ Papers about graph reduction including graph condensation, graph coarsening, gra
 - [ICML 2023] Featured Graph Coarsening with Similarity Guarantees. [[pdf]](http://proceedings.mlr.press/v202/kumar23a/kumar23a.pdf)
 - [JMLR 2023] A Unified Framework for Optimization-Based Graph Coarsening. [[pdf]](https://www.jmlr.org/papers/volume24/22-1085/22-1085.pdf) [[code]](https://github.com/GraphCoarsening/Featured-Graph-Coarsening)
 - [NeurIPS 2022] SizeShiftReg: a Regularization Method for Improving Size-Generalization in Graph Neural Networks. [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/ceeb3fa5be458f08fbb12a5bb783aac8-Paper-Conference.pdf) [[code]](https://github.com/DavideBuffelli/SizeShiftReg)
-- [KDD 2021] Scaling Up Graph Neural Networks Via Graph Coarsening. [[pdf]](https://arxiv.org/pdf/2106.05150.pdf) [[code]](https://github.com/szzhang17/Scaling-Up-Graph-Neural-Networks-Via-Graph-Coarsening)
-- [KDD 2019] Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks. [[pdf]](https://arxiv.org/pdf/1905.07953.pdf) [[code]](https://github.com/google-research/google-research/tree/master/cluster_gcn)
+- [WWWc 2022] Scaling R-GCN Training with Graph Summarization. [[pdf]](https://arxiv.org/pdf/2203.02622.pdf)
 - [ICLR 2021] Graph Coarsening With Neural Networks. [[pdf]](https://openreview.net/pdf?id=uxpzitPEooJ) [[blog]](https://iclr-blog-track.github.io/2022/03/25/coarsening/)
-- [TPAMI 2007] Weighted Graph Cuts without Eigenvectors A Multilevel Approach. [[pdf]](https://ieeexplore.ieee.org/document/4302760) 
+- [KDD 2021] Scaling Up Graph Neural Networks Via Graph Coarsening. [[pdf]](https://arxiv.org/pdf/2106.05150.pdf) [[code]](https://github.com/szzhang17/Scaling-Up-Graph-Neural-Networks-Via-Graph-Coarsening)
 - [AISTATS 2020] Graph Coarsening with Preserved Spectral Properties. [[pdf]](https://arxiv.org/pdf/1802.04447.pdf)
 - [ICLR 2020] GraphZoom: A multi-level spectral approach for accurate and scalable graph embedding. [[pdf]](https://arxiv.org/pdf/1910.02370.pdf) [[code]](https://github.com/cornell-zhang/GraphZoom)
+- [KDD 2019] Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks. [[pdf]](https://arxiv.org/pdf/1905.07953.pdf) [[code]](https://github.com/google-research/google-research/tree/master/cluster_gcn)
+
+
 - [JMLR 2019] Graph reduction with spectral and cut guarantees. [[pdf]](https://arxiv.org/pdf/1808.10650.pdf) [[code]](https://github.com/loukasa/graph-coarsening/tree/v1.1)
 - [ICML 2018] Spectrally approximating large graphs with smaller graphs. [[pdf]](https://arxiv.org/pdf/1802.07510.pdf)
 - [Circuits and Systems 2013] Kron Reduction of Graphs with Applications to Electrical Networks. [[pdf]](https://arxiv.org/pdf/1102.2950.pdf)
@@ -55,8 +57,10 @@ Papers about graph reduction including graph condensation, graph coarsening, gra
 - [SIAM 1998] A Fast and High Quality Multilevel Scheme for Partitioning Irregular Graphs. [[pdf]](https://www.cs.utexas.edu/~pingali/CS395T/2009fa/papers/metis.pdf)
 - [Signal Processing 2016] A Multiscale Pyramid Transform for Graph Signals. [[pdf]](https://arxiv.org/pdf/1308.4942.pdf)
 - [ICDM 2018] NetGist: Learning to Generate Task-Based Network Summaries. [[pdf]](https://faculty.cc.gatech.edu/~badityap/papers/netgist-icdm18.pdf)
-- [WWWc 2022] Scaling R-GCN Training with Graph Summarization. [[pdf]](https://arxiv.org/pdf/2203.02622.pdf)
 - [ICML 2020] Spectral Clustering with Graph Neural Networks for Graph Pooling. [[pdf]](https://arxiv.org/pdf/1907.00481.pdf) [[code]](https://github.com/FilippoMB/Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling)
+
+
+- [TPAMI 2007] Weighted Graph Cuts without Eigenvectors A Multilevel Approach. [[pdf]](https://ieeexplore.ieee.org/document/4302760) 
 <!-- - [ICLR 2018] FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling. [[pdf]](https://arxiv.org/pdf/1801.10247.pdf) [[code]](https://github.com/matenure/FastGCN)
 - [ICML 2018] Stochastic Training of Graph Convolutional Networks with Variance Reduction. [[pdf]](https://arxiv.org/pdf/1710.10568.pdf) [[code]](https://github.com/thu-ml/stochastic_gcn)-->
 - [NeurIPS 2019] A unifying framework for spectrum-preserving graph sparsification and coarsening. [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2019/file/cd474f6341aeffd65f93084d0dae3453-Paper.pdf) [[code]](https://github.com/TheGravLab/A-Unifying-Framework-for-Spectrum-Preserving-Graph-Sparsification-and-Coarsening)
