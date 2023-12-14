@@ -32,8 +32,6 @@ Papers about graph reduction including graph condensation, graph coarsening, gra
 - [arXiv 2023] FedGKD: Unleashing the Power of Collaboration in Federated Graph Neural Networks. [[pdf]](https://arxiv.org/pdf/2309.09517.pdf)
 -->
 
-
-
 ## Graph Coarsening / Clustering
 - [arXiv 2023] Graph Condensation for Inductive Node Representation Learning. [[pdf]](https://arxiv.org/abs/2307.15967)
 - [NeurIPSw 2023] ResolvNet: A Graph Convolutional Network with multi-scale Consistency. [[pdf]](https://arxiv.org/pdf/2310.00431.pdf)
@@ -58,7 +56,6 @@ Papers about graph reduction including graph condensation, graph coarsening, gra
 - [SIAM 2011] Relaxation-Based Coarsening and Multiscale Graph Organization. [[pdf]](https://arxiv.org/pdf/1004.1220.pdf)
 - [SIAM 2011] Algebraic Distance on Graphs. [[pdf]](https://jiechenjiechen.github.io/pub/algebraic_distance_long.pdf)
 - [TPAMI 2007] Weighted Graph Cuts without Eigenvectors A Multilevel Approach. [[pdf]](https://ieeexplore.ieee.org/document/4302760) 
-
 - [SIAM 1998] A Fast and High Quality Multilevel Scheme for Partitioning Irregular Graphs. [[pdf]](https://www.cs.utexas.edu/~pingali/CS395T/2009fa/papers/metis.pdf)
 
 
