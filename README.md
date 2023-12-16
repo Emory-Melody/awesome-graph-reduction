@@ -77,6 +77,7 @@ Papers about graph reduction including graph condensation, graph coarsening, gra
 - [UAI 2022] Principle of Relevant Information for Graph Sparsification. [[pdf]](https://proceedings.mlr.press/v180/yu22c/yu22c.pdf) [[code]](https://github.com/SJYuCNEL/PRI-Graphs)
 - [ICLR 2020] GraphSAINT: Graph Sampling Based Inductive Learning Method. [[pdf]](https://arxiv.org/pdf/1907.04931.pdf) [[code]](https://github.com/GraphSAINT/GraphSAINT)
 - [ICML 2020] (App) Robust Graph Representation Learning via Neural Sparsification. [[pdf]](https://proceedings.mlr.press/v119/zheng20d/zheng20d.pdf) [[code]](https://github.com/flyingdoog/PTDNet)
+- [NeurIPS 2019] (Privacy) On Differentially Private Graph Sparsification and Applications. [[pdf]](https://papers.nips.cc/paper_files/paper/2019/file/e44e875c12109e4fa3716c05008048b2-Paper.pdf)
 - [AISTATS 2016] Graph Sparsification Approaches for Laplacian Smoothing. [[pdf]](https://www.stat.berkeley.edu/~ryantibs/papers/lapsparse.pdf)
 - [CVPR 2012] Non-negative low rank and sparse graph for semi-supervised learning. [[pdf]](https://zhouchenlin.github.io/Publications/2012-CVPR-NNLRS.pdf)
 - [VLDB 2012] Densest Subgraph in Streaming and MapReduce. [[pdf]](https://vldb.org/pvldb/vol5/p454_bahmanbahmani_vldb2012.pdf)
