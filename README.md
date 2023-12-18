@@ -86,11 +86,15 @@ Papers about graph reduction including graph condensation, graph coarsening, gra
 - [CVPR 2012] Non-negative low rank and sparse graph for semi-supervised learning. [[pdf]](https://zhouchenlin.github.io/Publications/2012-CVPR-NNLRS.pdf)
 - [VLDB 2012] Densest Subgraph in Streaming and MapReduce. [[pdf]](https://vldb.org/pvldb/vol5/p454_bahmanbahmani_vldb2012.pdf)
 - [VLDB 2012] Dense Subgraph Maintenance under Streaming Edge Weight Updates for Real-time Story Identification. [[pdf]](https://vldb.org/pvldb/vol5/p574_albertangel_vldb2012.pdf)
-- [SIAM 2011] Spectral Sparsification of Graphs [[pdf]](https://epubs.siam.org/doi/abs/10.1137/08074489X)
+- [STOC 2011] A General Framework for Graph Sparsification. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/1993636.1993647)
+- [STOC 2011] Spectral Sparsification of Graphs [[pdf]](https://epubs.siam.org/doi/abs/10.1137/08074489X)
+- [STOC 2008] Graph Sparsification by Effective Resistances. [[pdf]](https://arxiv.org/pdf/0803.0929.pdf)
 - [ICDM 2011] Identity obfuscation in graphs through the information theoretic lens. [[pdf]](https://ieeexplore.ieee.org/document/5767905)
+- [STOC 2004] Nearly-linear time algorithms for graph partitioning, graph sparsification, and solving linear system. [[pdf]](https://dl.acm.org/doi/10.1145/1007352.1007372)
 - [Internet Mathematics 2014] Ranking and Sparsifying a Connection Graph. [[pdf]](https://mathweb.ucsd.edu/~fan/wp/connectionj.pdf)
 - [ACM 1994] Random sampling in cut, flow, and network design problems. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/195058.195422)
 - [JACM 1997] Sparsification–A Technique for Speeding Up Dynamic Graph Algorithms. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/265910.265914)
+- [STOC 1996] Approximating s-t minimum cuts in Õ(n2) time. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/237814.237827)
 <!-- - - [ICLR 2020] DropEdge: Towards Deep Graph Convolutional Networks on Node Classification. [[pdf]](https://arxiv.org/pdf/1907.10903.pdf) [[code]](https://github.com/DropEdge/DropEdge)
 [WSDM 2021] Learning to Drop: Robust Graph Neural Network via Topological Denoising. [[pdf]](https://arxiv.org/pdf/2011.07057.pdf) [[code]](https://github.com/flyingdoog/PTDNet)-->
 
