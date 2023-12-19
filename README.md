@@ -96,7 +96,6 @@ Papers about graph reduction including graph condensation, graph coarsening, gra
 - [ACM 1994] Random sampling in cut, flow, and network design problems. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/195058.195422)
 - [JACM 1997] Sparsification–A Technique for Speeding Up Dynamic Graph Algorithms. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/265910.265914)
 - [STOC 1996] Approximating s-t minimum cuts in Õ(n2) time. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/237814.237827)
-- [CIKM 2023] Mitigating Semantic Confusion from Hostile Neighborhood for Graph Active Learning. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3583780.3615199)
 <!-- - - [ICLR 2020] DropEdge: Towards Deep Graph Convolutional Networks on Node Classification. [[pdf]](https://arxiv.org/pdf/1907.10903.pdf) [[code]](https://github.com/DropEdge/DropEdge)
 [WSDM 2021] Learning to Drop: Robust Graph Neural Network via Topological Denoising. [[pdf]](https://arxiv.org/pdf/2011.07057.pdf) [[code]](https://github.com/flyingdoog/PTDNet)-->
 
