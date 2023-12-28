@@ -84,13 +84,14 @@ Papers about graph reduction including graph condensation, graph coarsening, gra
 - [NeurIPS 2019] (Privacy) On Differentially Private Graph Sparsification and Applications. [[pdf]](https://papers.nips.cc/paper_files/paper/2019/file/e44e875c12109e4fa3716c05008048b2-Paper.pdf)
 - [AISTATS 2016] Graph Sparsification Approaches for Laplacian Smoothing. [[pdf]](https://www.stat.berkeley.edu/~ryantibs/papers/lapsparse.pdf)
 - [IJCAI 2015] A New Simplex Sparse Learning Model to Measure Data Similarity for Clustering. [[pdf]](https://www.ijcai.org/Proceedings/15/Papers/502.pdf)
+- [Signal Processing 2015] A Multiscale Pyramid Transform for Graph Signals. [[pdf]](https://arxiv.org/pdf/1308.4942.pdf)
 - [CVPR 2012] Non-negative low rank and sparse graph for semi-supervised learning. [[pdf]](https://zhouchenlin.github.io/Publications/2012-CVPR-NNLRS.pdf)
 - [VLDB 2012] Densest Subgraph in Streaming and MapReduce. [[pdf]](https://vldb.org/pvldb/vol5/p454_bahmanbahmani_vldb2012.pdf)
 - [VLDB 2012] Dense Subgraph Maintenance under Streaming Edge Weight Updates for Real-time Story Identification. [[pdf]](https://vldb.org/pvldb/vol5/p574_albertangel_vldb2012.pdf)
 - [STOC 2011] A General Framework for Graph Sparsification. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/1993636.1993647)
 - [STOC 2011] Spectral Sparsification of Graphs [[pdf]](https://epubs.siam.org/doi/abs/10.1137/08074489X)
-- [STOC 2008] Graph Sparsification by Effective Resistances. [[pdf]](https://arxiv.org/pdf/0803.0929.pdf)
 - [ICDM 2011] Identity obfuscation in graphs through the information theoretic lens. [[pdf]](https://ieeexplore.ieee.org/document/5767905)
+- [STOC 2008] Graph Sparsification by Effective Resistances. [[pdf]](https://arxiv.org/pdf/0803.0929.pdf)
 - [STOC 2004] Nearly-linear time algorithms for graph partitioning, graph sparsification, and solving linear system. [[pdf]](https://dl.acm.org/doi/10.1145/1007352.1007372)
 - [Internet Mathematics 2014] Ranking and Sparsifying a Connection Graph. [[pdf]](https://mathweb.ucsd.edu/~fan/wp/connectionj.pdf)
 - [ACM 1994] Random sampling in cut, flow, and network design problems. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/195058.195422)
@@ -109,6 +110,7 @@ Papers about graph reduction including graph condensation, graph coarsening, gra
 - [arXiv 2023] Dataset Distillation: A Comprehensive Review. [[pdf]](https://arxiv.org/pdf/2301.07014.pdf)
 - [Communications of the ACM] Spectral Sparsification of Graphs: Theory and Algorithms. [[pdf]](http://cs-www.cs.yale.edu/homes/spielman/PAPERS/CACMsparse.pdf)
 - [TAI 2023] A Comprehensive Survey on Graph Summarization with Graph Neural Networks. [[pdf]](https://arxiv.org/abs/2302.06114)
+- [HPDC 2016] Efficient Processing of Large Graphs via Input Reduction. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2907294.2907312)
 
 ### Toolkits
 
