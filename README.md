@@ -2,16 +2,16 @@
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/ChandlerBang/awesome-graph-reduction?color=yellow)
 
-Papers about graph reduction including graph condensation, graph coarsening, graph sparsification, graph summarization, etc. 
-
-
-
+Papers about graph reduction including graph condensation, graph coarsening, graph sparsification, graph summarization, etc.
 
 ## Graph Condensation / Graph Dataset Distillation
+
+- [arXiv 2023] PUMUA: Efficient Continual Graph Learning with Graph Condensation. [[pdf]](https://arxiv.org/pdf/2312.14439) [[code]](https://github.com/superallen13/puma)
 - [arXiv 2023] Graph Condensation for Inductive Node Representation Learning. [[pdf]](https://arxiv.org/pdf/2307.15967)
 - [arXiv 2023] Mirage: Model-Agnostic Graph Distillation for Graph Classification. [[pdf]](https://arxiv.org/pdf/2310.09486.pdf)
 - [arXiv 2023] Graph Condensation via Eigenbasis Matching. [[pdf]](https://arxiv.org/abs/2310.09202)
 - [arXiv 2023] Faster Hyperparameter Search for GNNs via Calibrated Dataset Condensation. [[pdf]](https://openreview.net/pdf?id=ohQPU2G3r3C)
+- [arXiv 2023] Graph Condensation for Inductive Node Representation Learning. [[pdf]](https://arxiv.org/abs/2307.15967)
 - [arXiv 2022] Graph Condensation via Receptive Field Distribution Matching. [[pdf]](https://arxiv.org/pdf/2206.13697.pdf)
 - [arXiv 2023] (App) FedGKD: Unleashing the Power of Collaboration in Federated Graph Neural Networks. [[pdf]](https://arxiv.org/pdf/2309.09517.pdf)
 - [arXiv 2023] Fast Graph Condensation with Structure-based Neural Tangent Kernel. [[pdf]](https://arxiv.org/pdf/2310.11046.pdf)
@@ -19,13 +19,12 @@ Papers about graph reduction including graph condensation, graph coarsening, gra
 - [NeurIPS 2023] (Fairness) Fair Graph Distillation. [[pdf]](https://openreview.net/pdf?id=xW0ayZxPWs)
 - [NeurIPS 2023] Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data. [[pdf]](https://arxiv.org/pdf/2306.02664.pdf) [[code]](https://github.com/Amanda-Zheng/SFGC)
 - [NeurIPS 2023] Does Graph Distillation See Like Vision Dataset Counterpart? [[pdf]](https://openreview.net/pdf?id=VqIWgUVsXc) [[code]](https://github.com/RingBDStack/SGDD)
-- [ICDM 2023] (App) CaT: Balanced Continual Graph Learning with Graph Condensation. [[pdf]](https://arxiv.org/pdf/2309.09455.pdf) [[code]](https://github.com/superallen13/CaT-CGL) 
+- [ICDM 2023] (App) CaT: Balanced Continual Graph Learning with Graph Condensation. [[pdf]](https://arxiv.org/pdf/2309.09455.pdf) [[code]](https://github.com/superallen13/CaT-CGL)
 - [ICLR 2023] Serving Graph Compression for Graph Neural Networks. [[pdf]](https://openreview.net/pdf?id=T-qVtA3pAxG)
 - [KDD 2023] Kernel Ridge Regression-Based Graph Dataset Distillation. [[pdf]](https://dl.acm.org/doi/10.1145/3580305.3599398)
 - [KBS 2023] Multiple sparse graphs condensation. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0950705123006548)
 - [KDD 2022] Condensing Graphs via One-Step Gradient Matching. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539429) [[code]](https://github.com/ChandlerBang/GCond)
 - [ICLR 2022] Graph Condensation for Graph Neural Networks. [[pdf]](https://openreview.net/forum?id=WLEx3Jo4QaB) [[code]](https://github.com/ChandlerBang/GCond)
-
 
 <!--#### Applications
 - [ICDM 2023] CaT: Balanced Continual Graph Learning with Graph Condensation. [[pdf]](https://arxiv.org/pdf/2309.09455.pdf) [[code]](https://github.com/superallen13/CaT-CGL)
@@ -33,7 +32,7 @@ Papers about graph reduction including graph condensation, graph coarsening, gra
 -->
 
 ## Graph Coarsening / Clustering
-- [arXiv 2023] Graph Condensation for Inductive Node Representation Learning. [[pdf]](https://arxiv.org/abs/2307.15967)
+
 - [NeurIPSw 2023] ResolvNet: A Graph Convolutional Network with multi-scale Consistency. [[pdf]](https://arxiv.org/pdf/2310.00431.pdf)
 - [ICML 2023] Featured Graph Coarsening with Similarity Guarantees. [[pdf]](http://proceedings.mlr.press/v202/kumar23a/kumar23a.pdf)
 - [JMLR 2023] A Unified Framework for Optimization-Based Graph Coarsening. [[pdf]](https://www.jmlr.org/papers/volume24/22-1085/22-1085.pdf) [[code]](https://github.com/GraphCoarsening/Featured-Graph-Coarsening)
@@ -57,9 +56,8 @@ Papers about graph reduction including graph condensation, graph coarsening, gra
 - [SIAM 2012] Lean Algebraic Multigrid (LAMG): Fast Graph Laplacian Linear Solver. [[pdf]](https://arxiv.org/pdf/1108.1310.pdf)
 - [SIAM 2011] Relaxation-Based Coarsening and Multiscale Graph Organization. [[pdf]](https://arxiv.org/pdf/1004.1220.pdf)
 - [SIAM 2011] Algebraic Distance on Graphs. [[pdf]](https://jiechenjiechen.github.io/pub/algebraic_distance_long.pdf)
-- [TPAMI 2007] Weighted Graph Cuts without Eigenvectors A Multilevel Approach. [[pdf]](https://ieeexplore.ieee.org/document/4302760) 
+- [TPAMI 2007] Weighted Graph Cuts without Eigenvectors A Multilevel Approach. [[pdf]](https://ieeexplore.ieee.org/document/4302760)
 - [SIAM 1998] A Fast and High Quality Multilevel Scheme for Partitioning Irregular Graphs. [[pdf]](https://www.cs.utexas.edu/~pingali/CS395T/2009fa/papers/metis.pdf)
-
 
 <!-- - [ICLR 2018] FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling. [[pdf]](https://arxiv.org/pdf/1801.10247.pdf) [[code]](https://github.com/matenure/FastGCN)
 - [ICML 2018] Stochastic Training of Graph Convolutional Networks with Variance Reduction. [[pdf]](https://arxiv.org/pdf/1710.10568.pdf) [[code]](https://github.com/thu-ml/stochastic_gcn)-->
@@ -67,8 +65,8 @@ Papers about graph reduction including graph condensation, graph coarsening, gra
 <!-- - [IJCAI 2023] Gapformer: Graph Transformer with Graph Pooling for Node Classification. [[pdf]](https://www.ijcai.org/proceedings/2023/0244.pdf)
 - [NeurIPS 2022] Hierarchical graph transformer with adaptive node sampling. [[pdf]](https://arxiv.org/pdf/2210.03930.pdf)-->
 
-
 ## Graph Sparsification / Sampling / Selection
+
 - [TPAMI 2023] Graph Neural Network Meets Sparse Representation: Graph Sparse Neural Networks via Exclusive Group Lasso. [[pdf]](https://www.computer.org/csdl/journal/tp/2023/10/10149528/1NWyjHHTWjC)
 - [KDD 2023] Interpretable Sparsification of Brain Graphs: Better Practices and Effective Designs for Graph Neural Networks. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599394) [[code]](https://github.com/motivationss/IGS)
 - [TNNLS 2023] Ricci Curvature-Based Graph Sparsification for Continual Graph Representation Learning [[pdf]](https://ieeexplore.ieee.org/document/10225445)
@@ -81,7 +79,7 @@ Papers about graph reduction including graph condensation, graph coarsening, gra
 - [ICLR 2020] GraphSAINT: Graph Sampling Based Inductive Learning Method. [[pdf]](https://arxiv.org/pdf/1907.04931.pdf) [[code]](https://github.com/GraphSAINT/GraphSAINT)
 - [ICML 2020] (App) Robust Graph Representation Learning via Neural Sparsification. [[pdf]](https://proceedings.mlr.press/v119/zheng20d/zheng20d.pdf) [[code]](https://github.com/flyingdoog/PTDNet)
 - [TOC 2020] Robust Graph Learning from Noisy Data. [[pdf]](https://arxiv.org/pdf/1812.06673.pdf) [[code]](https://github.com/sckangz/RGC)
-- [STOC 2019] A General Framework for Graph Sparsification. [[pdf]](https://arxiv.org/pdf/1004.4080.pdf) 
+- [STOC 2019] A General Framework for Graph Sparsification. [[pdf]](https://arxiv.org/pdf/1004.4080.pdf)
 - [NeurIPS 2019] (Privacy) On Differentially Private Graph Sparsification and Applications. [[pdf]](https://papers.nips.cc/paper_files/paper/2019/file/e44e875c12109e4fa3716c05008048b2-Paper.pdf)
 - [AISTATS 2016] Graph Sparsification Approaches for Laplacian Smoothing. [[pdf]](https://www.stat.berkeley.edu/~ryantibs/papers/lapsparse.pdf)
 - [IJCAI 2015] A New Simplex Sparse Learning Model to Measure Data Similarity for Clustering. [[pdf]](https://www.ijcai.org/Proceedings/15/Papers/502.pdf)
@@ -118,5 +116,3 @@ Papers about graph reduction including graph condensation, graph coarsening, gra
 - Mongoose: [[pdf]](https://people.clas.ufl.edu/hager/files/mongoose.pdf) [[code]](https://github.com/ScottKolo/Mongoose)
 - PyGSP: [[code]](https://github.com/epfl-lts2/pygsp)
 - graph-tool: [[code]](https://graph-tool.skewed.de/)
-
-
