@@ -33,7 +33,7 @@ Papers about graph reduction including graph condensation, graph coarsening, gra
 -->
 
 ## Graph Coarsening / Clustering
-
+- [arXiv 2023] Graph Coarsening via Convolution Matching for Scalable Graph Neural Network Training. [[pdf]](https://arxiv.org/pdf/2312.15520.pdf) [[code]](https://github.com/amazon-science/convolution-matching)
 - [NeurIPSw 2023] ResolvNet: A Graph Convolutional Network with multi-scale Consistency. [[pdf]](https://arxiv.org/pdf/2310.00431.pdf)
 - [ICML 2023] Featured Graph Coarsening with Similarity Guarantees. [[pdf]](http://proceedings.mlr.press/v202/kumar23a/kumar23a.pdf)
 - [JMLR 2023] A Unified Framework for Optimization-Based Graph Coarsening. [[pdf]](https://www.jmlr.org/papers/volume24/22-1085/22-1085.pdf) [[code]](https://github.com/GraphCoarsening/Featured-Graph-Coarsening)
