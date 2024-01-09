@@ -26,7 +26,6 @@ Papers about graph reduction including graph condensation, graph coarsening, gra
 - [KBS 2023] Multiple sparse graphs condensation. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0950705123006548)
 - [KDD 2022] Condensing Graphs via One-Step Gradient Matching. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539429) [[code]](https://github.com/ChandlerBang/GCond)
 - [ICLR 2022] Graph Condensation for Graph Neural Networks. [[pdf]](https://openreview.net/forum?id=WLEx3Jo4QaB) [[code]](https://github.com/ChandlerBang/GCond)
-- [ICSEE 2014] Graph summarization for attributed graphs. [[pdf]](https://ieeexplore.ieee.org/abstract/document/6948163)
 <!--#### Applications
 - [ICDM 2023] CaT: Balanced Continual Graph Learning with Graph Condensation. [[pdf]](https://arxiv.org/pdf/2309.09455.pdf) [[code]](https://github.com/superallen13/CaT-CGL)
 - [arXiv 2023] FedGKD: Unleashing the Power of Collaboration in Federated Graph Neural Networks. [[pdf]](https://arxiv.org/pdf/2309.09517.pdf)
@@ -54,6 +53,7 @@ Papers about graph reduction including graph condensation, graph coarsening, gra
 - [ICDM 2018] NetGist: Learning to Generate Task-Based Network Summaries. [[pdf]](https://faculty.cc.gatech.edu/~badityap/papers/netgist-icdm18.pdf)
 - [Signal Processing 2016] A Multiscale Pyramid Transform for Graph Signals. [[pdf]](https://arxiv.org/pdf/1308.4942.pdf)
 - [KDD 2014] Fast Influence-based Coarsening for Large Networks. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2623330.2623701)
+- [ICSEE 2014] Graph summarization for attributed graphs. [[pdf]](https://ieeexplore.ieee.org/abstract/document/6948163)
 - [Circuits and Systems 2013] Kron Reduction of Graphs with Applications to Electrical Networks. [[pdf]](https://arxiv.org/pdf/1102.2950.pdf)
 - [SIAM 2012] Lean Algebraic Multigrid (LAMG): Fast Graph Laplacian Linear Solver. [[pdf]](https://arxiv.org/pdf/1108.1310.pdf)
 - [SIAM 2011] Relaxation-Based Coarsening and Multiscale Graph Organization. [[pdf]](https://arxiv.org/pdf/1004.1220.pdf)
