@@ -38,7 +38,7 @@ Papers about graph reduction including graph condensation, graph coarsening, gra
 - [ICML 2023] Featured Graph Coarsening with Similarity Guarantees. [[pdf]](http://proceedings.mlr.press/v202/kumar23a/kumar23a.pdf)
 - [JMLR 2023] A Unified Framework for Optimization-Based Graph Coarsening. [[pdf]](https://www.jmlr.org/papers/volume24/22-1085/22-1085.pdf) [[code]](https://github.com/GraphCoarsening/Featured-Graph-Coarsening)
 - [WWW 2022] (App) ALLIE: Active Learning on Large-scale Imbalanced Graphs. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512229)
-- [NeurIPS 2022] SizeShiftReg: a Regularization Method for Improving Size-Generalization in Graph Neural Networks. [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/ceeb3fa5be458f08fbb12a5bb783aac8-Paper-Conference.pdf) [[code]](https://github.com/DavideBuffelli/SizeShiftReg)
+- [NeurIPS 2022] (App) SizeShiftReg: a Regularization Method for Improving Size-Generalization in Graph Neural Networks. [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/ceeb3fa5be458f08fbb12a5bb783aac8-Paper-Conference.pdf) [[code]](https://github.com/DavideBuffelli/SizeShiftReg)
 - [WWWc 2022] Scaling R-GCN Training with Graph Summarization. [[pdf]](https://arxiv.org/pdf/2203.02622.pdf)
 - [ICLR 2021] Graph Coarsening With Neural Networks. [[pdf]](https://openreview.net/pdf?id=uxpzitPEooJ) [[blog]](https://iclr-blog-track.github.io/2022/03/25/coarsening/)
 - [KDD 2021] Scaling Up Graph Neural Networks Via Graph Coarsening. [[pdf]](https://arxiv.org/pdf/2106.05150.pdf) [[code]](https://github.com/szzhang17/Scaling-Up-Graph-Neural-Networks-Via-Graph-Coarsening)
