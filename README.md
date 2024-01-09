@@ -74,7 +74,6 @@ Papers about graph reduction including graph condensation, graph coarsening, gra
 - [KDD 2023] Interpretable Sparsification of Brain Graphs: Better Practices and Effective Designs for Graph Neural Networks. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599394) [[code]](https://github.com/motivationss/IGS)
 - [TNNLS 2023] Ricci Curvature-Based Graph Sparsification for Continual Graph Representation Learning [[pdf]](https://ieeexplore.ieee.org/document/10225445)
 - [NeurIPS 2023] On the Ability of Graph Neural Networks to Model Interactions Between Vertices. [[pdf]](https://arxiv.org/pdf/2211.16494.pdf) [[code]](https://github.com/noamrazin/gnn_interactions)
-- [Journal of Graph Theory 2023] Graph Spanners. [[pdf]](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8dafe9997fc89a0c872fa545d1f8158169697e41)
 - [Nature Computational Science 2023] GRAPES: Learning to Sample Graphs for Scalable Graph Neural Networks. [[pdf]](https://www.nature.com/articles/s43588-023-00465-8) [[code]](https://github.com/dfdazac/grapes)
 - [ICDM 2022] Sparsified Subgraph Memory for Continual Graph Representation Learning. [[pdf]](https://ieeexplore.ieee.org/document/10027629) [[code]](https://github.com/QueuQ/SSM/issues)
 - [ISCA 2022] SmartSAGE: Training Large-scale Graph Neural Networks using In-Storage Processing Architectures. [[pdf]](https://arxiv.org/pdf/2205.04711.pdf)
