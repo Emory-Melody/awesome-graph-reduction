@@ -104,14 +104,15 @@ Papers about graph reduction including graph condensation, graph coarsening, gra
 
 ### Survey: Graph Reduction/ Summarization / Simplification
 
-- [CSR 2020] Multilayer network simplification: Approaches, models and methods [[pdf]](https://arxiv.org/abs/2004.14808)
-- [ACS 2018] Graph Summarization Methods and Applications: A Survey. [[pdf]](https://arxiv.org/abs/1612.04883)
-- [VLDB 2005] Densest Subgraph Discovery on Large Graphs: Applications, Challenges, and Techniques. [[pdf]](https://www.vldb.org/pvldb/vol15/p3766-luo.pdf)
-- [JMLR 2018] Community Detection and Stochastic Block Models: Recent Developments. [[pdf]](https://jmlr.org/papers/volume18/16-480/16-480.pdf)
+- [IJCAI 2023] A Survey on Dataset Distillation: Approaches, Applications and Future Directions. [[pdf]](https://arxiv.org/pdf/2305.01975.pdf)
 - [arXiv 2023] Dataset Distillation: A Comprehensive Review. [[pdf]](https://arxiv.org/pdf/2301.07014.pdf)
 - [Communications of the ACM] Spectral Sparsification of Graphs: Theory and Algorithms. [[pdf]](http://cs-www.cs.yale.edu/homes/spielman/PAPERS/CACMsparse.pdf)
 - [TAI 2023] A Comprehensive Survey on Graph Summarization with Graph Neural Networks. [[pdf]](https://arxiv.org/abs/2302.06114)
+- [CSR 2020] Multilayer network simplification: Approaches, models and methods [[pdf]](https://arxiv.org/abs/2004.14808)
+- [JMLR 2018] Community Detection and Stochastic Block Models: Recent Developments. [[pdf]](https://jmlr.org/papers/volume18/16-480/16-480.pdf)
+- [ACS 2018] Graph Summarization Methods and Applications: A Survey. [[pdf]](https://arxiv.org/abs/1612.04883)
 - [HPDC 2016] Efficient Processing of Large Graphs via Input Reduction. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2907294.2907312)
+- [VLDB 2005] Densest Subgraph Discovery on Large Graphs: Applications, Challenges, and Techniques. [[pdf]](https://www.vldb.org/pvldb/vol15/p3766-luo.pdf)
 
 ### Toolkits
 
