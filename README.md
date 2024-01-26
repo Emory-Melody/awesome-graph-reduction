@@ -108,6 +108,7 @@ Papers about graph reduction including graph condensation, graph coarsening, gra
 - [arXiv 2023] Dataset Distillation: A Comprehensive Review. [[pdf]](https://arxiv.org/pdf/2301.07014.pdf)
 - [Communications of the ACM] Spectral Sparsification of Graphs: Theory and Algorithms. [[pdf]](http://cs-www.cs.yale.edu/homes/spielman/PAPERS/CACMsparse.pdf)
 - [TAI 2023] A Comprehensive Survey on Graph Summarization with Graph Neural Networks. [[pdf]](https://arxiv.org/abs/2302.06114)
+- [SeMA 2022] Graph coarsening: from scientific computing to machine learning. [[pdf]](https://link.springer.com/article/10.1007/s40324-021-00282-x)
 - [CSR 2020] Multilayer network simplification: Approaches, models and methods [[pdf]](https://arxiv.org/abs/2004.14808)
 - [JMLR 2018] Community Detection and Stochastic Block Models: Recent Developments. [[pdf]](https://jmlr.org/papers/volume18/16-480/16-480.pdf)
 - [ACS 2018] Graph Summarization Methods and Applications: A Survey. [[pdf]](https://arxiv.org/abs/1612.04883)
