@@ -6,7 +6,7 @@ Papers about graph reduction including graph condensation, graph coarsening, gra
 
 ## Graph Condensation / Graph Dataset Distillation
 
-- [arXiv 2023] Disentangled Condensation for Large-scale Graphs. [[pdf]](https://arxiv.org/pdf/2401.12231.pdf)
+- [arXiv 2024] Disentangled Condensation for Large-scale Graphs. [[pdf]](https://arxiv.org/pdf/2401.12231.pdf)
 - [arXiv 2023] Graph Condensation via Eigenbasis Matching. [[pdf]](https://arxiv.org/pdf/2310.09202.pdf)
 - [arXiv 2023] Attend Who is Weak: Enhancing Graph Condensation via Cross-Free Adversarial Training. [[pdf]](https://arxiv.org/pdf/2311.15772.pdf)
 - [arXiv 2023] PUMA: Efficient Continual Graph Learning with Graph Condensation. [[pdf]](https://arxiv.org/pdf/2312.14439) [[code]](https://github.com/superallen13/puma)
