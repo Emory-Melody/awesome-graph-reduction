@@ -5,7 +5,7 @@
 Papers about graph reduction including graph condensation, graph coarsening, graph sparsification, graph summarization, etc.
 
 ## Graph Condensation / Graph Dataset Distillation
-
+- [WWW 2024] EXGC: Bridging Efficiency and Explainability in Graph Condensation. 
 - [arXiv 2024] Disentangled Condensation for Large-scale Graphs. [[pdf]](https://arxiv.org/pdf/2401.12231.pdf)
 - [arXiv 2023] Graph Condensation via Eigenbasis Matching. [[pdf]](https://arxiv.org/pdf/2310.09202.pdf)
 - [arXiv 2023] Attend Who is Weak: Enhancing Graph Condensation via Cross-Free Adversarial Training. [[pdf]](https://arxiv.org/pdf/2311.15772.pdf)
