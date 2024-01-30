@@ -10,7 +10,7 @@ This list serves as a complement to the survey below.
 
 [[A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation]](https://cse.msu.edu/~jinwei2/files/Survey_GraphReduction.pdf)
 
-<div align=center><img src="https://github.com/ChandlerBang/awesome-graph-reduction/blob/main/figs/graph_reduction.pdf" width="500" /></div>
+<div align=center><img src="https://github.com/ChandlerBang/awesome-graph-reduction/blob/main/figs/graph_reduction.png" width="500" /></div>
 
 If you find this repo helpful, we would appreciate it if you could cite our survey.
 
