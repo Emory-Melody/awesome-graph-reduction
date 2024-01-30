@@ -2,7 +2,26 @@
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/ChandlerBang/awesome-graph-reduction?color=yellow)
 
-Papers about graph reduction including graph condensation, graph coarsening, graph sparsification, graph summarization, etc.
+
+This is a curated list of papers about graph reduction including graph condensation, graph coarsening, graph sparsification, graph summarization, etc.
+
+If you want to add new entries, please make PRs with the same format.
+
+This list serves as a complement to the survey below.
+
+[[A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation]](https://cse.msu.edu/~jinwei2/files/Survey_GraphReduction.pdf)
+
+
+If you find this repo helpful, we would appreciate it if you could cite our survey.
+```
+@article{hashemi2024comprehensive,
+title={A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation},
+author={Mohammad Hashemi and Shengbo Gong and Juntong Ni and Wenqi Fan and B. Aditya Prakash and Wei Jin},
+journal={arXiv preprint},
+year={2024}
+}
+```
+
 
 ## Graph Condensation / Graph Dataset Distillation
 - [WWW 2024] EXGC: Bridging Efficiency and Explainability in Graph Condensation. 
