@@ -2,7 +2,6 @@
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/ChandlerBang/awesome-graph-reduction?color=yellow)
 
-
 This is a curated list of papers about graph reduction including graph condensation, graph coarsening, graph sparsification, graph summarization, etc.
 
 If you want to add new entries, please make PRs with the same format.
@@ -11,8 +10,10 @@ This list serves as a complement to the survey below.
 
 [[A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation]](https://cse.msu.edu/~jinwei2/files/Survey_GraphReduction.pdf)
 
+<div align=center><img src="https://github.com/ChandlerBang/awesome-graph-reduction/blob/main/figs/graph_reduction.pdf" width="500" /></div>
 
 If you find this repo helpful, we would appreciate it if you could cite our survey.
+
 ```
 @article{hashemi2024comprehensive,
 title={A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation},
@@ -22,9 +23,9 @@ year={2024}
 }
 ```
 
-
 ## Graph Condensation / Graph Dataset Distillation
-- [WWW 2024] EXGC: Bridging Efficiency and Explainability in Graph Condensation. 
+
+- [WWW 2024] EXGC: Bridging Efficiency and Explainability in Graph Condensation.
 - [arXiv 2024] Disentangled Condensation for Large-scale Graphs. [[pdf]](https://arxiv.org/pdf/2401.12231.pdf)
 - [arXiv 2023] Graph Condensation via Eigenbasis Matching. [[pdf]](https://arxiv.org/pdf/2310.09202.pdf)
 - [arXiv 2023] Attend Who is Weak: Enhancing Graph Condensation via Cross-Free Adversarial Training. [[pdf]](https://arxiv.org/pdf/2311.15772.pdf)
