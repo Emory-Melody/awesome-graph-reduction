@@ -35,7 +35,7 @@ year={2024}
 - [arXiv 2023] Graph Condensation via Eigenbasis Matching. [[pdf]](https://arxiv.org/abs/2310.09202)
 - [arXiv 2023] Faster Hyperparameter Search for GNNs via Calibrated Dataset Condensation. [[pdf]](https://openreview.net/pdf?id=ohQPU2G3r3C)
 - [arXiv 2022] Graph Condensation via Receptive Field Distribution Matching. [[pdf]](https://arxiv.org/pdf/2206.13697.pdf)
-- [arXiv 2023] (APP) FedGKD: Unleashing the Power of Collaboration in Federated Graph Neural Networks. [[pdf]](https://arxiv.org/pdf/2309.09517.pdf)
+- [arXiv 2023] (App) FedGKD: Unleashing the Power of Collaboration in Federated Graph Neural Networks. [[pdf]](https://arxiv.org/pdf/2309.09517.pdf)
 - [arXiv 2023] Fast Graph Condensation with Structure-based Neural Tangent Kernel. [[pdf]](https://arxiv.org/pdf/2310.11046.pdf)
 - [Applied Sciences 2023] GCARe: Mitigating Subgroup Unfairness in Graph Condensation through Adversarial Regularization. [[pdf]](https://www.mdpi.com/2076-3417/13/16/9166)
 - [NeurIPS 2023] Fair Graph Distillation. [[pdf]](https://openreview.net/pdf?id=xW0ayZxPWs)
