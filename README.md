@@ -52,10 +52,10 @@ year={2024}
 - [arXiv 2023] FedGKD: Unleashing the Power of Collaboration in Federated Graph Neural Networks. [[pdf]](https://arxiv.org/pdf/2309.09517.pdf)
   -->
 
-## Graph Coarsening / Clustering
+## Graph Coarsening / Clustering / Summary
 
 - [arXiv 2023] Graph Coarsening via Convolution Matching for Scalable Graph Neural Network Training. [[pdf]](https://arxiv.org/pdf/2312.15520.pdf) [[code]](https://github.com/amazon-science/convolution-matching)
-- [NeurIPS 2023] ResolvNet: A Graph Convolutional Network with multi-scale Consistency. [[pdf]](https://arxiv.org/pdf/2310.00431.pdf)
+- [arXiv 2023] ResolvNet: A Graph Convolutional Network with multi-scale Consistency. [[pdf]](https://arxiv.org/pdf/2310.00431.pdf)
 - [ICML 2023] Featured Graph Coarsening with Similarity Guarantees. [[pdf]](http://proceedings.mlr.press/v202/kumar23a/kumar23a.pdf)
 - [JMLR 2023] A Unified Framework for Optimization-Based Graph Coarsening. [[pdf]](https://www.jmlr.org/papers/volume24/22-1085/22-1085.pdf) [[code]](https://github.com/GraphCoarsening/Featured-Graph-Coarsening)
 - [WWW 2022] (App) ALLIE: Active Learning on Large-scale Imbalanced Graphs. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512229)
@@ -67,18 +67,18 @@ year={2024}
 - [ICML 2020] Spectral Clustering with Graph Neural Networks for Graph Pooling. [[pdf]](https://arxiv.org/pdf/1907.00481.pdf) [[code]](https://github.com/FilippoMB/Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling)
 - [ICML 2020] Learning Algebraic Multigrid Using Graph Neural Networks. [[pdf]](https://proceedings.mlr.press/v119/luz20a/luz20a.pdf) [[code]](https://github.com/ilayluz/learning-amg)
 - [ICLR 2020] GraphZoom: A multi-level spectral approach for accurate and scalable graph embedding. [[pdf]](https://arxiv.org/pdf/1910.02370.pdf) [[code]](https://github.com/cornell-zhang/GraphZoom)
-- [KDD 2019] Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks. [[pdf]](https://arxiv.org/pdf/1905.07953.pdf) [[code]](https://github.com/google-research/google-research/tree/master/cluster_gcn)
 - [NeurIPS 2019] A unifying framework for spectrum-preserving graph sparsification and coarsening. [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2019/file/cd474f6341aeffd65f93084d0dae3453-Paper.pdf) [[code]](https://github.com/TheGravLab/A-Unifying-Framework-for-Spectrum-Preserving-Graph-Sparsification-and-Coarsening)
 - [JMLR 2019] Graph reduction with spectral and cut guarantees. [[pdf]](https://arxiv.org/pdf/1808.10650.pdf) [[code]](https://github.com/loukasa/graph-coarsening/tree/v1.1)
 - [ICML 2018] Spectrally approximating large graphs with smaller graphs. [[pdf]](https://arxiv.org/pdf/1802.07510.pdf)
 - [ICDM 2018] NetGist: Learning to Generate Task-Based Network Summaries. [[pdf]](https://faculty.cc.gatech.edu/~badityap/papers/netgist-icdm18.pdf)
-- [Signal Processing 2016] A Multiscale Pyramid Transform for Graph Signals. [[pdf]](https://arxiv.org/pdf/1308.4942.pdf)
+- [Signal Processing 2016] (App) A Multiscale Pyramid Transform for Graph Signals. [[pdf]](https://arxiv.org/pdf/1308.4942.pdf)
 - [KDD 2014] Fast Influence-based Coarsening for Large Networks. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2623330.2623701)
 - [ICSEE 2014] Graph summarization for attributed graphs. [[pdf]](https://ieeexplore.ieee.org/abstract/document/6948163)
 - [Circuits and Systems 2013] Kron Reduction of Graphs with Applications to Electrical Networks. [[pdf]](https://arxiv.org/pdf/1102.2950.pdf)
 - [SIAM 2012] Lean Algebraic Multigrid (LAMG): Fast Graph Laplacian Linear Solver. [[pdf]](https://arxiv.org/pdf/1108.1310.pdf)
 - [SIAM 2011] Relaxation-Based Coarsening and Multiscale Graph Organization. [[pdf]](https://arxiv.org/pdf/1004.1220.pdf)
 - [SIAM 2011] Algebraic Distance on Graphs. [[pdf]](https://jiechenjiechen.github.io/pub/algebraic_distance_long.pdf)
+- [ICDE 2010] Discovery-driven graph summarization. [[pdf]](https://ieeexplore.ieee.org/abstract/document/5447830)
 - [TPAMI 2007] Weighted Graph Cuts without Eigenvectors A Multilevel Approach. [[pdf]](https://ieeexplore.ieee.org/document/4302760)
 - [SIAM 1998] A Fast and High Quality Multilevel Scheme for Partitioning Irregular Graphs. [[pdf]](https://www.cs.utexas.edu/~pingali/CS395T/2009fa/papers/metis.pdf)
 - [Bell System 1970] An efficient heuristic procedure for partitioning graphs [[pdf]](https://ieeexplore.ieee.org/abstract/document/6771089)
@@ -106,7 +106,6 @@ year={2024}
 - [NeurIPS 2019] (Privacy) On Differentially Private Graph Sparsification and Applications. [[pdf]](https://papers.nips.cc/paper_files/paper/2019/file/e44e875c12109e4fa3716c05008048b2-Paper.pdf)
 - [AISTATS 2016] Graph Sparsification Approaches for Laplacian Smoothing. [[pdf]](https://www.stat.berkeley.edu/~ryantibs/papers/lapsparse.pdf)
 - [IJCAI 2015] A New Simplex Sparse Learning Model to Measure Data Similarity for Clustering. [[pdf]](https://www.ijcai.org/Proceedings/15/Papers/502.pdf)
-- [Signal Processing 2015] A Multiscale Pyramid Transform for Graph Signals. [[pdf]](https://arxiv.org/pdf/1308.4942.pdf)
 - [CVPR 2012] Non-negative low rank and sparse graph for semi-supervised learning. [[pdf]](https://zhouchenlin.github.io/Publications/2012-CVPR-NNLRS.pdf)
 - [VLDB 2012] Densest Subgraph in Streaming and MapReduce. [[pdf]](https://vldb.org/pvldb/vol5/p454_bahmanbahmani_vldb2012.pdf)
 - [VLDB 2012] Dense Subgraph Maintenance under Streaming Edge Weight Updates for Real-time Story Identification. [[pdf]](https://vldb.org/pvldb/vol5/p574_albertangel_vldb2012.pdf)
