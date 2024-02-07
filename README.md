@@ -15,11 +15,13 @@ This list serves as a complement to the survey below.
 If you find this repo helpful, we would appreciate it if you could cite our survey.
 
 ```
-@article{hashemi2024comprehensive,
-title={A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation},
-author={Mohammad Hashemi and Shengbo Gong and Juntong Ni and Wenqi Fan and B. Aditya Prakash and Wei Jin},
-journal={arXiv preprint},
-year={2024}
+@misc{hashemi2024comprehensive,
+      title={A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation}, 
+      author={Mohammad Hashemi and Shengbo Gong and Juntong Ni and Wenqi Fan and B. Aditya Prakash and Wei Jin},
+      year={2024},
+      eprint={2402.03358},
+      archivePrefix={arXiv},
+      primaryClass={cs.SI}
 }
 ```
 
