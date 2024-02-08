@@ -16,7 +16,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ```
 @misc{hashemi2024comprehensive,
-      title={A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation}, 
+      title={A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation},
       author={Mohammad Hashemi and Shengbo Gong and Juntong Ni and Wenqi Fan and B. Aditya Prakash and Wei Jin},
       year={2024},
       eprint={2402.03358},
@@ -126,6 +126,9 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ### Survey: Graph Reduction/ Summarization / Simplification
 
+- [arXiv 2024] A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation. [[pdf]](https://arxiv.org/abs/2402.03358)
+- [arXiv 2024] A Survey on Graph Condensation. [[pdf]](https://arxiv.org/abs/2402.02000)
+- [arXiv 2024] Graph Condensation: A Survey. [[pdf]](https://arxiv.org/abs/2401.11720)
 - [IJCAI 2023] A Survey on Dataset Distillation: Approaches, Applications and Future Directions. [[pdf]](https://arxiv.org/pdf/2305.01975.pdf)
 - [arXiv 2023] Dataset Distillation: A Comprehensive Review. [[pdf]](https://arxiv.org/pdf/2301.07014.pdf)
 - [Communications of the ACM] Spectral Sparsification of Graphs: Theory and Algorithms. [[pdf]](http://cs-www.cs.yale.edu/homes/spielman/PAPERS/CACMsparse.pdf)
