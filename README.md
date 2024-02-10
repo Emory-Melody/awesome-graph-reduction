@@ -124,13 +124,12 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 <!-- - - [ICLR 2020] DropEdge: Towards Deep Graph Convolutional Networks on Node Classification. [[pdf]](https://arxiv.org/pdf/1907.10903.pdf) [[code]](https://github.com/DropEdge/DropEdge)
 [WSDM 2021] Learning to Drop: Robust Graph Neural Network via Topological Denoising. [[pdf]](https://arxiv.org/pdf/2011.07057.pdf) [[code]](https://github.com/flyingdoog/PTDNet)-->
 
-### Survey: Graph Reduction/ Summarization / Simplification
+### Surveys
 
-- [arXiv 2024] A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation. [[pdf]](https://arxiv.org/abs/2402.03358)
+Graph Reduction/ Summarization / Simplification
+- **[Ours][arXiv 2024] A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation. [[pdf]](https://arxiv.org/abs/2402.03358)**
 - [arXiv 2024] A Survey on Graph Condensation. [[pdf]](https://arxiv.org/abs/2402.02000)
 - [arXiv 2024] Graph Condensation: A Survey. [[pdf]](https://arxiv.org/abs/2401.11720)
-- [IJCAI 2023] A Survey on Dataset Distillation: Approaches, Applications and Future Directions. [[pdf]](https://arxiv.org/pdf/2305.01975.pdf)
-- [arXiv 2023] Dataset Distillation: A Comprehensive Review. [[pdf]](https://arxiv.org/pdf/2301.07014.pdf)
 - [Communications of the ACM] Spectral Sparsification of Graphs: Theory and Algorithms. [[pdf]](http://cs-www.cs.yale.edu/homes/spielman/PAPERS/CACMsparse.pdf)
 - [TAI 2023] A Comprehensive Survey on Graph Summarization with Graph Neural Networks. [[pdf]](https://arxiv.org/abs/2302.06114)
 - [SeMA 2022] Graph coarsening: from scientific computing to machine learning. [[pdf]](https://link.springer.com/article/10.1007/s40324-021-00282-x)
@@ -139,6 +138,12 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [ACS 2018] Graph Summarization Methods and Applications: A Survey. [[pdf]](https://arxiv.org/abs/1612.04883)
 - [HPDC 2016] Efficient Processing of Large Graphs via Input Reduction. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2907294.2907312)
 - [VLDB 2005] Densest Subgraph Discovery on Large Graphs: Applications, Challenges, and Techniques. [[pdf]](https://www.vldb.org/pvldb/vol15/p3766-luo.pdf)
+
+Other related topics
+- [arXiv 2023] Dataset Distillation: A Comprehensive Review. [[pdf]](https://arxiv.org/pdf/2301.07014.pdf)
+- [IJCAI 2023] A Survey on Dataset Distillation: Approaches, Applications and Future Directions. [[pdf]](https://arxiv.org/pdf/2305.01975.pdf)
+
+
 
 ### Toolkits
 
