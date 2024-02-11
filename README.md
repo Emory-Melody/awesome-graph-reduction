@@ -143,7 +143,7 @@ Graph Reduction/ Summarization / Simplification
 - [ACS 2018] Graph Summarization Methods and Applications: A Survey. [[pdf]](https://arxiv.org/abs/1612.04883)
 - [HPDC 2016] Efficient Processing of Large Graphs via Input Reduction. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2907294.2907312)
 - [VLDB 2005] Densest Subgraph Discovery on Large Graphs: Applications, Challenges, and Techniques. [[pdf]](https://www.vldb.org/pvldb/vol15/p3766-luo.pdf)
-- [SIAM 1973] The Transitive Reduction of a Directed Graph. [[pdf]](https://www.cs.tufts.edu/comp/150FP/archive/al-aho/transitive-reduction.pdf)
+- [SIAM 1972] The Transitive Reduction of a Directed Graph. [[pdf]](https://www.cs.tufts.edu/comp/150FP/archive/al-aho/transitive-reduction.pdf)
 
 Other related topics
 - [arXiv 2023] Dataset Distillation: A Comprehensive Review. [[pdf]](https://arxiv.org/pdf/2301.07014.pdf)
