@@ -27,6 +27,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ## Graph Condensation / Graph Dataset Distillation
 
+- [arXiv 2024] Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching. [[pdf]](https://arxiv.org/pdf/2402.05011.pdf) [[code]](https://github.com/NUS-HPC-AI-Lab/GEOM)
 - [WWW 2024] EXGC: Bridging Efficiency and Explainability in Graph Condensation.
 - [arXiv 2024] Disentangled Condensation for Large-scale Graphs. [[pdf]](https://arxiv.org/pdf/2401.12231.pdf)
 - [arXiv 2023] Graph Condensation via Eigenbasis Matching. [[pdf]](https://arxiv.org/pdf/2310.09202.pdf)
@@ -56,7 +57,9 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
   -->
 
 ## Graph Coarsening / Clustering / Summary
+
 ### GNN-involved
+
 - [arXiv 2023] Graph Coarsening via Convolution Matching for Scalable Graph Neural Network Training. [[pdf]](https://arxiv.org/pdf/2312.15520.pdf) [[code]](https://github.com/amazon-science/convolution-matching)
 - [arXiv 2023] ResolvNet: A Graph Convolutional Network with multi-scale Consistency. [[pdf]](https://arxiv.org/pdf/2310.00431.pdf)
 - [ICML 2023] Featured Graph Coarsening with Similarity Guarantees. [[pdf]](http://proceedings.mlr.press/v202/kumar23a/kumar23a.pdf)
@@ -72,7 +75,9 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [ICLR 2020] (App) GraphZoom: A multi-level spectral approach for accurate and scalable graph embedding. [[pdf]](https://arxiv.org/pdf/1910.02370.pdf) [[code]](https://github.com/cornell-zhang/GraphZoom)
 - [HiPC 2021] (App) DistMILE: A Distributed Multi-Level Framework for Scalable Graph Embedding. [[pdf]](https://ieeexplore.ieee.org/document/9680339)
 - [AAAI 2018] (App) HARP: Hierarchical Representation Learning for Networks. [[pdf]](https://arxiv.org/abs/1706.07845)
+
 ### non-GNN-involved
+
 - [AISTATS 2020] Graph Coarsening with Preserved Spectral Properties. [[pdf]](https://arxiv.org/pdf/1802.04447.pdf)
 - [NeurIPS 2019] A unifying framework for spectrum-preserving graph sparsification and coarsening. [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2019/file/cd474f6341aeffd65f93084d0dae3453-Paper.pdf) [[code]](https://github.com/TheGravLab/A-Unifying-Framework-for-Spectrum-Preserving-Graph-Sparsification-and-Coarsening)
 - [JMLR 2019] Graph reduction with spectral and cut guarantees. [[pdf]](https://arxiv.org/pdf/1808.10650.pdf) [[code]](https://github.com/loukasa/graph-coarsening/tree/v1.1)
@@ -96,7 +101,9 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [NeurIPS 2022] Hierarchical graph transformer with adaptive node sampling. [[pdf]](https://arxiv.org/pdf/2210.03930.pdf)-->
 
 ## Graph Sparsification / Sampling / Selection
+
 ### GNN-involved
+
 - [TPAMI 2023] Graph Neural Network Meets Sparse Representation: Graph Sparse Neural Networks via Exclusive Group Lasso. [[pdf]](https://www.computer.org/csdl/journal/tp/2023/10/10149528/1NWyjHHTWjC)
 - [KDD 2023] Interpretable Sparsification of Brain Graphs: Better Practices and Effective Designs for Graph Neural Networks. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599394) [[code]](https://github.com/motivationss/IGS)
 - [TNNLS 2023] (App) Ricci Curvature-Based Graph Sparsification for Continual Graph Representation Learning [[pdf]](https://ieeexplore.ieee.org/document/10225445)
@@ -106,10 +113,12 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [ISCA 2022] SmartSAGE: Training Large-scale Graph Neural Networks using In-Storage Processing Architectures. [[pdf]](https://arxiv.org/pdf/2205.04711.pdf)
 - [UAI 2022] Principle of Relevant Information for Graph Sparsification. [[pdf]](https://proceedings.mlr.press/v180/yu22c/yu22c.pdf) [[code]](https://github.com/SJYuCNEL/PRI-Graphs)
 - [ICLR 2020] GraphSAINT: Graph Sampling Based Inductive Learning Method. [[pdf]](https://arxiv.org/pdf/1907.04931.pdf) [[code]](https://github.com/GraphSAINT/GraphSAINT)
-- [ICDM 2020]  Graph Sparsification with Generative Adversarial Network. [[pdf]](https://arxiv.org/pdf/2009.11736.pdf)
+- [ICDM 2020] Graph Sparsification with Generative Adversarial Network. [[pdf]](https://arxiv.org/pdf/2009.11736.pdf)
 - [ICML 2020] (App) Robust Graph Representation Learning via Neural Sparsification. [[pdf]](https://proceedings.mlr.press/v119/zheng20d/zheng20d.pdf) [[code]](https://github.com/flyingdoog/PTDNet)
 - [TOC 2020] Robust Graph Learning from Noisy Data. [[pdf]](https://arxiv.org/pdf/1812.06673.pdf) [[code]](https://github.com/sckangz/RGC)
+
 ### non-GNN-involved
+
 - [STOC 2019] A General Framework for Graph Sparsification. [[pdf]](https://arxiv.org/pdf/1004.4080.pdf)
 - [NeurIPS 2019] (Privacy) On Differentially Private Graph Sparsification and Applications. [[pdf]](https://papers.nips.cc/paper_files/paper/2019/file/e44e875c12109e4fa3716c05008048b2-Paper.pdf)
 - [AISTATS 2016] Graph Sparsification Approaches for Laplacian Smoothing. [[pdf]](https://www.stat.berkeley.edu/~ryantibs/papers/lapsparse.pdf)
@@ -132,6 +141,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 ### Surveys
 
 Graph Reduction/ Summarization / Simplification
+
 - **[Ours][arXiv 2024] A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation. [[pdf]](https://arxiv.org/abs/2402.03358)**
 - [arXiv 2024] A Survey on Graph Condensation. [[pdf]](https://arxiv.org/abs/2402.02000)
 - [arXiv 2024] Graph Condensation: A Survey. [[pdf]](https://arxiv.org/abs/2401.11720)
@@ -146,10 +156,9 @@ Graph Reduction/ Summarization / Simplification
 - [SIAM 1972] The Transitive Reduction of a Directed Graph. [[pdf]](https://www.cs.tufts.edu/comp/150FP/archive/al-aho/transitive-reduction.pdf)
 
 Other related topics
+
 - [arXiv 2023] Dataset Distillation: A Comprehensive Review. [[pdf]](https://arxiv.org/pdf/2301.07014.pdf)
 - [IJCAI 2023] A Survey on Dataset Distillation: Approaches, Applications and Future Directions. [[pdf]](https://arxiv.org/pdf/2305.01975.pdf)
-
-
 
 ### Toolkits
 
