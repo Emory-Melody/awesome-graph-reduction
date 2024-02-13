@@ -128,7 +128,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [VLDB 2012] Dense Subgraph Maintenance under Streaming Edge Weight Updates for Real-time Story Identification. [[pdf]](https://vldb.org/pvldb/vol5/p574_albertangel_vldb2012.pdf)
 - [STOC 2011] A General Framework for Graph Sparsification. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/1993636.1993647)
 - [STOC 2011] Spectral Sparsification of Graphs [[pdf]](https://epubs.siam.org/doi/abs/10.1137/08074489X)
-- [ICDM 2011] Identity obfuscation in graphs through the information theoretic lens. [[pdf]](https://ieeexplore.ieee.org/document/5767905)
+- [ICDM 2011] Identity Obfuscation in Graphs through the Information Theoretic Lens. [[pdf]](https://ieeexplore.ieee.org/document/5767905)
 - [STOC 2008] Graph Sparsification by Effective Resistances. [[pdf]](https://arxiv.org/pdf/0803.0929.pdf)
 - [STOC 2004] Nearly-linear time algorithms for graph partitioning, graph sparsification, and solving linear system. [[pdf]](https://dl.acm.org/doi/10.1145/1007352.1007372)
 - [Internet Mathematics 2014] Ranking and Sparsifying a Connection Graph. [[pdf]](https://mathweb.ucsd.edu/~fan/wp/connectionj.pdf)
