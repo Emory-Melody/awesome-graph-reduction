@@ -28,7 +28,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [arXiv 2024] Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching. [[pdf]](https://arxiv.org/pdf/2402.05011.pdf) [[code]](https://github.com/NUS-HPC-AI-Lab/GEOM)
 - [arXiv 2024] Two Trades is not Baffled: Condensing Graph via Crafting Rational Gradient Matching [[pdf]](https://arxiv.org/pdf/2402.04924.pdf) [[code]](https://github.com/NUS-HPC-AI-Lab/CTRL)
 - [WWW 2024] Globally Interpretable Graph Learning via Distribution Matching. [[pdf]](https://arxiv.org/abs/2306.10447)
-- [WWW 2024] EXGC: Bridging Efficiency and Explainability in Graph Condensation.
+- [WWW 2024] EXGC: Bridging Efficiency and Explainability in Graph Condensation. [[pdf]](https://arxiv.org/pdf/2402.05962.pdf) [[code]](https://github.com/MangoKiller/EXGC)
 - [arXiv 2024] Disentangled Condensation for Large-scale Graphs. [[pdf]](https://arxiv.org/pdf/2401.12231.pdf)
 - [arXiv 2023] Graph Condensation via Eigenbasis Matching. [[pdf]](https://arxiv.org/pdf/2310.09202.pdf)
 - [arXiv 2023] Attend Who is Weak: Enhancing Graph Condensation via Cross-Free Adversarial Training. [[pdf]](https://arxiv.org/pdf/2311.15772.pdf)
