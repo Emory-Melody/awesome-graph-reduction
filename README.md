@@ -78,7 +78,6 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [AAAI 2018] (App) HARP: Hierarchical Representation Learning for Networks. [[pdf]](https://arxiv.org/abs/1706.07845)
 
 ### non-GNN-involved
-
 - [AISTATS 2020] Graph Coarsening with Preserved Spectral Properties. [[pdf]](https://arxiv.org/pdf/1802.04447.pdf)
 - [NeurIPS 2019] A unifying framework for spectrum-preserving graph sparsification and coarsening. [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2019/file/cd474f6341aeffd65f93084d0dae3453-Paper.pdf) [[code]](https://github.com/TheGravLab/A-Unifying-Framework-for-Spectrum-Preserving-Graph-Sparsification-and-Coarsening)
 - [JMLR 2019] Graph reduction with spectral and cut guarantees. [[pdf]](https://arxiv.org/pdf/1808.10650.pdf) [[code]](https://github.com/loukasa/graph-coarsening/tree/v1.1)
@@ -93,6 +92,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [SIAM 2011] Algebraic Distance on Graphs. [[pdf]](https://jiechenjiechen.github.io/pub/algebraic_distance_long.pdf)
 - [ICDE 2010] Discovery-driven graph summarization. [[pdf]](https://ieeexplore.ieee.org/abstract/document/5447830)
 - [TPAMI 2007] Weighted Graph Cuts without Eigenvectors A Multilevel Approach. [[pdf]](https://ieeexplore.ieee.org/document/4302760)
+- [Physical Review E 2005] Coarse-Graining and Self-Dissimilarity of Complex Networks. [[pdf]](https://arxiv.org/pdf/q-bio/0405011.pdf)
 - [SIAM 1998] (App) A Fast and High Quality Multilevel Scheme for Partitioning Irregular Graphs. [[pdf]](https://www.cs.utexas.edu/~pingali/CS395T/2009fa/papers/metis.pdf)
 - [Bell System 1970] (App) An efficient heuristic procedure for partitioning graphs [[pdf]](https://ieeexplore.ieee.org/abstract/document/6771089)
 
