@@ -82,6 +82,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [AISTATS 2020] Graph Coarsening with Preserved Spectral Properties. [[pdf]](https://arxiv.org/pdf/1802.04447.pdf)
 - [NeurIPS 2019] A unifying framework for spectrum-preserving graph sparsification and coarsening. [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2019/file/cd474f6341aeffd65f93084d0dae3453-Paper.pdf) [[code]](https://github.com/TheGravLab/A-Unifying-Framework-for-Spectrum-Preserving-Graph-Sparsification-and-Coarsening)
 - [JMLR 2019] Graph reduction with spectral and cut guarantees. [[pdf]](https://arxiv.org/pdf/1808.10650.pdf) [[code]](https://github.com/loukasa/graph-coarsening/tree/v1.1)
+- [Chaos 2018] Spectral coarse graining for random walk in bipartite networks. [[pdf]](https://arxiv.org/pdf/1209.1028.pdf)
 - [ICML 2018] Spectrally approximating large graphs with smaller graphs. [[pdf]](https://arxiv.org/pdf/1802.07510.pdf)
 - [ICDM 2018] NetGist: Learning to Generate Task-Based Network Summaries. [[pdf]](https://faculty.cc.gatech.edu/~badityap/papers/netgist-icdm18.pdf)
 - [Signal Processing 2016] (App) A Multiscale Pyramid Transform for Graph Signals. [[pdf]](https://arxiv.org/pdf/1308.4942.pdf)
