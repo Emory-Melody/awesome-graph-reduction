@@ -25,6 +25,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ## Graph Condensation / Graph Dataset Distillation
 
+- [TKDE 2024] Heterogeneous Graph Condensation. [[pdf]](https://ieeexplore.ieee.org/abstract/document/10423255) [[code]](https://github.com/jianjianGJ/hgcond)
 - [arXiv 2024] Graph-Skeleton: ~1% Nodes are Sufficient to Represent Billion-Scale Graph. [[pdf]](https://arxiv.org/abs/2402.09565) [[code]](https://github.com/zjunet/GraphSkeleton)
 - [arXiv 2024] Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching. [[pdf]](https://arxiv.org/pdf/2402.05011.pdf) [[code]](https://github.com/NUS-HPC-AI-Lab/GEOM)
 - [arXiv 2024] Two Trades is not Baffled: Condensing Graph via Crafting Rational Gradient Matching [[pdf]](https://arxiv.org/pdf/2402.04924.pdf) [[code]](https://github.com/NUS-HPC-AI-Lab/CTRL)
