@@ -60,7 +60,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 ## Graph Coarsening / Clustering / Summary
 
 ### GNN-involved
-
+- [WWW 2024] Graph-Skeleton: ～1% Nodes are Sufficient to Represent Billion-Scale Graph. [[pdf]](https://arxiv.org/pdf/2402.09565.pdf) [[code]](https://github.com/caolinfeng/GraphSkeleton)
 - [arXiv 2023] Graph Coarsening via Convolution Matching for Scalable Graph Neural Network Training. [[pdf]](https://arxiv.org/pdf/2312.15520.pdf) [[code]](https://github.com/amazon-science/convolution-matching)
 - [arXiv 2023] ResolvNet: A Graph Convolutional Network with multi-scale Consistency. [[pdf]](https://arxiv.org/pdf/2310.00431.pdf)
 - [ICML 2023] Featured Graph Coarsening with Similarity Guarantees. [[pdf]](http://proceedings.mlr.press/v202/kumar23a/kumar23a.pdf)
