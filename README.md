@@ -25,7 +25,6 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ## Graph Condensation / Graph Dataset Distillation
 
-- [arXiv 2024] Dataset Condensation for Time Series Classification via Dual Domain Matching. [[pdf]](https://arxiv.org/pdf/2403.07245v1.pdf) [[code]](https://github.com/TimeSeriesCond/TimeSeriesCondensation)
 - [arXiv 2024] Graph Data Condensation via Self-expressive Graph Structure Reconstruction. [[pdf]](https://arxiv.org/pdf/2403.07294v1.pdf) [[code]](https://www.dropbox.com/scl/fi/2aonyp5ln5gisdqtjimu8/GCSR.zip?rlkey=11cuwfpsf54wxiiktu0klud0x&dl=0)
 - [TKDE 2024] Heterogeneous Graph Condensation. [[pdf]](https://ieeexplore.ieee.org/abstract/document/10423255) [[code]](https://github.com/jianjianGJ/hgcond)
 - [arXiv 2024] Graph-Skeleton: ~1% Nodes are Sufficient to Represent Billion-Scale Graph. [[pdf]](https://arxiv.org/abs/2402.09565) [[code]](https://github.com/zjunet/GraphSkeleton)
