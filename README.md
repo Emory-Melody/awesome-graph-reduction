@@ -25,6 +25,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ## Graph Condensation / Graph Dataset Distillation
 
+- [arXiv 2024] Dataset Condensation for Time Series Classification via Dual Domain Matching. [[pdf]](https://arxiv.org/pdf/2403.07245v1.pdf) [[code]](https://github.com/TimeSeriesCond/TimeSeriesCondensation)
+- [arXiv 2024] Graph Data Condensation via Self-expressive Graph Structure Reconstruction. [[pdf]](https://arxiv.org/pdf/2403.07294v1.pdf) [[code]](https://www.dropbox.com/scl/fi/2aonyp5ln5gisdqtjimu8/GCSR.zip?rlkey=11cuwfpsf54wxiiktu0klud0x&dl=0)
 - [TKDE 2024] Heterogeneous Graph Condensation. [[pdf]](https://ieeexplore.ieee.org/abstract/document/10423255) [[code]](https://github.com/jianjianGJ/hgcond)
 - [arXiv 2024] Graph-Skeleton: ~1% Nodes are Sufficient to Represent Billion-Scale Graph. [[pdf]](https://arxiv.org/abs/2402.09565) [[code]](https://github.com/zjunet/GraphSkeleton)
 - [arXiv 2024] Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching. [[pdf]](https://arxiv.org/pdf/2402.05011.pdf) [[code]](https://github.com/NUS-HPC-AI-Lab/GEOM)
@@ -60,7 +62,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 ## Graph Coarsening / Clustering / Summary
 
 ### GNN-involved
-- [WWW 2024] Graph-Skeleton: ～1% Nodes are Sufficient to Represent Billion-Scale Graph. [[pdf]](https://arxiv.org/pdf/2402.09565.pdf) [[code]](https://github.com/caolinfeng/GraphSkeleton)
+
+- [WWW 2024] Graph-Skeleton: ～ 1% Nodes are Sufficient to Represent Billion-Scale Graph. [[pdf]](https://arxiv.org/pdf/2402.09565.pdf) [[code]](https://github.com/caolinfeng/GraphSkeleton)
 - [arXiv 2023] Graph Coarsening via Convolution Matching for Scalable Graph Neural Network Training. [[pdf]](https://arxiv.org/pdf/2312.15520.pdf) [[code]](https://github.com/amazon-science/convolution-matching)
 - [arXiv 2023] ResolvNet: A Graph Convolutional Network with multi-scale Consistency. [[pdf]](https://arxiv.org/pdf/2310.00431.pdf)
 - [ICML 2023] Featured Graph Coarsening with Similarity Guarantees. [[pdf]](http://proceedings.mlr.press/v202/kumar23a/kumar23a.pdf)
@@ -75,7 +78,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [ICWSM 2021] (App) MILE: A Multi-Level Framework for Scalable Graph Embedding. [[pdf]](https://arxiv.org/abs/1802.09612) [[code]](https://github.com/jiongqian/MILE)
 - [ICML 2020] Spectral Clustering with Graph Neural Networks for Graph Pooling. [[pdf]](https://arxiv.org/pdf/1907.00481.pdf) [[code]](https://github.com/FilippoMB/Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling)
 - [KBS 2020] Graph convolutional networks with multi-level coarsening for graph
-classification. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0950705120300629)
+  classification. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0950705120300629)
 - [ICML 2020] Learning Algebraic Multigrid Using Graph Neural Networks. [[pdf]](https://proceedings.mlr.press/v119/luz20a/luz20a.pdf) [[code]](https://github.com/ilayluz/learning-amg)
 - [ICLR 2020] (App) GraphZoom: A multi-level spectral approach for accurate and scalable graph embedding. [[pdf]](https://arxiv.org/pdf/1910.02370.pdf) [[code]](https://github.com/cornell-zhang/GraphZoom)
 - [AAAI 2018] (App) HARP: Hierarchical Representation Learning for Networks. [[pdf]](https://arxiv.org/abs/1706.07845)
@@ -109,6 +112,7 @@ classification. [[pdf]](https://www.sciencedirect.com/science/article/pii/S09507
 ## Graph Sparsification / Sampling / Selection
 
 ### GNN-involved
+
 - [aeXiv 2024] Two Heads Are Better Than One:Boosting Graph Sparse Training via Semantic and Topological Awareness. [[pdf]](https://arxiv.org/pdf/2402.01242.pdf) [[code]](https://anonymous.4open.science/r/GST-0F15)
 - [TPAMI 2023] Graph Neural Network Meets Sparse Representation: Graph Sparse Neural Networks via Exclusive Group Lasso. [[pdf]](https://www.computer.org/csdl/journal/tp/2023/10/10149528/1NWyjHHTWjC)
 - [KDD 2023] Interpretable Sparsification of Brain Graphs: Better Practices and Effective Designs for Graph Neural Networks. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599394) [[code]](https://github.com/motivationss/IGS)
