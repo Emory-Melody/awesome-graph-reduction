@@ -111,8 +111,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 ## Graph Sparsification / Sampling / Selection
 
 ### GNN-involved
-
-- [aeXiv 2024] Two Heads Are Better Than One:Boosting Graph Sparse Training via Semantic and Topological Awareness. [[pdf]](https://arxiv.org/pdf/2402.01242.pdf) [[code]](https://anonymous.4open.science/r/GST-0F15)
+<!-- - [arXiv 2024] Two Heads Are Better Than One:Boosting Graph Sparse Training via Semantic and Topological Awareness. [[pdf]](https://arxiv.org/pdf/2402.01242.pdf) [[code]](https://anonymous.4open.science/r/GST-0F15)-->
 - [TPAMI 2023] Graph Neural Network Meets Sparse Representation: Graph Sparse Neural Networks via Exclusive Group Lasso. [[pdf]](https://ieeexplore.ieee.org/document/10149528)
 - [KDD 2023] Interpretable Sparsification of Brain Graphs: Better Practices and Effective Designs for Graph Neural Networks. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599394) [[code]](https://github.com/motivationss/IGS)
 - [TNNLS 2023] (App) Ricci Curvature-Based Graph Sparsification for Continual Graph Representation Learning [[pdf]](https://ieeexplore.ieee.org/document/10225445)
