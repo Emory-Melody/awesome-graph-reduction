@@ -25,6 +25,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ## Graph Condensation / Graph Dataset Distillation
 
+- [arXiv 2024] Simple Graph Condensation. [[pdf]](https://arxiv.org/pdf/2403.14951.pdf)
 - [arXiv 2024] Graph Data Condensation via Self-expressive Graph Structure Reconstruction. [[pdf]](https://arxiv.org/pdf/2403.07294v1.pdf) [[code]](https://www.dropbox.com/scl/fi/2aonyp5ln5gisdqtjimu8/GCSR.zip?rlkey=11cuwfpsf54wxiiktu0klud0x&dl=0)
 - [TKDE 2024] Heterogeneous Graph Condensation. [[pdf]](https://ieeexplore.ieee.org/abstract/document/10423255) [[code]](https://github.com/jianjianGJ/hgcond)
 - [arXiv 2024] Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching. [[pdf]](https://arxiv.org/pdf/2402.05011.pdf) [[code]](https://github.com/NUS-HPC-AI-Lab/GEOM)
@@ -63,7 +64,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 - [WWW 2024] Graph-Skeleton: ～ 1% Nodes are Sufficient to Represent Billion-Scale Graph. [[pdf]](https://arxiv.org/pdf/2402.09565.pdf) [[code]](https://github.com/caolinfeng/GraphSkeleton)
 - [Pacific Symposium on Biocomputing 2023] A Graph Coarsening Algorithm for Compressing Representations of Single-Cell
-Data with Clinical or Experimental Attributes [[pdf]](https://psb.stanford.edu/psb-online/proceedings/psb23/chen_c.pdf) [[code]](https://github.com/ChenCookie/cytocoarsening)
+  Data with Clinical or Experimental Attributes [[pdf]](https://psb.stanford.edu/psb-online/proceedings/psb23/chen_c.pdf) [[code]](https://github.com/ChenCookie/cytocoarsening)
 - [arXiv 2023] Graph Coarsening via Convolution Matching for Scalable Graph Neural Network Training. [[pdf]](https://arxiv.org/pdf/2312.15520.pdf) [[code]](https://github.com/amazon-science/convolution-matching)
 - [arXiv 2023] ResolvNet: A Graph Convolutional Network with multi-scale Consistency. [[pdf]](https://arxiv.org/pdf/2310.00431.pdf)
 - [ICML 2023] Featured Graph Coarsening with Similarity Guarantees. [[pdf]](http://proceedings.mlr.press/v202/kumar23a/kumar23a.pdf)
@@ -112,8 +113,10 @@ Data with Clinical or Experimental Attributes [[pdf]](https://psb.stanford.edu/p
 ## Graph Sparsification / Sampling / Selection
 
 ### GNN-involved
+
 <!-- - [arXiv 2024] Two Heads Are Better Than One:Boosting Graph Sparse Training via Semantic and Topological Awareness. [[pdf]](https://arxiv.org/pdf/2402.01242.pdf) [[code]](https://anonymous.4open.science/r/GST-0F15)
 - [TPAMI 2023] Graph Neural Network Meets Sparse Representation: Graph Sparse Neural Networks via Exclusive Group Lasso. [[pdf]](https://ieeexplore.ieee.org/document/10149528)-->
+
 - [KDD 2023] Interpretable Sparsification of Brain Graphs: Better Practices and Effective Designs for Graph Neural Networks. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599394) [[code]](https://github.com/motivationss/IGS)
 - [TNNLS 2023] (App) Ricci Curvature-Based Graph Sparsification for Continual Graph Representation Learning [[pdf]](https://ieeexplore.ieee.org/document/10225445)
 - [NeurIPS 2023] On the Ability of Graph Neural Networks to Model Interactions Between Vertices. [[pdf]](https://arxiv.org/pdf/2211.16494.pdf) [[code]](https://github.com/noamrazin/gnn_interactions)
