@@ -62,6 +62,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ### GNN-involved
 
+- [ICASSP 2024] Enhancing Performance of Coarsened Graphs with Gradient-Matching. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10448089)
 - [WWW 2024] Graph-Skeleton: ～ 1% Nodes are Sufficient to Represent Billion-Scale Graph. [[pdf]](https://arxiv.org/pdf/2402.09565.pdf) [[code]](https://github.com/caolinfeng/GraphSkeleton)
 - [Pacific Symposium on Biocomputing 2023] A Graph Coarsening Algorithm for Compressing Representations of Single-Cell
   Data with Clinical or Experimental Attributes [[pdf]](https://psb.stanford.edu/psb-online/proceedings/psb23/chen_c.pdf) [[code]](https://github.com/ChenCookie/cytocoarsening)
