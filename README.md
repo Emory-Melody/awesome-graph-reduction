@@ -78,11 +78,14 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [KDD 2021] Scaling Up Graph Neural Networks Via Graph Coarsening. [[pdf]](https://arxiv.org/pdf/2106.05150.pdf) [[code]](https://github.com/szzhang17/Scaling-Up-Graph-Neural-Networks-Via-Graph-Coarsening)
 - [HiPC 2021] (App) DistMILE: A Distributed Multi-Level Framework for Scalable Graph Embedding. [[pdf]](https://ieeexplore.ieee.org/document/9680339)
 - [ICWSM 2021] (App) MILE: A Multi-Level Framework for Scalable Graph Embedding. [[pdf]](https://arxiv.org/abs/1802.09612) [[code]](https://github.com/jiongqian/MILE)
+- [ICLR 2021] Optimization-Based Algebraic Multigrid Coarsening
+Using Reinforcement Learning [[pdf]](https://arxiv.org/pdf/2106.01854.pdf) [[code]](https://github.com/compdyn/rl_grid_coarsen)
 - [ICML 2020] Spectral Clustering with Graph Neural Networks for Graph Pooling. [[pdf]](https://arxiv.org/pdf/1907.00481.pdf) [[code]](https://github.com/FilippoMB/Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling)
 - [KBS 2020] Graph convolutional networks with multi-level coarsening for graph
   classification. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0950705120300629)
 - [ICML 2020] Learning Algebraic Multigrid Using Graph Neural Networks. [[pdf]](https://proceedings.mlr.press/v119/luz20a/luz20a.pdf) [[code]](https://github.com/ilayluz/learning-amg)
 - [ICLR 2020] (App) GraphZoom: A multi-level spectral approach for accurate and scalable graph embedding. [[pdf]](https://arxiv.org/pdf/1910.02370.pdf) [[code]](https://github.com/cornell-zhang/GraphZoom)
+
 - [AAAI 2018] (App) HARP: Hierarchical Representation Learning for Networks. [[pdf]](https://arxiv.org/abs/1706.07845)
 
 ### non-GNN-involved
@@ -96,6 +99,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [Signal Processing 2016] (App) A Multiscale Pyramid Transform for Graph Signals. [[pdf]](https://arxiv.org/pdf/1308.4942.pdf)
 - [KDD 2014] Fast Influence-based Coarsening for Large Networks. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2623330.2623701)
 - [ICSEE 2014] Graph summarization for attributed graphs. [[pdf]](https://ieeexplore.ieee.org/abstract/document/6948163)
+- [arXiv 2013] Aggregation-based aggressive coarsening with polynomial smoothing. [[pdf]](https://arxiv.org/pdf/1307.6305.pdf)
 - [SIAM 2012] Lean Algebraic Multigrid (LAMG): Fast Graph Laplacian Linear Solver. [[pdf]](https://arxiv.org/pdf/1108.1310.pdf)
 - [SIAM 2011] Relaxation-Based Coarsening and Multiscale Graph Organization. [[pdf]](https://arxiv.org/pdf/1004.1220.pdf)
 - [SIAM 2011] Algebraic Distance on Graphs. [[pdf]](https://jiechenjiechen.github.io/pub/algebraic_distance_long.pdf)
