@@ -80,12 +80,12 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [ICWSM 2021] (App) MILE: A Multi-Level Framework for Scalable Graph Embedding. [[pdf]](https://arxiv.org/abs/1802.09612) [[code]](https://github.com/jiongqian/MILE)
 - [ICLR 2021] Optimization-Based Algebraic Multigrid Coarsening
 Using Reinforcement Learning [[pdf]](https://arxiv.org/pdf/2106.01854.pdf) [[code]](https://github.com/compdyn/rl_grid_coarsen)
+- [AAAI 2021] Unsupervised Learning of Graph Hierarchical Abstractions with Differentiable Coarsening and Optimal Transport [[pdf]](https://arxiv.org/pdf/1912.11176.pdf) [[code]](https://github.com/matenure/OTCoarsening)
 - [ICML 2020] Spectral Clustering with Graph Neural Networks for Graph Pooling. [[pdf]](https://arxiv.org/pdf/1907.00481.pdf) [[code]](https://github.com/FilippoMB/Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling)
 - [KBS 2020] Graph convolutional networks with multi-level coarsening for graph
   classification. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0950705120300629)
 - [ICML 2020] Learning Algebraic Multigrid Using Graph Neural Networks. [[pdf]](https://proceedings.mlr.press/v119/luz20a/luz20a.pdf) [[code]](https://github.com/ilayluz/learning-amg)
 - [ICLR 2020] (App) GraphZoom: A multi-level spectral approach for accurate and scalable graph embedding. [[pdf]](https://arxiv.org/pdf/1910.02370.pdf) [[code]](https://github.com/cornell-zhang/GraphZoom)
-
 - [AAAI 2018] (App) HARP: Hierarchical Representation Learning for Networks. [[pdf]](https://arxiv.org/abs/1706.07845)
 
 ### non-GNN-involved
