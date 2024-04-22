@@ -2,7 +2,7 @@
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/ChandlerBang/awesome-graph-reduction?color=yellow)
 
-This is a curated list of papers about graph reduction including graph condensation, graph coarsening, graph sparsification, graph summarization, etc.
+[IJCAI 2024] This is a curated list of papers about graph reduction including graph condensation, graph coarsening, graph sparsification, graph summarization, etc.
 
 If you want to add new entries, please make PRs with the same format.
 
