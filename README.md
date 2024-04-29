@@ -18,7 +18,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 @article{hashemi2024comprehensive,
   title={A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation},
   author={Hashemi, Mohammad and Gong, Shengbo and Ni, Juntong and Fan, Wenqi and Prakash, B Aditya and Jin, Wei},
-  journal={arXiv preprint arXiv:2402.03358},
+  journal={IJCAI 2024},
   year={2024}
 }
 ```
