@@ -27,7 +27,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [ICLR 2024] Mirage: Model-Agnostic Graph Distillation for Graph Classification. [[pdf]](https://openreview.net/pdf?id=78iGZdqxYY) [[code]](https://github.com/idea-iitd/Mirage)
 - [arXiv 2024] Simple Graph Condensation. [[pdf]](https://arxiv.org/pdf/2403.14951.pdf)
 - [arXiv 2024] Graph Data Condensation via Self-expressive Graph Structure Reconstruction. [[pdf]](https://arxiv.org/pdf/2403.07294v1.pdf) [[code]](https://www.dropbox.com/scl/fi/2aonyp5ln5gisdqtjimu8/GCSR.zip?rlkey=11cuwfpsf54wxiiktu0klud0x&dl=0)
-- [arXiv 2024] Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching. [[pdf]](https://arxiv.org/pdf/2402.05011.pdf) [[code]](https://github.com/NUS-HPC-AI-Lab/GEOM)
+- [ICML 2024] Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching. [[pdf]](https://arxiv.org/pdf/2402.05011.pdf) [[code]](https://github.com/NUS-HPC-AI-Lab/GEOM)
 - [arXiv 2024] Two Trades is not Baffled: Condensing Graph via Crafting Rational Gradient Matching [[pdf]](https://arxiv.org/pdf/2402.04924.pdf) [[code]](https://github.com/NUS-HPC-AI-Lab/CTRL)
 - [arXiv 2024] Disentangled Condensation for Large-scale Graphs. [[pdf]](https://arxiv.org/pdf/2401.12231.pdf) [[code]](https://github.com/BangHonor/DisCo)
 - [TKDE 2024] Heterogeneous Graph Condensation. [[pdf]](https://ieeexplore.ieee.org/abstract/document/10423255) [[code]](https://github.com/jianjianGJ/hgcond)
@@ -48,7 +48,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [NeurIPS 2023] Does Graph Distillation See Like Vision Dataset Counterpart? [[pdf]](https://openreview.net/pdf?id=VqIWgUVsXc) [[code]](https://github.com/RingBDStack/SGDD)
 - [ICDM 2023] CaT: Balanced Continual Graph Learning with Graph Condensation. [[pdf]](https://arxiv.org/pdf/2309.09455.pdf) [[code]](https://github.com/superallen13/CaT-CGL)
 - [KDD 2023] Kernel Ridge Regression-Based Graph Dataset Distillation. [[pdf]](https://dl.acm.org/doi/10.1145/3580305.3599398)
-- [KBS 2023] Multiple sparse graphs condensation. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0950705123006548)
+- [KBS 2023] Multiple sparse graphs condensation. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0950705123006548) [[code]](https://github.com/jianjianGJ/MSGC)
 - ![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369)[KDD 2022] Condensing Graphs via One-Step Gradient Matching. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539429) [[code]](https://github.com/ChandlerBang/GCond)
 - ![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369)[ICLR 2022] Graph Condensation for Graph Neural Networks. [[pdf]](https://openreview.net/forum?id=WLEx3Jo4QaB) [[code]](https://github.com/ChandlerBang/GCond)
 
