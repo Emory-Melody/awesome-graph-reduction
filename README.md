@@ -24,6 +24,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 ```
 
 ## Graph Condensation / Graph Dataset Distillation
+
+- [ICML 2024] Graph Condensation via Eigenbasis Matching. [[pdf]](https://arxiv.org/pdf/2310.09202.pdf)
 - [ICLR 2024] Mirage: Model-Agnostic Graph Distillation for Graph Classification. [[pdf]](https://openreview.net/pdf?id=78iGZdqxYY) [[code]](https://github.com/idea-iitd/Mirage)
 - [arXiv 2024] Simple Graph Condensation. [[pdf]](https://arxiv.org/pdf/2403.14951.pdf)
 - [arXiv 2024] Graph Data Condensation via Self-expressive Graph Structure Reconstruction. [[pdf]](https://arxiv.org/pdf/2403.07294v1.pdf) [[code]](https://www.dropbox.com/scl/fi/2aonyp5ln5gisdqtjimu8/GCSR.zip?rlkey=11cuwfpsf54wxiiktu0klud0x&dl=0)
@@ -35,7 +37,6 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [WWW 2024] EXGC: Bridging Efficiency and Explainability in Graph Condensation. [[pdf]](https://arxiv.org/pdf/2402.05962.pdf) [[code]](https://github.com/MangoKiller/EXGC)
 - [WWW 2024] Fast Graph Condensation with Structure-based Neural Tangent Kernel. [[pdf]](https://arxiv.org/pdf/2310.11046.pdf) [[code]](https://github.com/WANGLin0126/GCSNTK)
 - [ICDE 2024] Graph Condensation for Inductive Node Representation Learning. [[pdf]](https://arxiv.org/pdf/2307.15967)
-- [arXiv 2023] Graph Condensation via Eigenbasis Matching. [[pdf]](https://arxiv.org/pdf/2310.09202.pdf)
 - [arXiv 2023] Attend Who is Weak: Enhancing Graph Condensation via Cross-Free Adversarial Training. [[pdf]](https://arxiv.org/pdf/2311.15772.pdf)
 - [arXiv 2023] PUMA: Efficient Continual Graph Learning with Graph Condensation. [[pdf]](https://arxiv.org/pdf/2312.14439) [[code]](https://github.com/superallen13/puma)
 - [arXiv 2023] Graph Condensation via Eigenbasis Matching. [[pdf]](https://arxiv.org/abs/2310.09202)
