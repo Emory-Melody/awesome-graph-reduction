@@ -47,7 +47,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [NeurIPS 2023] Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data. [[pdf]](https://arxiv.org/pdf/2306.02664.pdf) [[code]](https://github.com/Amanda-Zheng/SFGC)
 - [NeurIPS 2023] Does Graph Distillation See Like Vision Dataset Counterpart? [[pdf]](https://openreview.net/pdf?id=VqIWgUVsXc) [[code]](https://github.com/RingBDStack/SGDD)
 - [ICDM 2023] CaT: Balanced Continual Graph Learning with Graph Condensation. [[pdf]](https://arxiv.org/pdf/2309.09455.pdf) [[code]](https://github.com/superallen13/CaT-CGL)
-- [KDD 2023] Kernel Ridge Regression-Based Graph Dataset Distillation. [[pdf]](https://dl.acm.org/doi/10.1145/3580305.3599398)
+- [KDD 2023] Kernel Ridge Regression-Based Graph Dataset Distillation. [[pdf]](https://dl.acm.org/doi/10.1145/3580305.3599398) [[code]](https://github.com/pricexu/KIDD)
 - [KBS 2023] Multiple sparse graphs condensation. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0950705123006548) [[code]](https://github.com/jianjianGJ/MSGC)
 - ![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369)[KDD 2022] Condensing Graphs via One-Step Gradient Matching. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539429) [[code]](https://github.com/ChandlerBang/GCond)
 - ![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369)[ICLR 2022] Graph Condensation for Graph Neural Networks. [[pdf]](https://openreview.net/forum?id=WLEx3Jo4QaB) [[code]](https://github.com/ChandlerBang/GCond)
@@ -78,7 +78,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [HiPC 2021] (App) DistMILE: A Distributed Multi-Level Framework for Scalable Graph Embedding. [[pdf]](https://ieeexplore.ieee.org/document/9680339)
 - [ICWSM 2021] (App) MILE: A Multi-Level Framework for Scalable Graph Embedding. [[pdf]](https://arxiv.org/abs/1802.09612) [[code]](https://github.com/jiongqian/MILE)
 - [ICLR 2021] Optimization-Based Algebraic Multigrid Coarsening
-Using Reinforcement Learning [[pdf]](https://arxiv.org/pdf/2106.01854.pdf) [[code]](https://github.com/compdyn/rl_grid_coarsen)
+  Using Reinforcement Learning [[pdf]](https://arxiv.org/pdf/2106.01854.pdf) [[code]](https://github.com/compdyn/rl_grid_coarsen)
 - [AAAI 2021] Unsupervised Learning of Graph Hierarchical Abstractions with Differentiable Coarsening and Optimal Transport [[pdf]](https://arxiv.org/pdf/1912.11176.pdf) [[code]](https://github.com/matenure/OTCoarsening)
 - [ICML 2020] Spectral Clustering with Graph Neural Networks for Graph Pooling. [[pdf]](https://arxiv.org/pdf/1907.00481.pdf) [[code]](https://github.com/FilippoMB/Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling)
 - [KBS 2020] Graph convolutional networks with multi-level coarsening for graph
