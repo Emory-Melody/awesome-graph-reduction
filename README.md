@@ -156,12 +156,13 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 <!-- - - [ICLR 2020] DropEdge: Towards Deep Graph Convolutional Networks on Node Classification. [[pdf]](https://arxiv.org/pdf/1907.10903.pdf) [[code]](https://github.com/DropEdge/DropEdge)
 [WSDM 2021] Learning to Drop: Robust Graph Neural Network via Topological Denoising. [[pdf]](https://arxiv.org/pdf/2011.07057.pdf) [[code]](https://github.com/flyingdoog/PTDNet)-->
 
-## Surveys
+## Surveys & Benchmarks
 
 Graph Reduction/ Summarization / Simplification
 
 - ![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369)**[arXiv 2024] A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation. [[pdf]](https://arxiv.org/abs/2402.03358)**
 - [arXiv 2024] A Survey on Graph Condensation. [[pdf]](https://arxiv.org/abs/2402.02000)
+- [arXiv 2024] GCondenser: Benchmarking Graph Condensation. [[pdf]](https://arxiv.org/pdf/2405.14246) [[code]](https://github.com/superallen13/GCondenser)
 - [arXiv 2024] Graph Condensation: A Survey. [[pdf]](https://arxiv.org/abs/2401.11720)
 - [Communications of the ACM] Spectral Sparsification of Graphs: Theory and Algorithms. [[pdf]](http://cs-www.cs.yale.edu/homes/spielman/PAPERS/CACMsparse.pdf)
 - [TAI 2023] A Comprehensive Survey on Graph Summarization with Graph Neural Networks. [[pdf]](https://arxiv.org/abs/2302.06114)
