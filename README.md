@@ -1,4 +1,4 @@
-![image](https://github.com/Emory-Melody/awesome-graph-reduction/assets/59243884/dc36f52d-d505-4692-89b4-53b763707153)![image](https://github.com/Emory-Melody/awesome-graph-reduction/assets/59243884/be4857ff-c009-4edf-a7c9-6a157fc90a67)# awesome-graph-reduction
+# awesome-graph-reduction
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/ChandlerBang/awesome-graph-reduction?color=yellow)
 
@@ -68,8 +68,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [ICASSP 2024] Enhancing Performance of Coarsened Graphs with Gradient-Matching. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10448089)
 - [WWW 2024] Graph-Skeleton: ～ 1% Nodes are Sufficient to Represent Billion-Scale Graph. [[pdf]](https://arxiv.org/pdf/2402.09565.pdf) [[code]](https://github.com/caolinfeng/GraphSkeleton)
 - [arXiv 2024] Graph Coarsening with Message-Passing Guarantees. [[pdf]](https://arxiv.org/pdf/2405.18127)
-- [Pacific Symposium on Biocomputing 2023] A Graph Coarsening Algorithm for Compressing Representations of Single-Cell
-  Data with Clinical or Experimental Attributes [[pdf]](https://psb.stanford.edu/psb-online/proceedings/psb23/chen_c.pdf) [[code]](https://github.com/ChenCookie/cytocoarsening)
+- [Pacific Symposium on Biocomputing 2023] A Graph Coarsening Algorithm for Compressing Representations of Single-Cell Data with Clinical or Experimental Attributes. [[pdf]](https://psb.stanford.edu/psb-online/proceedings/psb23/chen_c.pdf) [[code]](https://github.com/ChenCookie/cytocoarsening)
 - [WWW 2024] Graph Coarsening via Convolution Matching for Scalable Graph Neural Network Training. [[pdf]](https://arxiv.org/pdf/2312.15520.pdf) [[code]](https://github.com/amazon-science/convolution-matching)
 - [arXiv 2023] ResolvNet: A Graph Convolutional Network with multi-scale Consistency. [[pdf]](https://arxiv.org/pdf/2310.00431.pdf)
 - [ICML 2023] Featured Graph Coarsening with Similarity Guarantees. [[pdf]](http://proceedings.mlr.press/v202/kumar23a/kumar23a.pdf)
