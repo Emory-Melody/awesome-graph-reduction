@@ -1,4 +1,4 @@
-# awesome-graph-reduction
+![image](https://github.com/Emory-Melody/awesome-graph-reduction/assets/59243884/dc36f52d-d505-4692-89b4-53b763707153)![image](https://github.com/Emory-Melody/awesome-graph-reduction/assets/59243884/be4857ff-c009-4edf-a7c9-6a157fc90a67)# awesome-graph-reduction
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/ChandlerBang/awesome-graph-reduction?color=yellow)
 
@@ -27,6 +27,10 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 - [ICML 2024] Graph Condensation via Eigenbasis Matching. [[pdf]](https://arxiv.org/pdf/2310.09202.pdf) [[code]](https://github.com/liuyang-tian/GDEM)
 - [ICLR 2024] Mirage: Model-Agnostic Graph Distillation for Graph Classification. [[pdf]](https://openreview.net/pdf?id=78iGZdqxYY) [[code]](https://github.com/idea-iitd/Mirage)
+- [arXiv 2024] Calibrated Dataset Condensation for Faster Hyperparameter Search. [[pdf]](https://arxiv.org/pdf/2405.17535)
+- [arXiv 2024] Federated Graph Condensation with Information Bottleneck Principles. [[pdf]](https://arxiv.org/pdf/2405.03911)
+- [arXiv 2024] Graph Condensation for Open-World Graph Learning. [[pdf]](https://arxiv.org/pdf/2405.17003)
+- [arXiv 2024] Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition. [[pdf]](https://arxiv.org/pdf/2405.13707)
 - [arXiv 2024] Simple Graph Condensation. [[pdf]](https://arxiv.org/pdf/2403.14951.pdf)
 - [arXiv 2024] Graph Data Condensation via Self-expressive Graph Structure Reconstruction. [[pdf]](https://arxiv.org/pdf/2403.07294v1.pdf) [[code]](https://www.dropbox.com/scl/fi/2aonyp5ln5gisdqtjimu8/GCSR.zip?rlkey=11cuwfpsf54wxiiktu0klud0x&dl=0)
 - [ICML 2024] Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching. [[pdf]](https://arxiv.org/pdf/2402.05011.pdf) [[code]](https://github.com/NUS-HPC-AI-Lab/GEOM)
@@ -63,9 +67,10 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 - [ICASSP 2024] Enhancing Performance of Coarsened Graphs with Gradient-Matching. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10448089)
 - [WWW 2024] Graph-Skeleton: ～ 1% Nodes are Sufficient to Represent Billion-Scale Graph. [[pdf]](https://arxiv.org/pdf/2402.09565.pdf) [[code]](https://github.com/caolinfeng/GraphSkeleton)
+- [arXiv 2024] Graph Coarsening with Message-Passing Guarantees. [[pdf]](https://arxiv.org/pdf/2405.18127)
 - [Pacific Symposium on Biocomputing 2023] A Graph Coarsening Algorithm for Compressing Representations of Single-Cell
   Data with Clinical or Experimental Attributes [[pdf]](https://psb.stanford.edu/psb-online/proceedings/psb23/chen_c.pdf) [[code]](https://github.com/ChenCookie/cytocoarsening)
-- [arXiv 2023] Graph Coarsening via Convolution Matching for Scalable Graph Neural Network Training. [[pdf]](https://arxiv.org/pdf/2312.15520.pdf) [[code]](https://github.com/amazon-science/convolution-matching)
+- [WWW 2024] Graph Coarsening via Convolution Matching for Scalable Graph Neural Network Training. [[pdf]](https://arxiv.org/pdf/2312.15520.pdf) [[code]](https://github.com/amazon-science/convolution-matching)
 - [arXiv 2023] ResolvNet: A Graph Convolutional Network with multi-scale Consistency. [[pdf]](https://arxiv.org/pdf/2310.00431.pdf)
 - [ICML 2023] Featured Graph Coarsening with Similarity Guarantees. [[pdf]](http://proceedings.mlr.press/v202/kumar23a/kumar23a.pdf)
 - [JMLR 2023] A Unified Framework for Optimization-Based Graph Coarsening. [[pdf]](https://www.jmlr.org/papers/volume24/22-1085/22-1085.pdf) [[code]](https://github.com/GraphCoarsening/Featured-Graph-Coarsening)
@@ -120,7 +125,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 <!-- - [arXiv 2024] Two Heads Are Better Than One:Boosting Graph Sparse Training via Semantic and Topological Awareness. [[pdf]](https://arxiv.org/pdf/2402.01242.pdf) [[code]](https://anonymous.4open.science/r/GST-0F15)
 - [TPAMI 2023] Graph Neural Network Meets Sparse Representation: Graph Sparse Neural Networks via Exclusive Group Lasso. [[pdf]](https://ieeexplore.ieee.org/document/10149528)-->
-
+- [arXiv 2024] Spectral Greedy Coresets for Graph Neural Networks. [[pdf]](https://arxiv.org/pdf/2405.17404)
 - [TKDE 2024] Graph Rewiring and Preprocessing for Graph Neural Networks Based on Effective Resistance. [[pdf]](https://ieeexplore.ieee.org/abstract/document/10521752)
 - [KDD 2023] Interpretable Sparsification of Brain Graphs: Better Practices and Effective Designs for Graph Neural Networks. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599394) [[code]](https://github.com/motivationss/IGS)
 - [TNNLS 2023] (App) Ricci Curvature-Based Graph Sparsification for Continual Graph Representation Learning [[pdf]](https://ieeexplore.ieee.org/document/10225445)
@@ -176,7 +181,7 @@ Graph Reduction/ Summarization / Simplification
 
 Other related topics
 
-- [arXiv 2023] Dataset Distillation: A Comprehensive Review. [[pdf]](https://arxiv.org/pdf/2301.07014.pdf)
+- [arXiv 2023] Dataset Distillation: A Comprehensive Review. [[pdf]](https://arxiv.org/pdf/2301.07014.pdf) [[github]](https://github.com/Guang000/Awesome-Dataset-Distillation)
 - [IJCAI 2023] A Survey on Dataset Distillation: Approaches, Applications and Future Directions. [[pdf]](https://arxiv.org/pdf/2305.01975.pdf)
 
 ## Toolkits
