@@ -18,13 +18,14 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 @article{hashemi2024comprehensive,
   title={A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation},
   author={Hashemi, Mohammad and Gong, Shengbo and Ni, Juntong and Fan, Wenqi and Prakash, B Aditya and Jin, Wei},
-  journal={IJCAI 2024},
+  journal={International Joint Conference on Artificial Intelligence (IJCAI)},
   year={2024}
 }
 ```
 
 ## Graph Condensation / Graph Dataset Distillation
 
+- [KDD 2024] Graph Condensation for Open-World Graph Learning. [[pdf]](https://arxiv.org/html/2405.17003v1)
 - [ICML 2024] Graph Condensation via Eigenbasis Matching. [[pdf]](https://arxiv.org/pdf/2310.09202.pdf) [[code]](https://github.com/liuyang-tian/GDEM)
 - [ICLR 2024] Mirage: Model-Agnostic Graph Distillation for Graph Classification. [[pdf]](https://openreview.net/pdf?id=78iGZdqxYY) [[code]](https://github.com/idea-iitd/Mirage)
 - [arXiv 2024] Calibrated Dataset Condensation for Faster Hyperparameter Search. [[pdf]](https://arxiv.org/pdf/2405.17535)
