@@ -32,7 +32,6 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [ICLR 2024] Mirage: Model-Agnostic Graph Distillation for Graph Classification. [[pdf]](https://openreview.net/pdf?id=78iGZdqxYY) [[code]](https://github.com/idea-iitd/Mirage)
 - [arXiv 2024] Calibrated Dataset Condensation for Faster Hyperparameter Search. [[pdf]](https://arxiv.org/pdf/2405.17535)
 - [arXiv 2024] Federated Graph Condensation with Information Bottleneck Principles. [[pdf]](https://arxiv.org/pdf/2405.03911)
-- [arXiv 2024] Graph Condensation for Open-World Graph Learning. [[pdf]](https://arxiv.org/pdf/2405.17003)
 - [arXiv 2024] Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition. [[pdf]](https://arxiv.org/pdf/2405.13707)
 - [arXiv 2024] Simple Graph Condensation. [[pdf]](https://arxiv.org/pdf/2403.14951.pdf)
 - [arXiv 2024] Graph Data Condensation via Self-expressive Graph Structure Reconstruction. [[pdf]](https://arxiv.org/pdf/2403.07294v1.pdf) [[code]](https://www.dropbox.com/scl/fi/2aonyp5ln5gisdqtjimu8/GCSR.zip?rlkey=11cuwfpsf54wxiiktu0klud0x&dl=0)
