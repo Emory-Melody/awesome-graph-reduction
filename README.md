@@ -143,7 +143,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [TOC 2020] Robust Graph Learning from Noisy Data. [[pdf]](https://arxiv.org/pdf/1812.06673.pdf) [[code]](https://github.com/sckangz/RGC)
 
 ### non-GNN-involved
-
+- [VLDB 2024] Demystifying Graph Sparsification Algorithms in Graph
+Properties Preservation. [[pdf]](https://arxiv.org/pdf/2311.12314) [[code]](https://github.com/yuhanchan/sparsification)
 - [Information Sciences 2024] Generic network sparsification via degree- and subgraph-based edge sampling. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0020025524010107)
 - [STOC 2019] A General Framework for Graph Sparsification. [[pdf]](https://arxiv.org/pdf/1004.4080.pdf)
 - [NeurIPS 2019] (Privacy) On Differentially Private Graph Sparsification and Applications. [[pdf]](https://papers.nips.cc/paper_files/paper/2019/file/e44e875c12109e4fa3716c05008048b2-Paper.pdf)
