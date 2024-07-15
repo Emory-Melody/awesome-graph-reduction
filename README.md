@@ -152,6 +152,7 @@ Properties Preservation. [[pdf]](https://arxiv.org/pdf/2311.12314) [[code]](http
 - [CVPR 2012] Non-negative low rank and sparse graph for semi-supervised learning. [[pdf]](https://zhouchenlin.github.io/Publications/2012-CVPR-NNLRS.pdf)
 - [VLDB 2012] Densest Subgraph in Streaming and MapReduce. [[pdf]](https://vldb.org/pvldb/vol5/p454_bahmanbahmani_vldb2012.pdf)
 - [VLDB 2012] Dense Subgraph Maintenance under Streaming Edge Weight Updates for Real-time Story Identification. [[pdf]](https://vldb.org/pvldb/vol5/p574_albertangel_vldb2012.pdf)
+- [PODS 2012] Graph Sketches: Sparsification, Spanners, and Subgraphs. [[pdf]](https://people.cs.umass.edu/~mcgregor/papers/12-pods1.pdf)
 - [STOC 2011] A General Framework for Graph Sparsification. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/1993636.1993647)
 - [STOC 2011] Spectral Sparsification of Graphs [[pdf]](https://epubs.siam.org/doi/abs/10.1137/08074489X)
 - [ICDM 2011] Identity Obfuscation in Graphs through the Information Theoretic Lens. [[pdf]](https://ieeexplore.ieee.org/document/5767905)
