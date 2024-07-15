@@ -127,7 +127,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 <!-- - [arXiv 2024] Two Heads Are Better Than One:Boosting Graph Sparse Training via Semantic and Topological Awareness. [[pdf]](https://arxiv.org/pdf/2402.01242.pdf) [[code]](https://anonymous.4open.science/r/GST-0F15)
 - [TPAMI 2023] Graph Neural Network Meets Sparse Representation: Graph Sparse Neural Networks via Exclusive Group Lasso. [[pdf]](https://ieeexplore.ieee.org/document/10149528)-->
-
+- [VLDB 2024] Demystifying Graph Sparsification Algorithms in Graph
+Properties Preservation. [[pdf]](https://arxiv.org/pdf/2311.12314) [[code]](https://github.com/yuhanchan/sparsification)
 - [arXiv 2024] Spectral Greedy Coresets for Graph Neural Networks. [[pdf]](https://arxiv.org/pdf/2405.17404)
 - [TKDE 2024] Graph Rewiring and Preprocessing for Graph Neural Networks Based on Effective Resistance. [[pdf]](https://ieeexplore.ieee.org/abstract/document/10521752)
 - [KDD 2023] Interpretable Sparsification of Brain Graphs: Better Practices and Effective Designs for Graph Neural Networks. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599394) [[code]](https://github.com/motivationss/IGS)
@@ -143,8 +144,6 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [TOC 2020] Robust Graph Learning from Noisy Data. [[pdf]](https://arxiv.org/pdf/1812.06673.pdf) [[code]](https://github.com/sckangz/RGC)
 
 ### non-GNN-involved
-- [VLDB 2024] Demystifying Graph Sparsification Algorithms in Graph
-Properties Preservation. [[pdf]](https://arxiv.org/pdf/2311.12314) [[code]](https://github.com/yuhanchan/sparsification)
 - [Information Sciences 2024] Generic network sparsification via degree- and subgraph-based edge sampling. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0020025524010107)
 - [STOC 2019] A General Framework for Graph Sparsification. [[pdf]](https://arxiv.org/pdf/1004.4080.pdf)
 - [NeurIPS 2019] (Privacy) On Differentially Private Graph Sparsification and Applications. [[pdf]](https://papers.nips.cc/paper_files/paper/2019/file/e44e875c12109e4fa3716c05008048b2-Paper.pdf)
