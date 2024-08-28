@@ -25,6 +25,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ## Graph Condensation / Graph Dataset Distillation
 
+- [KDD 2024] Self-Supervised Learning for Graph Dataset Condensation. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3637528.3671682) [[code]](https://github.com/wyx11112/SGDC)
 - [arXiv 2024] Backdoor Graph Condensation. [[pdf]](https://arxiv.org/abs/2407.11025)
 - [arXiv 2024] TinyGraph: Joint Feature and Node Condensation for Graph Neural Networks. [[pdf]](https://arxiv.org/abs/2407.08064)
 - [arXiv 2024] GC-Bench: A Benchmark Framework for Graph Condensation with New Insights. [[pdf]](https://arxiv.org/abs/2406.16715) [[code]](https://github.com/Emory-Melody/GraphSlim)
