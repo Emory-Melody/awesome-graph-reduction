@@ -201,4 +201,5 @@ Other related topics
 
 - Mongoose: [[pdf]](https://people.clas.ufl.edu/hager/files/mongoose.pdf) [[code]](https://github.com/ScottKolo/Mongoose)
 - PyGSP: [[code]](https://github.com/epfl-lts2/pygsp)
-- graph-tool: [[code]](https://graph-tool.skewed.de/)
+- Graph-tool: [[code]](https://graph-tool.skewed.de/)
+- Networkit: [[code]](https://networkit.github.io/)
