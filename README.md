@@ -135,6 +135,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 - [VLDB 2024] Demystifying Graph Sparsification Algorithms in Graph
   Properties Preservation. [[pdf]](https://arxiv.org/pdf/2311.12314) [[code]](https://github.com/yuhanchan/sparsification)
+- [arXiv 2024] Graph Sparsification via Mixture of Graphs. [[pdf]](https://arxiv.org/pdf/2405.14260) [[code]](https://github.com/yanweiyue/MoG)
 - [arXiv 2024] Spectral Greedy Coresets for Graph Neural Networks. [[pdf]](https://arxiv.org/pdf/2405.17404)
 - [TKDE 2024] Graph Rewiring and Preprocessing for Graph Neural Networks Based on Effective Resistance. [[pdf]](https://ieeexplore.ieee.org/abstract/document/10521752)
 - [KDD 2023] Interpretable Sparsification of Brain Graphs: Better Practices and Effective Designs for Graph Neural Networks. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599394) [[code]](https://github.com/motivationss/IGS)
