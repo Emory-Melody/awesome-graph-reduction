@@ -73,6 +73,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ### GNN-involved
 
+- [ICLR 2024] StructComp: Substituting Propagation with Structural Compression in Training Graph Contrastive Learning. [[pdf]](https://arxiv.org/pdf/2312.04865) [[code]](https://github.com/szzhang17/StructComp/tree/main)
 - [ICASSP 2024] Enhancing Performance of Coarsened Graphs with Gradient-Matching. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10448089)
 - [WWW 2024] Graph-Skeleton: ～ 1% Nodes are Sufficient to Represent Billion-Scale Graph. [[pdf]](https://arxiv.org/pdf/2402.09565.pdf) [[code]](https://github.com/caolinfeng/GraphSkeleton)
 - [arXiv 2024] Graph Coarsening with Message-Passing Guarantees. [[pdf]](https://arxiv.org/pdf/2405.18127)
@@ -135,6 +136,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 - [VLDB 2024] Demystifying Graph Sparsification Algorithms in Graph
   Properties Preservation. [[pdf]](https://arxiv.org/pdf/2311.12314) [[code]](https://github.com/yuhanchan/sparsification)
+- [arXiv 2024] Graph Sparsification via Mixture of Graphs. [[pdf]](https://arxiv.org/pdf/2405.14260) [[code]](https://github.com/yanweiyue/MoG)
 - [arXiv 2024] Spectral Greedy Coresets for Graph Neural Networks. [[pdf]](https://arxiv.org/pdf/2405.17404)
 - [TKDE 2024] Graph Rewiring and Preprocessing for Graph Neural Networks Based on Effective Resistance. [[pdf]](https://ieeexplore.ieee.org/abstract/document/10521752)
 - [KDD 2023] Interpretable Sparsification of Brain Graphs: Better Practices and Effective Designs for Graph Neural Networks. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599394) [[code]](https://github.com/motivationss/IGS)
@@ -201,4 +203,5 @@ Other related topics
 
 - Mongoose: [[pdf]](https://people.clas.ufl.edu/hager/files/mongoose.pdf) [[code]](https://github.com/ScottKolo/Mongoose)
 - PyGSP: [[code]](https://github.com/epfl-lts2/pygsp)
-- graph-tool: [[code]](https://graph-tool.skewed.de/)
+- Graph-tool: [[code]](https://graph-tool.skewed.de/)
+- Networkit: [[code]](https://networkit.github.io/)
