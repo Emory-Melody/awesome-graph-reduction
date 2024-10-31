@@ -73,6 +73,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ### GNN-involved
 
+- [DSAA 2024] Semi-Supervised Coarsening of Bipartite Graphs for Text Classification via Graph Neural Network. [[pdf]](https://ieeexplore.ieee.org/abstract/document/10722822)
 - [ICLR 2024] StructComp: Substituting Propagation with Structural Compression in Training Graph Contrastive Learning. [[pdf]](https://arxiv.org/pdf/2312.04865) [[code]](https://github.com/szzhang17/StructComp/tree/main)
 - [ICASSP 2024] Enhancing Performance of Coarsened Graphs with Gradient-Matching. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10448089)
 - [WWW 2024] Graph-Skeleton: ～ 1% Nodes are Sufficient to Represent Billion-Scale Graph. [[pdf]](https://arxiv.org/pdf/2402.09565.pdf) [[code]](https://github.com/caolinfeng/GraphSkeleton)
