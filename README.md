@@ -72,6 +72,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 ## Graph Coarsening / Clustering / Summary
 
 ### GNN-involved
+- [NN 2024] Graph Batch Coarsening framework for scalable graph neural networks. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0893608024008608)
 - [arXiv 2024] Feature Driven Graph Coarsening for Scaling Graph Representation Learning. [[pdf]](https://openreview.net/pdf?id=6VuTXirQIv)
 - [DSAA 2024] Semi-Supervised Coarsening of Bipartite Graphs for Text Classification via Graph Neural Network. [[pdf]](https://ieeexplore.ieee.org/abstract/document/10722822)
 - [ICLR 2024] StructComp: Substituting Propagation with Structural Compression in Training Graph Contrastive Learning. [[pdf]](https://arxiv.org/pdf/2312.04865) [[code]](https://github.com/szzhang17/StructComp/tree/main)
