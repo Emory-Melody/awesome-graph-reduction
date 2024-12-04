@@ -24,6 +24,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 ```
 
 ## Graph Condensation / Graph Dataset Distillation
+
+- [arXiv 2024] Contrastive Graph Condensation: Advancing Data Versatility through Self-Supervised Learning. [[pdf]](https://arxiv.org/abs/2411.17063)
 - [arXiv 2024] Attend Who is Weak: Enhancing Graph Condensation via Cross-Free Adversarial Training. [[pdf]](https://arxiv.org/pdf/2311.15772)
 - [arXiv 2024] Bonsai: Gradient-free Graph Distillation for Node Classification. [[pdf]](https://arxiv.org/abs/2410.17579)
 - [ECCV 2024] GSTAM: Efficient Graph Distillation with Structural Attention-Matching. [[pdf]](https://arxiv.org/pdf/2408.16871) [[code]](https://github.com/arashrasti96/GSTAM)
@@ -72,6 +74,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 ## Graph Coarsening / Clustering / Summary
 
 ### GNN-involved
+
 - [NN 2024] Graph Batch Coarsening framework for scalable graph neural networks. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0893608024008608)
 - [arXiv 2024] Feature Driven Graph Coarsening for Scaling Graph Representation Learning. [[pdf]](https://openreview.net/pdf?id=6VuTXirQIv)
 - [DSAA 2024] Semi-Supervised Coarsening of Bipartite Graphs for Text Classification via Graph Neural Network. [[pdf]](https://ieeexplore.ieee.org/abstract/document/10722822)
@@ -135,6 +138,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 <!-- - [arXiv 2024] Two Heads Are Better Than One:Boosting Graph Sparse Training via Semantic and Topological Awareness. [[pdf]](https://arxiv.org/pdf/2402.01242.pdf) [[code]](https://anonymous.4open.science/r/GST-0F15)
 - [TPAMI 2023] Graph Neural Network Meets Sparse Representation: Graph Sparse Neural Networks via Exclusive Group Lasso. [[pdf]](https://ieeexplore.ieee.org/document/10149528)-->
+
 - [VLDB 2024] Size Does (Not) Matter? Sparsification and Graph Neural Network Sampling for Large-scale Graphs. [[pdf]](https://vldb.org/workshops/2024/proceedings/LSGDA/LSGDA24.06.pdf#page=1.31)
 - [VLDB 2024] Demystifying Graph Sparsification Algorithms in Graph
   Properties Preservation. [[pdf]](https://arxiv.org/pdf/2311.12314) [[code]](https://github.com/yuhanchan/sparsification)
