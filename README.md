@@ -25,6 +25,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ## Graph Condensation / Graph Dataset Distillation
 
+- [arXiv 2024] Contrastive Graph Condensation: Advancing Data Versatility through Self-Supervised Learning. [[pdf]](https://arxiv.org/abs/2411.17063)
 - [arXiv 2024] Bonsai: Gradient-free Graph Distillation for Node Classification. [[pdf]](https://arxiv.org/abs/2410.17579)
 - [ECCV 2024] GSTAM: Efficient Graph Distillation with Structural Attention-Matching. [[pdf]](https://arxiv.org/pdf/2408.16871) [[code]](https://github.com/arashrasti96/GSTAM)
 - [KDD 2024] Self-Supervised Learning for Graph Dataset Condensation. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3637528.3671682) [[code]](https://github.com/wyx11112/SGDC)
