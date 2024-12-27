@@ -24,7 +24,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 ```
 
 ## Graph Condensation / Graph Dataset Distillation
-
+- [AAAI 2025] Bi-Directional Multi-Scale Graph Dataset Condensation via Information Bottleneck. [[pdf]](https://arxiv.org/abs/2412.17355) [[code]](https://github.com/RingBDStack/BiMSGC)
 - [arXiv 2024] Contrastive Graph Condensation: Advancing Data Versatility through Self-Supervised Learning. [[pdf]](https://arxiv.org/abs/2411.17063)
 - [arXiv 2024] Attend Who is Weak: Enhancing Graph Condensation via Cross-Free Adversarial Training. [[pdf]](https://arxiv.org/pdf/2311.15772)
 - [arXiv 2024] Bonsai: Gradient-free Graph Distillation for Node Classification. [[pdf]](https://arxiv.org/abs/2410.17579)
@@ -184,9 +184,9 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 ## Surveys & Benchmarks
 
 Graph Reduction/ Summarization / Simplification
-
+- [arXiv 2024] GC4NC: A Benchmark Framework for Graph Condensation on Node Classification with New Insights. [[pdf]](https://arxiv.org/abs/2406.16715) [[code]](https://github.com/Emory-Melody/GraphSlim/tree/main/benchmark)
 - ![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369)**[IJCAI 2024] A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation. [[pdf]](https://arxiv.org/abs/2402.03358)**
-- [arXiv 2024] GC-Bench: A Benchmark Framework for Graph Condensation with New Insights. [[pdf]](https://arxiv.org/abs/2406.16715) [[code]](https://github.com/Emory-Melody/GraphSlim)
+- [NeurIPS 2024] GC-Bench:  [[pdf]](https://openreview.net/pdf?id=ScPgzCZ6Lo) [[code]](https://github.com/RingBDStack/GC-Bench)
 - [arXiv 2024] GCondenser: Benchmarking Graph Condensation. [[pdf]](https://arxiv.org/pdf/2405.14246) [[code]](https://github.com/superallen13/GCondenser)
 - [arXiv 2024] A Survey on Graph Condensation. [[pdf]](https://arxiv.org/abs/2402.02000)
 - [arXiv 2024] Graph Condensation: A Survey. [[pdf]](https://arxiv.org/abs/2401.11720)
