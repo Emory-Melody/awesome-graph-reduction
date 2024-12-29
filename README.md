@@ -32,8 +32,6 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [KDD 2024] Self-Supervised Learning for Graph Dataset Condensation. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3637528.3671682) [[code]](https://github.com/wyx11112/SGDC)
 - [arXiv 2024] Backdoor Graph Condensation. [[pdf]](https://arxiv.org/abs/2407.11025)
 - [arXiv 2024] TinyGraph: Joint Feature and Node Condensation for Graph Neural Networks. [[pdf]](https://arxiv.org/abs/2407.08064)
-- [arXiv 2024] GC-Bench: A Benchmark Framework for Graph Condensation with New Insights. [[pdf]](https://arxiv.org/abs/2406.16715) [[code]](https://github.com/Emory-Melody/GraphSlim)
-- [arXiv 2024] GCondenser: Benchmarking Graph Condensation. [[pdf]](https://arxiv.org/pdf/2405.14246) [[code]](https://github.com/superallen13/GCondenser)
 - [arXiv 2024] RobGC: Towards Robust Graph Condensation. [[pdf]](https://arxiv.org/pdf/2406.13200)
 - [KDD 2024] Graph Condensation for Open-World Graph Learning. [[pdf]](https://arxiv.org/html/2405.17003v1)
 - [ICML 2024] Graph Condensation via Eigenbasis Matching. [[pdf]](https://arxiv.org/pdf/2310.09202.pdf) [[code]](https://github.com/liuyang-tian/GDEM)
@@ -184,6 +182,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 ## Surveys & Benchmarks
 
 Graph Reduction/ Summarization / Simplification
+- [arXiv 2024] Extending Graph Condensation to Multi-Label Datasets: A Benchmark Study. [[pdf]](https://arxiv.org/pdf/2412.17961) 
 - [arXiv 2024] GC4NC: A Benchmark Framework for Graph Condensation on Node Classification with New Insights. [[pdf]](https://arxiv.org/abs/2406.16715) [[code]](https://github.com/Emory-Melody/GraphSlim/tree/main/benchmark)
 - ![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369)**[IJCAI 2024] A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation. [[pdf]](https://arxiv.org/abs/2402.03358)**
 - [NeurIPS 2024] GC-Bench:  [[pdf]](https://openreview.net/pdf?id=ScPgzCZ6Lo) [[code]](https://github.com/RingBDStack/GC-Bench)
