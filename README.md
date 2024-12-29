@@ -102,8 +102,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [ICML 2020] Learning Algebraic Multigrid Using Graph Neural Networks. [[pdf]](https://proceedings.mlr.press/v119/luz20a/luz20a.pdf) [[code]](https://github.com/ilayluz/learning-amg)
 - [ICLR 2020] (App) GraphZoom: A multi-level spectral approach for accurate and scalable graph embedding. [[pdf]](https://arxiv.org/pdf/1910.02370.pdf) [[code]](https://github.com/cornell-zhang/GraphZoom)
 - [AAAI 2018] (App) HARP: Hierarchical Representation Learning for Networks. [[pdf]](https://arxiv.org/abs/1706.07845)
-
-### non-GNN-involved
+<details>
+<summary>non-GNN-involved</summary>
 
 - [AISTATS 2020] Graph Coarsening with Preserved Spectral Properties. [[pdf]](https://arxiv.org/pdf/1802.04447.pdf)
 - [NeurIPS 2019] A unifying framework for spectrum-preserving graph sparsification and coarsening. [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2019/file/cd474f6341aeffd65f93084d0dae3453-Paper.pdf) [[code]](https://github.com/TheGravLab/A-Unifying-Framework-for-Spectrum-Preserving-Graph-Sparsification-and-Coarsening)
@@ -123,7 +123,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [Physical Review E 2005] Coarse-Graining and Self-Dissimilarity of Complex Networks. [[pdf]](https://arxiv.org/pdf/q-bio/0405011.pdf)
 - [SIAM 1998] (App) A Fast and High Quality Multilevel Scheme for Partitioning Irregular Graphs. [[pdf]](https://www.cs.utexas.edu/~pingali/CS395T/2009fa/papers/metis.pdf)
 - [Bell System 1970] (App) An efficient heuristic procedure for partitioning graphs. [[pdf]](https://ieeexplore.ieee.org/abstract/document/6771089)
-
+  </details>
 <!-- - [ICLR 2018] FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling. [[pdf]](https://arxiv.org/pdf/1801.10247.pdf) [[code]](https://github.com/matenure/FastGCN)
 - [ICML 2018] Stochastic Training of Graph Convolutional Networks with Variance Reduction. [[pdf]](https://arxiv.org/pdf/1710.10568.pdf) [[code]](https://github.com/thu-ml/stochastic_gcn)-->
 
@@ -155,7 +155,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [ICML 2020] (App) Robust Graph Representation Learning via Neural Sparsification. [[pdf]](https://proceedings.mlr.press/v119/zheng20d/zheng20d.pdf) [[code]](https://github.com/flyingdoog/PTDNet)
 - [TOC 2020] Robust Graph Learning from Noisy Data. [[pdf]](https://arxiv.org/pdf/1812.06673.pdf) [[code]](https://github.com/sckangz/RGC)
 
-### non-GNN-involved
+<details>
+<summary>non-GNN-involved</summary>
 
 - [Information Sciences 2024] Generic network sparsification via degree- and subgraph-based edge sampling. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0020025524010107)
 - [STOC 2019] A General Framework for Graph Sparsification. [[pdf]](https://arxiv.org/pdf/1004.4080.pdf)
@@ -178,7 +179,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [STOC 1994] Random sampling in cut, flow, and network design problems. [[pdf]](https://dl.acm.org/doi/10.1145/195058.195422)
 <!-- - - [ICLR 2020] DropEdge: Towards Deep Graph Convolutional Networks on Node Classification. [[pdf]](https://arxiv.org/pdf/1907.10903.pdf) [[code]](https://github.com/DropEdge/DropEdge)
 [WSDM 2021] Learning to Drop: Robust Graph Neural Network via Topological Denoising. [[pdf]](https://arxiv.org/pdf/2011.07057.pdf) [[code]](https://github.com/flyingdoog/PTDNet)-->
-
+  </details>
+  
 ## Surveys & Benchmarks
 
 Graph Reduction/ Summarization / Simplification
