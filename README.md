@@ -24,6 +24,9 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 ```
 
 ## Graph Condensation / Graph Dataset Distillation
+
+- [arXiv 2025] Efficient Graph Condensation via Gaussian Process. [[pdf]](https://arxiv.org/pdf/2501.02565) [[code]](https://github.com/WANGLin0126/GCGP)
+- [arXiv 2025] (App) GraphDART: Graph Distillation for Efficient Advanced Persistent Threat Detection. [[pdf]](https://arxiv.org/pdf/2501.02796)
 - [AAAI 2025] Bi-Directional Multi-Scale Graph Dataset Condensation via Information Bottleneck. [[pdf]](https://arxiv.org/abs/2412.17355) [[code]](https://github.com/RingBDStack/BiMSGC)
 - [arXiv 2024] Contrastive Graph Condensation: Advancing Data Versatility through Self-Supervised Learning. [[pdf]](https://arxiv.org/abs/2411.17063)
 - [arXiv 2024] Attend Who is Weak: Enhancing Graph Condensation via Cross-Free Adversarial Training. [[pdf]](https://arxiv.org/pdf/2311.15772)
@@ -177,17 +180,18 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [JACM 1997] Sparsification–A Technique for Speeding Up Dynamic Graph Algorithms. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/265910.265914)
 - [STOC 1996] Approximating s-t minimum cuts in Õ(n2) time. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/237814.237827)
 - [STOC 1994] Random sampling in cut, flow, and network design problems. [[pdf]](https://dl.acm.org/doi/10.1145/195058.195422)
-<!-- - - [ICLR 2020] DropEdge: Towards Deep Graph Convolutional Networks on Node Classification. [[pdf]](https://arxiv.org/pdf/1907.10903.pdf) [[code]](https://github.com/DropEdge/DropEdge)
-[WSDM 2021] Learning to Drop: Robust Graph Neural Network via Topological Denoising. [[pdf]](https://arxiv.org/pdf/2011.07057.pdf) [[code]](https://github.com/flyingdoog/PTDNet)-->
-  </details>
-  
+  <!-- - - [ICLR 2020] DropEdge: Towards Deep Graph Convolutional Networks on Node Classification. [[pdf]](https://arxiv.org/pdf/1907.10903.pdf) [[code]](https://github.com/DropEdge/DropEdge)
+  [WSDM 2021] Learning to Drop: Robust Graph Neural Network via Topological Denoising. [[pdf]](https://arxiv.org/pdf/2011.07057.pdf) [[code]](https://github.com/flyingdoog/PTDNet)-->
+    </details>
+
 ## Surveys & Benchmarks
 
 Graph Reduction/ Summarization / Simplification
-- [arXiv 2024] Extending Graph Condensation to Multi-Label Datasets: A Benchmark Study. [[pdf]](https://arxiv.org/pdf/2412.17961) 
+
+- [arXiv 2024] Extending Graph Condensation to Multi-Label Datasets: A Benchmark Study. [[pdf]](https://arxiv.org/pdf/2412.17961)
 - [arXiv 2024] GC4NC: A Benchmark Framework for Graph Condensation on Node Classification with New Insights. [[pdf]](https://arxiv.org/abs/2406.16715) [[code]](https://github.com/Emory-Melody/GraphSlim/tree/main/benchmark)
 - ![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369)**[IJCAI 2024] A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation. [[pdf]](https://arxiv.org/abs/2402.03358)**
-- [NeurIPS 2024] GC-Bench:  [[pdf]](https://openreview.net/pdf?id=ScPgzCZ6Lo) [[code]](https://github.com/RingBDStack/GC-Bench)
+- [NeurIPS 2024] GC-Bench: [[pdf]](https://openreview.net/pdf?id=ScPgzCZ6Lo) [[code]](https://github.com/RingBDStack/GC-Bench)
 - [arXiv 2024] GCondenser: Benchmarking Graph Condensation. [[pdf]](https://arxiv.org/pdf/2405.14246) [[code]](https://github.com/superallen13/GCondenser)
 - [arXiv 2024] A Survey on Graph Condensation. [[pdf]](https://arxiv.org/abs/2402.02000)
 - [arXiv 2024] Graph Condensation: A Survey. [[pdf]](https://arxiv.org/abs/2401.11720)
