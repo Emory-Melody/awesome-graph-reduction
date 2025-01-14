@@ -139,7 +139,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 <!-- - [arXiv 2024] Two Heads Are Better Than One:Boosting Graph Sparse Training via Semantic and Topological Awareness. [[pdf]](https://arxiv.org/pdf/2402.01242.pdf) [[code]](https://anonymous.4open.science/r/GST-0F15)
 - [TPAMI 2023] Graph Neural Network Meets Sparse Representation: Graph Sparse Neural Networks via Exclusive Group Lasso. [[pdf]](https://ieeexplore.ieee.org/document/10149528)-->
-
+- [KDD 2025] Large-Scale Spectral Graph Neural Networks via Laplacian Sparsification: Technical Report. [[pdf]](https://arxiv.org/pdf/2501.04570#page=13.84)
 - [VLDB 2024] Size Does (Not) Matter? Sparsification and Graph Neural Network Sampling for Large-scale Graphs. [[pdf]](https://vldb.org/workshops/2024/proceedings/LSGDA/LSGDA24.06.pdf#page=1.31)
 - [VLDB 2024] Demystifying Graph Sparsification Algorithms in Graph
   Properties Preservation. [[pdf]](https://arxiv.org/pdf/2311.12314) [[code]](https://github.com/yuhanchan/sparsification)
