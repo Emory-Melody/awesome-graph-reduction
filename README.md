@@ -75,6 +75,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 ## Graph Coarsening / Clustering / Summary
 
 ### GNN-involved
+- [NeurIPS 2024] A Topology-aware Graph Coarsening Framework for Continual Graph Learning. [[pdf]](https://arxiv.org/pdf/2401.03077)
 - [ICML 2024] Translating Subgraphs to Nodes Makes Simple GNNs Strong and Efficient for Subgraph Representation Learning. [[pdf]](https://arxiv.org/pdf/2204.04510) [[code]](https://github.com/dongkwan-kim/S2N)
 - [NN 2024] Graph Batch Coarsening framework for scalable graph neural networks. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0893608024008608)
 - [arXiv 2024] Feature Driven Graph Coarsening for Scaling Graph Representation Learning. [[pdf]](https://openreview.net/pdf?id=6VuTXirQIv)
