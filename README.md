@@ -25,6 +25,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ## Graph Condensation / Graph Dataset Distillation
 
+- [arXiv 2025] Scalable Graph Condensation with Evolving Capabilities. [[pdf]](https://arxiv.org/abs/2502.17614)
 - [arXiv 2025] Efficient Graph Condensation via Gaussian Process. [[pdf]](https://arxiv.org/pdf/2501.02565) [[code]](https://github.com/WANGLin0126/GCGP)
 - [arXiv 2025] (App) GraphDART: Graph Distillation for Efficient Advanced Persistent Threat Detection. [[pdf]](https://arxiv.org/pdf/2501.02796)
 - [AAAI 2025] Bi-Directional Multi-Scale Graph Dataset Condensation via Information Bottleneck. [[pdf]](https://arxiv.org/abs/2412.17355) [[code]](https://github.com/RingBDStack/BiMSGC)
@@ -143,7 +144,6 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 <!-- - [arXiv 2024] Two Heads Are Better Than One:Boosting Graph Sparse Training via Semantic and Topological Awareness. [[pdf]](https://arxiv.org/pdf/2402.01242.pdf) [[code]](https://anonymous.4open.science/r/GST-0F15)
 - [TPAMI 2023] Graph Neural Network Meets Sparse Representation: Graph Sparse Neural Networks via Exclusive Group Lasso. [[pdf]](https://ieeexplore.ieee.org/document/10149528)-->
 
-- [arXiv 2025] Scalable Graph Condensation with Evolving Capabilities. [[pdf]](https://arxiv.org/abs/2502.17614)
 - [arXiv 2025] SGS-GNN: A Supervised Graph Sparsification method for Graph Neural Networks. [[pdf]](https://arxiv.org/pdf/2501.04570#page=13.84) [[code]](https://github.com/anonymousauthors001/SGS-GNN/)
 - [KDD 2025] Large-Scale Spectral Graph Neural Networks via Laplacian Sparsification: Technical Report. [[pdf]](https://arxiv.org/pdf/2501.04570#page=13.84)
 - [VLDB 2024] Size Does (Not) Matter? Sparsification and Graph Neural Network Sampling for Large-scale Graphs. [[pdf]](https://vldb.org/workshops/2024/proceedings/LSGDA/LSGDA24.06.pdf#page=1.31)
