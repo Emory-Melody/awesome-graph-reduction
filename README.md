@@ -25,7 +25,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ## Graph Condensation / Graph Dataset Distillation
 
-- [AAAI 2025] (App) Federated Graph Condensation with Information Bottleneck Principles. [[pdf]](https://arxiv.org/pdf/2405.03911) [[code]](https://github.com/BUPT-GAMMA/FedGC)
+- [AAAI 2025] Federated Graph Condensation with Information Bottleneck Principles. [[pdf]](https://arxiv.org/pdf/2405.03911) [[code]](https://github.com/BUPT-GAMMA/FedGC)
 - [arXiv 2025] Scalable Graph Condensation with Evolving Capabilities. [[pdf]](https://arxiv.org/abs/2502.17614)
 - [arXiv 2025] Efficient Graph Condensation via Gaussian Process. [[pdf]](https://arxiv.org/pdf/2501.02565) [[code]](https://github.com/WANGLin0126/GCGP)
 - [arXiv 2025] (App) GraphDART: Graph Distillation for Efficient Advanced Persistent Threat Detection. [[pdf]](https://arxiv.org/pdf/2501.02796)
