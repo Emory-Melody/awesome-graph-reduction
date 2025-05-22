@@ -77,7 +77,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 ## Graph Coarsening / Clustering / Summary
 
 ### GNN-involved
-
+- [arXiv 2025] Efficient Learning on Large Graphs using a Densifying Regularity Lemma. [[pdf]](https://arxiv.org/pdf/2504.18273)
 - [Nature Communications] Coarse-graining network flow through statistical physics and machine learning. [[pdf]](https://www.nature.com/articles/s41467-025-56034-2) [[code]](https://github.com/3riccc/nfc_model)
 - [NeurIPS 2024] (App) A Topology-aware Graph Coarsening Framework for Continual Graph Learning. [[pdf]](https://arxiv.org/pdf/2401.03077)
 - [ICML 2024] (App) Translating Subgraphs to Nodes Makes Simple GNNs Strong and Efficient for Subgraph Representation Learning. [[pdf]](https://arxiv.org/pdf/2204.04510) [[code]](https://github.com/dongkwan-kim/S2N)
