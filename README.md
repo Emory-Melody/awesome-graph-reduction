@@ -25,6 +25,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ## Graph Condensation / Graph Dataset Distillation
 
+- [ICML 2025] (APP) GCAL: Adapting Graph Models to Evolving Domain Shifts. [[pdf]](https://arxiv.org/abs/2505.16860v1) [[code]](https://github.com/joe817/GCAL)
 - [AAAI 2025] Structure Balance and Gradient Matching-Based Signed Graph Condensation. [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/33320/35475) [[code]](https://github.com/BaoFit/SGSGC)
 - [AAAI 2025] Federated Graph Condensation with Information Bottleneck Principles. [[pdf]](https://arxiv.org/pdf/2405.03911) [[code]](https://github.com/BUPT-GAMMA/FedGC)
 - [arXiv 2025] Scalable Graph Condensation with Evolving Capabilities. [[pdf]](https://arxiv.org/abs/2502.17614)
