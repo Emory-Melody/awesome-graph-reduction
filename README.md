@@ -22,7 +22,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
   year={2024}
 }
 ```
-
+(APP): Application Paper of Graph Reduction
 ## Graph Condensation / Graph Dataset Distillation
 
 - [ICML 2025] (APP) GCAL: Adapting Graph Models to Evolving Domain Shifts. [[pdf]](https://arxiv.org/abs/2505.16860v1) [[code]](https://github.com/joe817/GCAL)
