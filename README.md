@@ -22,7 +22,9 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
   year={2024}
 }
 ```
+
 (APP): Application Paper of Graph Reduction
+
 ## Graph Condensation / Graph Dataset Distillation
 
 - [ICML 2025] (APP) GCAL: Adapting Graph Models to Evolving Domain Shifts. [[pdf]](https://arxiv.org/abs/2505.16860v1) [[code]](https://github.com/joe817/GCAL)
@@ -78,6 +80,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 ## Graph Coarsening / Clustering / Summary
 
 ### GNN-involved
+
 - [arXiv 2025] Efficient Learning on Large Graphs using a Densifying Regularity Lemma. [[pdf]](https://arxiv.org/pdf/2504.18273)
 - [Nature Communications] Coarse-graining network flow through statistical physics and machine learning. [[pdf]](https://www.nature.com/articles/s41467-025-56034-2) [[code]](https://github.com/3riccc/nfc_model)
 - [NeurIPS 2024] (App) A Topology-aware Graph Coarsening Framework for Continual Graph Learning. [[pdf]](https://arxiv.org/pdf/2401.03077)
@@ -114,6 +117,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 <details>
 <summary>non-GNN-involved</summary>
 
+- [arXiv 2025] GBGC: Efficient and Adaptive Graph Coarsening via Granular-ball Computing. [[pdf]](https://arxiv.org/pdf/2506.19224) [[code]](https://anonymous.4open.science/r/GBGC/README.md)
 - [AISTATS 2020] Graph Coarsening with Preserved Spectral Properties. [[pdf]](https://arxiv.org/pdf/1802.04447.pdf)
 - [NeurIPS 2019] A unifying framework for spectrum-preserving graph sparsification and coarsening. [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2019/file/cd474f6341aeffd65f93084d0dae3453-Paper.pdf) [[code]](https://github.com/TheGravLab/A-Unifying-Framework-for-Spectrum-Preserving-Graph-Sparsification-and-Coarsening)
 - [JMLR 2019] Graph reduction with spectral and cut guarantees. [[pdf]](https://arxiv.org/pdf/1808.10650.pdf) [[code]](https://github.com/loukasa/graph-coarsening/tree/v1.1)
