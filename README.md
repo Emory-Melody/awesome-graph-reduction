@@ -25,7 +25,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 (APP): Application Paper of Graph Reduction
 
-## Graph Condensation / Graph Dataset Distillation. 
+## Graph Condensation / Graph Dataset Distillation
 - [arXiv 2025] Towards Pre-trained Graph Condensation
 via Optimal Transport. [[pdf]](https://arxiv.org/pdf/2509.14722)
 - [KDD 2025] Progressive Stacking for Scalable Graph Condensation. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3711896.3737090)
@@ -202,7 +202,7 @@ via Optimal Transport. [[pdf]](https://arxiv.org/pdf/2509.14722)
 ## Surveys & Benchmarks
 
 Graph Reduction/ Summarization / Simplification
-- ![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369)**[NeurIPS 2025] GC4NC: A Benchmark Framework for Graph Condensation on Node Classification with New Insights. [[pdf]](https://arxiv.org/pdf/2406.16715?)[[code]](https://github.com/Emory-Melody/GraphSlim/tree/main/benchmark)**
+- ![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369)**[NeurIPS 2025] GC4NC: A Benchmark Framework for Graph Condensation on Node Classification with New Insights. [[pdf]](https://arxiv.org/pdf/2406.16715?) [[code]](https://github.com/Emory-Melody/GraphSlim/tree/main/benchmark)**
 - [arXiv 2024] Extending Graph Condensation to Multi-Label Datasets: A Benchmark Study. [[pdf]](https://arxiv.org/pdf/2412.17961)
 - [arXiv 2024] GC4NC: A Benchmark Framework for Graph Condensation on Node Classification with New Insights. [[pdf]](https://arxiv.org/abs/2406.16715) [[code]](https://github.com/Emory-Melody/GraphSlim/tree/main/benchmark)
 - ![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369)**[IJCAI 2024] A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation. [[pdf]](https://arxiv.org/abs/2402.03358)**
