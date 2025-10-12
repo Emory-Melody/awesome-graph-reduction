@@ -82,7 +82,7 @@ via Optimal Transport. [[pdf]](https://arxiv.org/pdf/2509.14722)
 ## Graph Coarsening / Clustering / Summary
 
 ### GNN-involved
-
+- [arXiv 2025] Adaptive Graph Coarsening for Efficient GNN Training. [[pdf]](https://arxiv.org/pdf/2509.25706) [[code]](https://github.com/RostyslavUA/graph_koarsening)
 - [arXiv 2025] Efficient Learning on Large Graphs using a Densifying Regularity Lemma. [[pdf]](https://arxiv.org/pdf/2504.18273)
 - [Nature Communications] Coarse-graining network flow through statistical physics and machine learning. [[pdf]](https://www.nature.com/articles/s41467-025-56034-2) [[code]](https://github.com/3riccc/nfc_model)
 - [NeurIPS 2024] (App) A Topology-aware Graph Coarsening Framework for Continual Graph Learning. [[pdf]](https://arxiv.org/pdf/2401.03077)
