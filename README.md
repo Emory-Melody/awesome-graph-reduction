@@ -26,6 +26,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 (APP): Application Paper of Graph Reduction
 
 ## Graph Condensation / Graph Dataset Distillation
+- [PAKDD 2025] GDCK: Efficient Large-Scale Graph Distillation Utilizing a Model-Free Kernelized Approach. [[pdf]](https://link.springer.com/chapter/10.1007/978-981-96-8298-0_19) [[code]](https://github.com/SchenbergZY/GDCK)
 - [arXiv 2025] Towards Pre-trained Graph Condensation
 via Optimal Transport. [[pdf]](https://arxiv.org/pdf/2509.14722)
 - [KDD 2025] Progressive Stacking for Scalable Graph Condensation. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3711896.3737090)
