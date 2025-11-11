@@ -26,6 +26,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 (APP): Application Paper of Graph Reduction
 
 ## Graph Condensation / Graph Dataset Distillation
+- [TKDE 2025] RobGC: Towards Robust Graph Condensation. [[pdf]](https://arxiv.org/pdf/2406.13200) [[code]](https://github.com/XYGaoG/RobGC)
+- [NeurIPS 2025] Robust Graph Condensation via Classification Complexity Mitigation. [[pdf]](https://arxiv.org/pdf/2510.26451) [[code]](https://github.com/RingBDStack/MRGC)
 - [PAKDD 2025] GDCK: Efficient Large-Scale Graph Distillation Utilizing a Model-Free Kernelized Approach. [[pdf]](https://link.springer.com/chapter/10.1007/978-981-96-8298-0_19) [[code]](https://github.com/SchenbergZY/GDCK)
 - [arXiv 2025] Towards Pre-trained Graph Condensation
 via Optimal Transport. [[pdf]](https://arxiv.org/pdf/2509.14722)
