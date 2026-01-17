@@ -26,6 +26,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 (APP): Application Paper of Graph Reduction
 
 ## Graph Condensation / Graph Dataset Distillation
+- ![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369)**[KDD 2026] Scalable Graph Condensation with Evolving Capabilities. [[pdf]](https://arxiv.org/abs/2502.17614)**
+- [ICML 2025] Efficient Graph Continual Learning via Lightweight Graph Neural Tangent [[pdf]](https://openreview.net/pdf?id=JblpkLmvPg) [[code]](https://github.com/Artessay/LightGNTK)
 - [TKDE 2025] RobGC: Towards Robust Graph Condensation. [[pdf]](https://arxiv.org/pdf/2406.13200) [[code]](https://github.com/XYGaoG/RobGC)
 - [NeurIPS 2025] Robust Graph Condensation via Classification Complexity Mitigation. [[pdf]](https://arxiv.org/pdf/2510.26451) [[code]](https://github.com/RingBDStack/MRGC)
 - [PAKDD 2025] GDCK: Efficient Large-Scale Graph Distillation Utilizing a Model-Free Kernelized Approach. [[pdf]](https://link.springer.com/chapter/10.1007/978-981-96-8298-0_19) [[code]](https://github.com/SchenbergZY/GDCK)
@@ -35,7 +37,6 @@ via Optimal Transport. [[pdf]](https://arxiv.org/pdf/2509.14722)
 - [ICML 2025] (APP) GCAL: Adapting Graph Models to Evolving Domain Shifts. [[pdf]](https://arxiv.org/abs/2505.16860v1) [[code]](https://github.com/joe817/GCAL)
 - [AAAI 2025] Structure Balance and Gradient Matching-Based Signed Graph Condensation. [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/33320/35475) [[code]](https://github.com/BaoFit/SGSGC)
 - [AAAI 2025] Federated Graph Condensation with Information Bottleneck Principles. [[pdf]](https://arxiv.org/pdf/2405.03911) [[code]](https://github.com/BUPT-GAMMA/FedGC)
-- [arXiv 2025] Scalable Graph Condensation with Evolving Capabilities. [[pdf]](https://arxiv.org/abs/2502.17614)
 - [arXiv 2025] Efficient Graph Condensation via Gaussian Process. [[pdf]](https://arxiv.org/pdf/2501.02565) [[code]](https://github.com/WANGLin0126/GCGP)
 - [arXiv 2025] (App) GraphDART: Graph Distillation for Efficient Advanced Persistent Threat Detection. [[pdf]](https://arxiv.org/pdf/2501.02796)
 - [AAAI 2025] Bi-Directional Multi-Scale Graph Dataset Condensation via Information Bottleneck. [[pdf]](https://arxiv.org/abs/2412.17355) [[code]](https://github.com/RingBDStack/BiMSGC)
@@ -231,6 +232,7 @@ Other related topics
 
 ## Toolkits
 
+- ![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369)**GraphSlim: [[code]](https://github.com/Emory-Melody/GraphSlim)**
 - Mongoose: [[pdf]](https://people.clas.ufl.edu/hager/files/mongoose.pdf) [[code]](https://github.com/ScottKolo/Mongoose)
 - PyGSP: [[code]](https://github.com/epfl-lts2/pygsp)
 - Graph-tool: [[code]](https://graph-tool.skewed.de/)
