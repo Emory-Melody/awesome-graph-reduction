@@ -27,7 +27,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ## Graph Condensation / Graph Dataset Distillation
 - ![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369)**[KDD 2026] Scalable Graph Condensation with Evolving Capabilities. [[pdf]](https://arxiv.org/abs/2502.17614)**
-- [ICML 2025] Efficient Graph Continual Learning via Lightweight Graph Neural Tangent [[pdf]](https://openreview.net/pdf?id=JblpkLmvPg) [[code]](https://github.com/Artessay/LightGNTK)
+- [ICML 2025] Efficient Graph Continual Learning via Lightweight Graph Neural Tangent Kernels-based Dataset Distillation [[pdf]](https://openreview.net/pdf?id=JblpkLmvPg) [[code]](https://github.com/Artessay/LightGNTK)
 - [TKDE 2025] RobGC: Towards Robust Graph Condensation. [[pdf]](https://arxiv.org/pdf/2406.13200) [[code]](https://github.com/XYGaoG/RobGC)
 - [NeurIPS 2025] Robust Graph Condensation via Classification Complexity Mitigation. [[pdf]](https://arxiv.org/pdf/2510.26451) [[code]](https://github.com/RingBDStack/MRGC)
 - [PAKDD 2025] GDCK: Efficient Large-Scale Graph Distillation Utilizing a Model-Free Kernelized Approach. [[pdf]](https://link.springer.com/chapter/10.1007/978-981-96-8298-0_19) [[code]](https://github.com/SchenbergZY/GDCK)
