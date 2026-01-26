@@ -26,6 +26,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 (APP): Application Paper of Graph Reduction
 
 ## Graph Condensation / Graph Dataset Distillation
+
+- [TKDE 2026] DeepCGC: Unveiling the Deep Clustering Mechanism of Fast Graph Condensation [[pdf]](https://ieeexplore.ieee.org/abstract/document/11359095) [[code]](https://github.com/XYGaoG/DeepCGC)
 - [arXiv 2026] Efficient PLGC: Pseudo-Labeled Graph Condensation [[pdf]](https://arxiv.org/pdf/2601.10358)
 - ![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369)**[KDD 2026] Scalable Graph Condensation with Evolving Capabilities. [[pdf](https://arxiv.org/abs/2502.17614) [[code]](https://github.com/rockcor/GECC)**
 - [ICML 2025] Efficient Graph Continual Learning via Lightweight Graph Neural Tangent Kernels-based Dataset Distillation [[pdf]](https://openreview.net/pdf?id=JblpkLmvPg) [[code]](https://github.com/Artessay/LightGNTK)
