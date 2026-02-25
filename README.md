@@ -27,6 +27,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ## Graph Condensation / Graph Dataset Distillation
 
+- [WSDM 2026] Multi-view Graph Condensation via Tensor Decomposition [[pdf]](https://dl.acm.org/doi/10.1145/3773966.3777968) [[code]](https://github.com/nicolasrsantos/gctd)
+- [WSDM 2026] Towards Multifaceted Graph Condensation in Discrete Realm [[pdf]](https://dl.acm.org/doi/10.1145/3773966.3777965) [[code]](https://github.com/Yejunda/DGC)
 - [TKDE 2026] DeepCGC: Unveiling the Deep Clustering Mechanism of Fast Graph Condensation [[pdf]](https://ieeexplore.ieee.org/abstract/document/11359095) [[code]](https://github.com/XYGaoG/DeepCGC)
 - [arXiv 2026] Efficient PLGC: Pseudo-Labeled Graph Condensation [[pdf]](https://arxiv.org/pdf/2601.10358)
 - ![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369)**[KDD 2026] Scalable Graph Condensation with Evolving Capabilities. [[pdf](https://arxiv.org/abs/2502.17614) [[code]](https://github.com/rockcor/GECC)**
