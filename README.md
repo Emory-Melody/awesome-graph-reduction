@@ -2,6 +2,13 @@
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/ChandlerBang/awesome-graph-reduction?color=yellow)
 
+> [!TIP]
+> **[GraphSlim — Our Graph Reduction Library](https://github.com/Emory-Melody/GraphSlim)**
+>
+> A PyTorch library for graph sparsification, coarsening, and condensation.
+>
+> [![Explore GraphSlim on GitHub](https://img.shields.io/badge/Explore_GraphSlim-GitHub-0969da?style=for-the-badge&logo=github)](https://github.com/Emory-Melody/GraphSlim)
+
 [IJCAI 2024] This is a curated list of papers about graph reduction including graph condensation, graph coarsening, graph sparsification, graph summarization, etc.
 
 If you want to add new entries, please make PRs with the same format.
@@ -27,17 +34,30 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ## Graph Condensation / Graph Dataset Distillation
 
+- [IJCAI 2026] Similarity-Guided Structural Matching Learning for Graph Dataset Condensation. [[paper]](https://www.ijcai.org/proceedings/2026/597)
+- [KDD 2026] Semi-Supervised Text-Attributed Graph Distillation. [[paper]](https://arxiv.org/abs/2607.20477)
+- [KDD 2026] Decoupling and Damping: Structurally-Regularized Gradient Matching for Multimodal Graph Condensation. [[paper]](https://arxiv.org/abs/2511.20222)
+- [WWW 2026] Text-attributed Graph Condensation via Text Selection and Attribute Matching. [[paper]](https://arxiv.org/abs/2606.03839)
+- [arXiv 2026] (APP) CA-DGCL: Dynamic Graph Continual Learning via Condensation and Attachment. [[paper]](https://arxiv.org/abs/2607.11112)
+- [arXiv 2026] An Efficient and Scalable Graph Condensation with Structure-Preserving. [[paper]](https://arxiv.org/abs/2605.31016)
+- [ICML 2026] (APP) DANCE: Dynamic, Available, Neighbor-gated Condensation for Federated Text-Attributed Graphs. [[paper]](https://proceedings.mlr.press/v306/chen26cr.html)
+- [ICML 2026] Anchor-guided Hypergraph Condensation with Dual-level Discrimination. [[paper]](https://proceedings.mlr.press/v306/li26gi.html)
+- [arXiv 2026] Transferable Graph Condensation from the Causal Perspective. [[paper]](https://arxiv.org/abs/2601.21309)
 - [WSDM 2026] Multi-view Graph Condensation via Tensor Decomposition [[pdf]](https://dl.acm.org/doi/10.1145/3773966.3777968) [[code]](https://github.com/nicolasrsantos/gctd)
 - [WSDM 2026] Towards Multifaceted Graph Condensation in Discrete Realm [[pdf]](https://dl.acm.org/doi/10.1145/3773966.3777965) [[code]](https://github.com/Yejunda/DGC)
 - [TKDE 2026] DeepCGC: Unveiling the Deep Clustering Mechanism of Fast Graph Condensation [[pdf]](https://ieeexplore.ieee.org/abstract/document/11359095) [[code]](https://github.com/XYGaoG/DeepCGC)
 - [arXiv 2026] Efficient PLGC: Pseudo-Labeled Graph Condensation [[pdf]](https://arxiv.org/pdf/2601.10358)
-- ![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369)**[KDD 2026] Scalable Graph Condensation with Evolving Capabilities. [[pdf](https://arxiv.org/abs/2502.17614) [[code]](https://github.com/rockcor/GECC)**
+- ![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369)**[KDD 2026] Scalable Graph Condensation with Evolving Capabilities. [[pdf]](https://arxiv.org/abs/2502.17614) [[code]](https://github.com/rockcor/GECC)**
+- [KDD 2025] Simple yet Effective Graph Distillation via Clustering. [[paper]](https://arxiv.org/abs/2505.20807)
+- [ICML 2025] Adapting Precomputed Features for Efficient Graph Condensation. [[paper]](https://proceedings.mlr.press/v267/li25aa.html)
+- [ICLR 2025] ST-GCond: Self-supervised and Transferable Graph Dataset Condensation. [[paper]](https://proceedings.iclr.cc/paper_files/paper/2025/hash/2e8eaf43f20948ad878e6b8902797d1e-Abstract-Conference.html)
+- [ACML 2025] Data-Centric Graph Condensation via Diffusion Matching. [[paper]](https://proceedings.mlr.press/v304/zhang26b.html)
+- [arXiv 2025] Dynamic Graph Condensation. [[paper]](https://arxiv.org/abs/2506.13099)
 - [ICML 2025] Efficient Graph Continual Learning via Lightweight Graph Neural Tangent Kernels-based Dataset Distillation [[pdf]](https://openreview.net/pdf?id=JblpkLmvPg) [[code]](https://github.com/Artessay/LightGNTK)
 - [TKDE 2025] RobGC: Towards Robust Graph Condensation. [[pdf]](https://arxiv.org/pdf/2406.13200) [[code]](https://github.com/XYGaoG/RobGC)
 - [NeurIPS 2025] Robust Graph Condensation via Classification Complexity Mitigation. [[pdf]](https://arxiv.org/pdf/2510.26451) [[code]](https://github.com/RingBDStack/MRGC)
 - [PAKDD 2025] GDCK: Efficient Large-Scale Graph Distillation Utilizing a Model-Free Kernelized Approach. [[pdf]](https://link.springer.com/chapter/10.1007/978-981-96-8298-0_19) [[code]](https://github.com/SchenbergZY/GDCK)
-- [arXiv 2025] Towards Pre-trained Graph Condensation
-via Optimal Transport. [[pdf]](https://arxiv.org/pdf/2509.14722)
+- [NeurIPS 2025] Towards Pre-trained Graph Condensation via Optimal Transport. [[paper]](https://papers.nips.cc/paper_files/paper/2025/hash/aee5298251a418aad89618cf6b5e7ccc-Abstract-Conference.html)
 - [KDD 2025] Progressive Stacking for Scalable Graph Condensation. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3711896.3737090)
 - [ICML 2025] (APP) GCAL: Adapting Graph Models to Evolving Domain Shifts. [[pdf]](https://arxiv.org/abs/2505.16860v1) [[code]](https://github.com/joe817/GCAL)
 - [AAAI 2025] Structure Balance and Gradient Matching-Based Signed Graph Condensation. [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/33320/35475) [[code]](https://github.com/BaoFit/SGSGC)
@@ -46,13 +66,10 @@ via Optimal Transport. [[pdf]](https://arxiv.org/pdf/2509.14722)
 - [arXiv 2025] (App) GraphDART: Graph Distillation for Efficient Advanced Persistent Threat Detection. [[pdf]](https://arxiv.org/pdf/2501.02796)
 - [AAAI 2025] Bi-Directional Multi-Scale Graph Dataset Condensation via Information Bottleneck. [[pdf]](https://arxiv.org/abs/2412.17355) [[code]](https://github.com/RingBDStack/BiMSGC)
 - [arXiv 2024] Contrastive Graph Condensation: Advancing Data Versatility through Self-Supervised Learning. [[pdf]](https://arxiv.org/abs/2411.17063)
-- [arXiv 2024] Attend Who is Weak: Enhancing Graph Condensation via Cross-Free Adversarial Training. [[pdf]](https://arxiv.org/pdf/2311.15772)
-- [arXiv 2024] Bonsai: Gradient-free Graph Distillation for Node Classification. [[pdf]](https://arxiv.org/abs/2410.17579)
 - [ECCV 2024] GSTAM: Efficient Graph Distillation with Structural Attention-Matching. [[pdf]](https://arxiv.org/pdf/2408.16871) [[code]](https://github.com/arashrasti96/GSTAM)
 - [KDD 2024] Self-Supervised Learning for Graph Dataset Condensation. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3637528.3671682) [[code]](https://github.com/wyx11112/SGDC)
 - [arXiv 2024] Backdoor Graph Condensation. [[pdf]](https://arxiv.org/abs/2407.11025)
 - [arXiv 2024] TinyGraph: Joint Feature and Node Condensation for Graph Neural Networks. [[pdf]](https://arxiv.org/abs/2407.08064)
-- [arXiv 2024] RobGC: Towards Robust Graph Condensation. [[pdf]](https://arxiv.org/pdf/2406.13200)
 - [KDD 2024] Graph Condensation for Open-World Graph Learning. [[pdf]](https://arxiv.org/html/2405.17003v1)
 - [ICML 2024] Graph Distillation with Eigenbasis Matching. [[pdf]](https://arxiv.org/pdf/2310.09202.pdf) [[code]](https://github.com/liuyang-tian/GDEM)
 - [ICLR 2024] Mirage: Model-Agnostic Graph Distillation for Graph Classification. [[pdf]](https://openreview.net/pdf?id=78iGZdqxYY) [[code]](https://github.com/idea-iitd/Mirage)
@@ -91,6 +108,13 @@ via Optimal Transport. [[pdf]](https://arxiv.org/pdf/2509.14722)
 ## Graph Coarsening / Clustering / Summary
 
 ### GNN-involved
+- [arXiv 2026] (APP) CoRe-GNN: Multilevel Message passing on Coarsened graphs. [[paper]](https://arxiv.org/abs/2608.02128)
+- [arXiv 2026] Rethinking Efficient Graph Coarsening via a Non-Selfishness Principle. [[paper]](https://arxiv.org/abs/2605.13021)
+- [ICML 2026] Scalable Topology-Preserving Graph Coarsening: Concepts and Algorithms. [[paper]](https://proceedings.mlr.press/v306/wu26ac.html)
+- [ICML 2026] Adapting to Evolving Graphs: A Scalable Framework for Dynamic Coarsening. [[paper]](https://proceedings.mlr.press/v306/gupta26b.html)
+- [UAI 2026] (APP) Remedying Coarsening-Based GNN Training under Heterophily via Adaptive Complementary Enhancement. [[paper]](https://proceedings.mlr.press/v337/li26j.html)
+- [arXiv 2026] (APP) CondenseGraph: Communication-Efficient Distributed GNN Training via On-the-Fly Graph Condensation. [[paper]](https://arxiv.org/abs/2601.17774)
+- [AAAI 2025] Graph Coarsening via Supervised Granular-Ball for Scalable Graph Neural Network Training. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33404)
 - [arXiv 2025] Adaptive Graph Coarsening for Efficient GNN Training. [[pdf]](https://arxiv.org/pdf/2509.25706) [[code]](https://github.com/RostyslavUA/graph_koarsening)
 - [arXiv 2025] Efficient Learning on Large Graphs using a Densifying Regularity Lemma. [[pdf]](https://arxiv.org/pdf/2504.18273)
 - [Nature Communications] Coarse-graining network flow through statistical physics and machine learning. [[pdf]](https://www.nature.com/articles/s41467-025-56034-2) [[code]](https://github.com/3riccc/nfc_model)
@@ -129,6 +153,7 @@ via Optimal Transport. [[pdf]](https://arxiv.org/pdf/2509.14722)
 <details>
 <summary>non-GNN-involved</summary>
 
+- [arXiv 2026] (APP) Graph Coarsening Enables Escaping Local Optima in Compute-Constrained Nonconvex MAX-CUT. [[paper]](https://arxiv.org/abs/2610.19043)
 - [arXiv 2025] GBGC: Efficient and Adaptive Graph Coarsening via Granular-ball Computing. [[pdf]](https://arxiv.org/pdf/2506.19224) [[code]](https://anonymous.4open.science/r/GBGC/README.md)
 - [AISTATS 2020] Graph Coarsening with Preserved Spectral Properties. [[pdf]](https://arxiv.org/pdf/1802.04447.pdf)
 - [NeurIPS 2019] A unifying framework for spectrum-preserving graph sparsification and coarsening. [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2019/file/cd474f6341aeffd65f93084d0dae3453-Paper.pdf) [[code]](https://github.com/TheGravLab/A-Unifying-Framework-for-Spectrum-Preserving-Graph-Sparsification-and-Coarsening)
@@ -162,13 +187,19 @@ via Optimal Transport. [[pdf]](https://arxiv.org/pdf/2509.14722)
 <!-- - [arXiv 2024] Two Heads Are Better Than One:Boosting Graph Sparse Training via Semantic and Topological Awareness. [[pdf]](https://arxiv.org/pdf/2402.01242.pdf) [[code]](https://anonymous.4open.science/r/GST-0F15)
 - [TPAMI 2023] Graph Neural Network Meets Sparse Representation: Graph Sparse Neural Networks via Exclusive Group Lasso. [[pdf]](https://ieeexplore.ieee.org/document/10149528)-->
 
+- [arXiv 2026] EDiS: Edge Disjoint Subgraph Sparsification Framework for Graph Neural Networks. [[paper]](https://arxiv.org/abs/2610.09059)
+- [arXiv 2026] Scaffold: Support Graph Theory Based Sparsification for Graph Neural Networks. [[paper]](https://arxiv.org/abs/2609.31466)
+- [WWW 2026] Explainable Graph Sparsification with Shapley Values. [[paper]](https://doi.org/10.1145/3774904.3792909) [[code]](https://github.com/HipGraph/ExplainableGraphSparsification)
+- [arXiv 2026] HERALD: High-Fidelity Exemplar Retrieval with Adaptive Landmark Distillation for Heterophily-Aware Graph Condensation. [[paper]](https://arxiv.org/abs/2609.11123)
+- [KDD 2026] SGS-GNN: A Supervised Graph Sparsifier for Graph Neural Networks. [[paper]](https://doi.org/10.1145/3770855.3818110)
+- [ICML 2025] Mitigating Over-Squashing in Graph Neural Networks by Spectrum-Preserving Sparsification. [[paper]](https://proceedings.mlr.press/v267/liang25a.html)
+- [ICML 2025] Unifews: You Need Fewer Operations for Efficient Graph Neural Networks. [[paper]](https://proceedings.mlr.press/v267/liao25h.html)
+- [ICLR 2025] Bonsai: Gradient-free Graph Condensation for Node Classification. [[paper]](https://proceedings.iclr.cc/paper_files/paper/2025/hash/a68013a792eb31fa92b45b9dabf907dd-Abstract-Conference.html)
 - [ICLR 2025] Graph Sparsification via Mixture of Graphs [[pdf]](https://arxiv.org/abs/2405.14260) [[code]](https://github.com/yanweiyue/MoG)
-- [arXiV 2025] SGS-GNN: A Supervised Graph Sparsification method for Graph Neural Networks. [[pdf]](https://arxiv.org/pdf/2501.04570#page=13.84) [[code]](https://github.com/anonymousauthors001/SGS-GNN/)
 - [KDD 2025] Large-Scale Spectral Graph Neural Networks via Laplacian Sparsification: Technical Report. [[pdf]](https://arxiv.org/pdf/2501.04570#page=13.84)
 - [VLDB 2024] Size Does (Not) Matter? Sparsification and Graph Neural Network Sampling for Large-scale Graphs. [[pdf]](https://vldb.org/workshops/2024/proceedings/LSGDA/LSGDA24.06.pdf#page=1.31)
 - [VLDB 2024] Demystifying Graph Sparsification Algorithms in Graph
   Properties Preservation. [[pdf]](https://arxiv.org/pdf/2311.12314) [[code]](https://github.com/yuhanchan/sparsification)
-- [arXiv 2024] Graph Sparsification via Mixture of Graphs. [[pdf]](https://arxiv.org/pdf/2405.14260) [[code]](https://github.com/yanweiyue/MoG)
 - [arXiv 2024] Spectral Greedy Coresets for Graph Neural Networks. [[pdf]](https://arxiv.org/pdf/2405.17404)
 - [TKDE 2024] Graph Rewiring and Preprocessing for Graph Neural Networks Based on Effective Resistance. [[pdf]](https://ieeexplore.ieee.org/abstract/document/10521752)
 - [KDD 2023] Interpretable Sparsification of Brain Graphs: Better Practices and Effective Designs for Graph Neural Networks. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599394) [[code]](https://github.com/motivationss/IGS)
@@ -186,6 +217,11 @@ via Optimal Transport. [[pdf]](https://arxiv.org/pdf/2509.14722)
 <details>
 <summary>non-GNN-involved</summary>
 
+- [ICLR 2026] Nearly Space-Optimal Graph and Hypergraph Sparsification in Insertion-Only Data Streams. [[paper]](https://proceedings.iclr.cc/paper_files/paper/2026/hash/51d06be858cae042716d876e90ce505f-Abstract-Conference.html)
+- [arXiv 2026] (APP) Machine Learning-based Two-Stage Graph Sparsification for the Travelling Salesman Problem. [[paper]](https://arxiv.org/abs/2604.20236)
+- [ICML 2025] Breaking the $n^1.5$ Additive Error Barrier for Private and Efficient Graph Sparsification via Private Expander Decomposition. [[paper]](https://proceedings.mlr.press/v267/aamand25b.html)
+- [NeurIPS 2025] Structure-Aware Spectral Sparsification via Uniform Edge Sampling. [[paper]](https://proceedings.neurips.cc/paper_files/paper/2025/hash/45fb0a1934329ade4316f74bac75860f-Abstract-Conference.html)
+- [AISTATS 2025] Empirical Error Estimates for Graph Sparsification. [[paper]](https://proceedings.mlr.press/v258/wang25a.html)
 - [Information Sciences 2024] Generic network sparsification via degree- and subgraph-based edge sampling. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0020025524010107)
 - [STOC 2019] A General Framework for Graph Sparsification. [[pdf]](https://arxiv.org/pdf/1004.4080.pdf)
 - [NeurIPS 2019] (Privacy) On Differentially Private Graph Sparsification and Applications. [[pdf]](https://papers.nips.cc/paper_files/paper/2019/file/e44e875c12109e4fa3716c05008048b2-Paper.pdf)
@@ -214,7 +250,6 @@ via Optimal Transport. [[pdf]](https://arxiv.org/pdf/2509.14722)
 Graph Reduction/ Summarization / Simplification
 - ![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369)**[NeurIPS 2025] GC4NC: A Benchmark Framework for Graph Condensation on Node Classification with New Insights. [[pdf]](https://arxiv.org/pdf/2406.16715?) [[code]](https://github.com/Emory-Melody/GraphSlim/tree/main/benchmark)**
 - [arXiv 2024] Extending Graph Condensation to Multi-Label Datasets: A Benchmark Study. [[pdf]](https://arxiv.org/pdf/2412.17961)
-- [arXiv 2024] GC4NC: A Benchmark Framework for Graph Condensation on Node Classification with New Insights. [[pdf]](https://arxiv.org/abs/2406.16715) [[code]](https://github.com/Emory-Melody/GraphSlim/tree/main/benchmark)
 - ![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369)**[IJCAI 2024] A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation. [[pdf]](https://arxiv.org/abs/2402.03358)**
 - [NeurIPS 2024] GC-Bench: [[pdf]](https://openreview.net/pdf?id=ScPgzCZ6Lo) [[code]](https://github.com/RingBDStack/GC-Bench)
 - [arXiv 2024] GCondenser: Benchmarking Graph Condensation. [[pdf]](https://arxiv.org/pdf/2405.14246) [[code]](https://github.com/superallen13/GCondenser)
