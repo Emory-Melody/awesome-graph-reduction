@@ -33,7 +33,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 (APP): Application Paper of Graph Reduction
 
 ## Graph Condensation / Graph Dataset Distillation
-
+- [EMNLP 2026 Findings] TaLK: Text-attributed Graph Dataset Distillation via Coupling Language Model with Graph-Aware Kernel. [[paper]](https://aclanthology.org/2026.findings-emnlp.31/) [[code]](https://github.com/thisis05/TaLK)
 - [IJCAI 2026] Similarity-Guided Structural Matching Learning for Graph Dataset Condensation. [[paper]](https://www.ijcai.org/proceedings/2026/597)
 - [KDD 2026] Semi-Supervised Text-Attributed Graph Distillation. [[paper]](https://arxiv.org/abs/2607.20477) [[code]](https://github.com/laiyurui/STAD-Semi-Supervised-Text-Attributed-Graph-Distillation)
 - [KDD 2026] Decoupling and Damping: Structurally-Regularized Gradient Matching for Multimodal Graph Condensation. [[paper]](https://arxiv.org/abs/2511.20222)
